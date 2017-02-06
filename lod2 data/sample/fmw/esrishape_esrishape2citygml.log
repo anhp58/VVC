@@ -1,0 +1,352 @@
+2017-02-06 17:25:42|   0.1|  0.1|INFORM|FME 2016.1.3.0 (20161103 - Build 16709 - WIN64)
+2017-02-06 17:25:42|   0.1|  0.0|INFORM|FME_HOME is 'E:\SETUP FOLDER\FME\'
+2017-02-06 17:25:42|   0.1|  0.0|INFORM|FME Desktop Smallworld Edition (floating)
+2017-02-06 17:25:42|   0.1|  0.0|INFORM|Permanent License.
+2017-02-06 17:25:42|   0.1|  0.0|INFORM|Machine host name is: DESKTOP-PC43V6K
+2017-02-06 17:25:42|   0.1|  0.0|INFORM|START - ProcessID: 5840, peak process memory usage: 31320 kB, current process memory usage: 31320 kB
+2017-02-06 17:25:42|   0.1|  0.0|INFORM|FME Configuration: Command line arguments are `E:\SETUP FOLDER\FME\fme.exe' `F:/4d gis/fmw/lod2 data/sample/fmw\wb-xlate-1486376741813_11224' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{18a94529-d550-41db-8ed4-5e1e569b91cb}'
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|Shared folders for formats are : E:\SETUP FOLDER\FME\datasources;C:\Users\ACER\Documents\FME\Formats
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|Shared folders for transformers are : E:\SETUP FOLDER\FME\transformers;C:\Users\ACER\AppData\Roaming\Safe Software\FME\FME Store\Transformers;C:\Users\ACER\Documents\FME\Transformers
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\ACER\Documents\FME\CoordinateSystems
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\ACER\Documents\FME\CoordinateSystemExceptions
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\ACER\Documents\FME\CoordinateSystemGridOverrides
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\ACER\Documents\FME\CsmapTransformationExceptions
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\ACER\Documents\FME\TransformerCategories
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|FME Configuration: Current working folder is `F:\4d gis\fmw\lod2 data\sample\fmw'
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\ACER\AppData\Local\Temp'
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|FME Configuration: FME_HOME is `E:\SETUP FOLDER\FME\'
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'F:\4d gis\fmw\lod2 data\sample\fmw/'
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'esrishape_esrishape2citygml.fmw'
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2016.1.3.0'
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|System Status: 3.29 GB of disk space available in the FME temporary folder (C:\Users\ACER\AppData\Local\Temp)
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|System Status: 128.00 TB of virtual memory available
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|Operating System: Microsoft Windows 10 64-bit  (Build 10586)
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|FME Platform: WIN64
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|Locale: en_US
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|Code Page: 1252  (ANSI - Latin I)
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|FME Configuration: Process limits are 3.80 GB of physical memory and 128.00 TB of address space
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|FME Configuration: Start freeing memory when process usage exceeds 11.40 GB of memory or 128.00 TB of address space
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|FME Configuration: Stop freeing memory when process usage is below 8.55 GB of memory and 96.00 TB of address space
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|Creating writer for format: 
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|Creating reader for format: 
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding ESRISHAPE Reader with keyword ESRISHAPE_1
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding ESRISHAPE Reader with keyword ESRISHAPE_2
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|Using Multi Reader $Revision$ ( $Date$ ) with keyword `MULTI_READER' to read multiple datasets
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|Creating reader for format: Esri Shapefile
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|FME Configuration: Source coordinate system for reader ESRISHAPE_1[ESRISHAPE] set to `LL-WGS84'
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|Coordinate System `LL-WGS84' parameters: CS_NAME=`LL-WGS84' DESC_NM=`WGS84 Lat/Longs' DT_NAME=`WGS84' GROUP=`LL' MAP_SCL=`1' PROJ=`LL' QUAD=`1' SCL_RED=`1' UNIT=`DEGREE' 
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|Using Shape Reader $Revision$ ( $Date$ ) to read shape files from folder `F:\4d gis\fmw\lod2 data\sample/'
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|ESRISHAPE_1 Reader: Using enhanced geometry
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|Shape Reader: Using simple donut geometry detection
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|Shape Reader: Allowing attribute names with mixed case
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|Opened Shape File 'F:\4d gis\fmw\lod2 data\sample\sample.shp' for input
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|Opened DBF File 'F:\4d gis\fmw\lod2 data\sample\sample.dbf' for input
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|DBF Reader: Could not detect encoding. Using default system encoding
+2017-02-06 17:25:42|   0.2|  0.0|INFORM|DBF File 'F:\4d gis\fmw\lod2 data\sample\sample.dbf' has fields: id number(9,0), roof_heigh number(9,0), name char(50), roof_type char(50), height number(4,0)
+2017-02-06 17:25:42|   0.5|  0.3|INFORM|The OGC definition of the FME coordinate system '_LL-WGS84_0' is 'GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]'
+2017-02-06 17:25:42|   0.5|  0.0|WARN  |NOT changing coordinate system of reader identified by keyword `ESRISHAPE_1' from `LL-WGS84' to `_LL-WGS84_0' -- mapping file setting of `LL-WGS84' overrides coordinate system `_LL-WGS84_0' read from file
+2017-02-06 17:25:42|   0.5|  0.0|INFORM|Shape Reader: Bounding box of shapefile `F:\4d gis\fmw\lod2 data\sample\SAMPLE' is: (105.784171507442,21.0389395382272),(105.784896053319,21.0392857498036)
+2017-02-06 17:25:42|   0.5|  0.0|INFORM|Shape Reader: Bounding box of shapefile(s) selected from folder `F:\4d gis\fmw\lod2 data\sample/' is: (105.784171507442,21.0389395382272),(105.784896053319,21.0392857498036)
+2017-02-06 17:25:42|   0.5|  0.0|INFORM|Using MultiWriter $Revision$ ( $Date$ ) with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2017-02-06 17:25:42|   0.5|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2017-02-06 17:25:42|   0.5|  0.0|INFORM|Loaded module 'LogCount_func' from file 'E:\SETUP FOLDER\FME\plugins/LogCount_func.dll'
+2017-02-06 17:25:42|   0.5|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20160224)
+2017-02-06 17:25:42|   0.5|  0.0|INFORM|Creating writer for format: FME Feature Store (FFS)
+2017-02-06 17:25:42|   0.5|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2017-02-06 17:25:42|   0.5|  0.0|INFORM|Loaded module 'UUID_func' from file 'E:\SETUP FOLDER\FME\plugins/UUID_func.dll'
+2017-02-06 17:25:42|   0.5|  0.0|INFORM|FME API version of module 'UUID_func' matches current internal version (3.8 20160224)
+2017-02-06 17:25:42|   0.5|  0.0|INFORM|Loaded module 'AttributeFilterFactory' from file 'E:\SETUP FOLDER\FME\plugins/AttributeFilterFactory.dll'
+2017-02-06 17:25:42|   0.5|  0.0|INFORM|FME API version of module 'AttributeFilterFactory' matches current internal version (3.8 20160224)
+2017-02-06 17:25:42|   0.5|  0.0|INFORM|FME API version of module 'AttributeFilterFactory' matches current internal version (3.8 20160224)
+2017-02-06 17:25:42|   0.5|  0.0|INFORM|Loaded module 'VertexCreatorFactory' from file 'E:\SETUP FOLDER\FME\plugins/VertexCreatorFactory.dll'
+2017-02-06 17:25:42|   0.5|  0.0|INFORM|FME API version of module 'VertexCreatorFactory' matches current internal version (3.8 20160224)
+2017-02-06 17:25:42|   0.5|  0.0|INFORM|Loaded module 'GeometryBuilderFactory' from file 'E:\SETUP FOLDER\FME\plugins/GeometryBuilderFactory.dll'
+2017-02-06 17:25:42|   0.5|  0.0|INFORM|FME API version of module 'GeometryBuilderFactory' matches current internal version (3.8 20160224)
+2017-02-06 17:25:42|   0.5|  0.0|INFORM|Loaded module 'GQueryFactory' from file 'E:\SETUP FOLDER\FME\plugins/GQueryFactory.dll'
+2017-02-06 17:25:42|   0.5|  0.0|INFORM|FME API version of module 'GQueryFactory' matches current internal version (3.8 20160224)
+2017-02-06 17:25:43|   1.6|  1.1|INFORM|Transformer '' successfully loaded
+2017-02-06 17:25:43|   1.7|  0.0|INFORM|The current FME license has limited the number of workers to `16'
+2017-02-06 17:25:43|   1.7|  0.0|INFORM|TINGenerator: The Parallel processing level of `NO_PARALLELISM' has requested `0' workers
+2017-02-06 17:25:43|   1.7|  0.0|INFORM|FME API version of module 'GQueryFactory' matches current internal version (3.8 20160224)
+2017-02-06 17:25:44|   1.8|  0.1|INFORM|... Last line repeated 2 times ...
+2017-02-06 17:25:44|   1.8|  0.0|INFORM|Creating writer for format: CityGML
+2017-02-06 17:25:44|   1.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `CITYGML'
+2017-02-06 17:25:44|   1.9|  0.0|INFORM|Loaded module 'CITYGML' from file 'E:\SETUP FOLDER\FME\plugins/CITYGML.dll'
+2017-02-06 17:25:44|   1.9|  0.0|INFORM|FME API version of module 'CITYGML' matches current internal version (3.8 20160224)
+2017-02-06 17:25:44|   1.9|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2017-02-06 17:25:44|   1.9|  0.0|INFORM|FME API version of module 'CITYGML' matches current internal version (3.8 20160224)
+2017-02-06 17:25:44|   1.9|  0.0|INFORM|Writer `CITYGML_1' of type `CITYGML' using group definition keyword `CITYGML_1_DEF'
+2017-02-06 17:25:44|   1.9|  0.0|INFORM|FME API version of module 'CITYGML' matches current internal version (3.8 20160224)
+2017-02-06 17:25:44|   1.9|  0.0|INFORM|CityGML Writer: No Document encoding set, defaulting to UTF-8.
+2017-02-06 17:25:44|   1.9|  0.0|INFORM|The uri-map document 'E:\SETUP FOLDER\FME\xml\urimap\gml_aixm.xml' is being used to map from URI to URI
+2017-02-06 17:25:44|   1.9|  0.0|INFORM|The uri-map document 'E:\SETUP FOLDER\FME\xml\urimap\gml_inspire.xml' is being used to map from URI to URI
+2017-02-06 17:25:44|   1.9|  0.0|INFORM|The uri-map document 'E:\SETUP FOLDER\FME\xml\urimap\gml_urimap.xml' is being used to map from URI to URI
+2017-02-06 17:25:44|   1.9|  0.0|INFORM|The uri-map document 'E:\SETUP FOLDER\FME\xml\urimap\gml_citygml.xml' is being used to map from URI to URI
+2017-02-06 17:25:44|   1.9|  0.0|INFORM|URI 'CityGML.xsd' mapped to 'file:///E:/SETUP FOLDER/FME/xml/schemas/CityGML/CityGML/2.0/CityGML.xsd'
+2017-02-06 17:25:44|   1.9|  0.0|INFORM|Parsing schema document 'file:///E:/SETUP FOLDER/FME/xml/schemas/CityGML/CityGML/2.0/CityGML.xsd' ...
+2017-02-06 17:25:44|   1.9|  0.0|INFORM|A <schemaLocation> in the uri-map is overriding the namespace 'http://www.w3.org/1999/xlink' xsd location from '../xlink/xlinks.xsd' to 'xlink.xsd'
+2017-02-06 17:25:44|   2.0|  0.1|INFORM|Using XSD semantics configuration file 'file:///E:/SETUP FOLDER/FME/xml/CityGML/CityGML_config.xml'.
+2017-02-06 17:25:45|   2.7|  0.7|INFORM|Creating reader for format: XML (Extensible Markup Language)
+2017-02-06 17:25:45|   2.7|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `XML'
+2017-02-06 17:25:45|   2.8|  0.0|INFORM|Loaded module 'XML' from file 'E:\SETUP FOLDER\FME\plugins/XML.dll'
+2017-02-06 17:25:45|   2.8|  0.0|INFORM|FME API version of module 'XML' matches current internal version (3.8 20160224)
+2017-02-06 17:25:45|   2.8|  0.0|INFORM|Opening the XML reader with source dataset 'C:\Users\ACER\AppData\Local\Temp\FME_1486376744859_5840.xfmap'
+2017-02-06 17:25:45|   2.8|  0.0|INFORM|The XML Reader is using xfMap 'E:\SETUP FOLDER\FME\xml\CityGML\CityGML_meta_schema_xfmap.xml'
+2017-02-06 17:25:45|   2.8|  0.0|INFORM|The uri-map document 'E:\SETUP FOLDER\FME\xml\urimap\gml_aixm.xml' is being used to map from URI to URI
+2017-02-06 17:25:45|   2.8|  0.0|INFORM|The uri-map document 'E:\SETUP FOLDER\FME\xml\urimap\gml_citygml.xml' is being used to map from URI to URI
+2017-02-06 17:25:45|   2.8|  0.0|INFORM|The uri-map document 'E:\SETUP FOLDER\FME\xml\urimap\gml_inspire.xml' is being used to map from URI to URI
+2017-02-06 17:25:45|   2.8|  0.0|INFORM|The uri-map document 'E:\SETUP FOLDER\FME\xml\urimap\gml_urimap.xml' is being used to map from URI to URI
+2017-02-06 17:25:45|   3.0|  0.3|INFORM|FME Configuration: Destination coordinate system set to input coordinate system `LL-WGS84'
+2017-02-06 17:25:45|   3.0|  0.0|WARN  |The 'Building' feature with geometry type 'IFMEPolygon' will not be written because the geometry does not have a citygml_lod_name.
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|Creating reader for format: Esri Shapefile
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|FME Configuration: Source coordinate system for reader ESRISHAPE_2[ESRISHAPE] set to `LL-WGS84'
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|Coordinate System `LL-WGS84' parameters: CS_NAME=`LL-WGS84' DESC_NM=`WGS84 Lat/Longs' DT_NAME=`WGS84' GROUP=`LL' MAP_SCL=`1' PROJ=`LL' QUAD=`1' SCL_RED=`1' UNIT=`DEGREE' 
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|Using Shape Reader $Revision$ ( $Date$ ) to read shape files from folder `F:\4d gis\fmw\lod2 data\sample/'
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|ESRISHAPE_2 Reader: Using enhanced geometry
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|Shape Reader: Using simple donut geometry detection
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|Shape Reader: Allowing attribute names with mixed case
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|Opened Shape File 'F:\4d gis\fmw\lod2 data\sample\r_e.shp' for input
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|Opened DBF File 'F:\4d gis\fmw\lod2 data\sample\r_e.dbf' for input
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|DBF Reader: Could not detect encoding. Using default system encoding
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|DBF File 'F:\4d gis\fmw\lod2 data\sample\r_e.dbf' has fields: name char(50), roof_h number(9,0), roof_t char(50), wall_h number(9,0), id number(9,0)
+2017-02-06 17:25:45|   3.1|  0.0|WARN  |NOT changing coordinate system of reader identified by keyword `ESRISHAPE_2' from `LL-WGS84' to `_LL-WGS84_0' -- mapping file setting of `LL-WGS84' overrides coordinate system `_LL-WGS84_0' read from file
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|Shape Reader: Bounding box of shapefile `F:\4d gis\fmw\lod2 data\sample\R_E' is: (105.784235752889,21.0389930760998),(105.784838946254,21.0392322119309)
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|Shape Reader: Bounding box of shapefile(s) selected from folder `F:\4d gis\fmw\lod2 data\sample/' is: (105.784235752889,21.0389930760998),(105.784838946254,21.0392322119309)
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|MULTI_READER(MULTI_READER): Done reading 2 features from 2 readers
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|Emptying factory pipeline
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Router and Unexpected Input Remover(RoutingFactory): Tested 2 input feature(s), wrote 2 output feature(s): 2 matched merge filters, 2 were routed to output, 0 could not be routed.
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Unexpected Input Remover Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |r_e (ESRISHAPE_2) Splitter(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |r_e_ESRISHAPE_2 Feature Counter -1 107(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |sample (ESRISHAPE_1) Splitter(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |sample_ESRISHAPE_1 Feature Counter -1 105(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |UUIDGenerator_2(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |UUIDGenerator_2 OUTPUT Splitter(TeeFactory): Cloned 1 input feature(s) into 4 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |UUIDGenerator_2_OUTPUT_0_BtV2N4jaFPw= Feature Counter -1 50(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |UUIDGenerator_2_OUTPUT_1_auHCD7Yu0A0= Feature Counter -1 51(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |UUIDGenerator_2_OUTPUT_2_8uYTH5+vQ5Q= Feature Counter -1 52(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |UUIDGenerator_2_OUTPUT_3_6ISgP70NO04= Feature Counter -1 53(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter <EMPTY> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter <MISSING> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter <NULL> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter <UNFILTERED> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter hip Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter mansard Splitter(TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter_hip_0_fL+84+ZVyYk= Feature Counter -1 92(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter_hip_1_YN7V/BkLT6Y= Feature Counter -1 93(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter_flat Feature Counter -1 96(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter_mansard_0_Dl03zgAEiY4= Feature Counter -1 98(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter_mansard_1_KlkaOtsQJCA= Feature Counter -1 99(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_9(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_9_Rejector(TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_9 OUTPUT Splitter(TeeFactory): Cloned 1 input feature(s) into 3 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_9_OUTPUT_0_Wk/Zl0XuYss= Feature Counter -1 71(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_9_OUTPUT_1_PeDioAiLa1o= Feature Counter -1 72(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_9_OUTPUT_2_zjptpGsrA6M= Feature Counter -1 73(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_9_<REJECTED> Feature Counter -1 2147680287(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_9_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_3_catcher(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_3(ChoppingFactory): Processed 1 input feature(s), of which 1 feature(s) were chopped up into 5 piece(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_3_OUTPUT Feature Counter -1 77(TeeFactory): Cloned 5 input feature(s) into 5 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_3_<REJECTED> Feature Counter -1 2147680288(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_3_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Sampler(SamplingFactory): Sampled 4 of 5 feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Sampler_Sampled(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Sampler_SAMPLED Feature Counter -1 82(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |FaceReplacer_2_FaceCreator(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |FaceReplacer_2_Rejector(TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2017-02-06 17:25:45|   3.1|  0.0|STATS |FaceReplacer_2_OUTPUT Feature Counter -1 90(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |FaceReplacer_2_<REJECTED> Feature Counter -1 2147680301(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |FaceReplacer_2_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Orientor(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Orientor_Rejector(TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Orientor_ORIENTED Feature Counter -1 88(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Orientor_<REJECTED> Feature Counter -1 2147680299(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Orientor_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_5_catcher(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_5(ChoppingFactory): Processed 1 input feature(s), of which 1 feature(s) were chopped up into 4 piece(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_5_OUTPUT Feature Counter -1 84(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_5_<REJECTED> Feature Counter -1 2147680295(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_5_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeCreator_OUTPUT Feature Counter -1 76(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter_2(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter_2 <EMPTY> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter_2 <MISSING> Output Nuker(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter_2 <NULL> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter_2 <UNFILTERED> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter_2 flat Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter_2_flat_0_lWTsysIxE7I= Feature Counter -1 94(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter_2_flat_1_BesvPtq7Ex4= Feature Counter -1 95(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeFilter_2_mansard Feature Counter -1 97(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_7(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_7_Rejector(TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_7 OUTPUT Splitter(TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_7_OUTPUT_0_5iU/2fcb3ho= Feature Counter -1 74(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_7_OUTPUT_1_4jOWkL1aVDc= Feature Counter -1 75(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_7_<REJECTED> Feature Counter -1 2147680285(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_7_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_4_catcher(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_4(ChoppingFactory): Processed 1 input feature(s), of which 1 feature(s) were chopped up into 5 piece(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_4_OUTPUT Feature Counter -1 79(TeeFactory): Cloned 5 input feature(s) into 5 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_4_<REJECTED> Feature Counter -1 2147680290(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_4_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Sampler_2(SamplingFactory): Sampled 4 of 5 feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Sampler_2_Sampled(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Sampler_2_SAMPLED Feature Counter -1 83(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |f_83(TestFactory): Tested 4 input feature(s) -- 0 feature(s) passed and 4 feature(s) failed
+2017-02-06 17:25:45|   3.1|  0.0|STATS |CoordinateExtractor_PASSED(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-06 17:25:45|   3.1|  0.0|STATS |CoordinateExtractor_FAILED(TestFactory): Tested 4 input feature(s) -- 0 feature(s) passed and 4 feature(s) failed
+2017-02-06 17:25:45|   3.1|  0.0|STATS |CoordinateExtractor_FAILED_PASSED(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-06 17:25:45|   3.1|  0.0|STATS |CoordinateExtractor_OUTPUT Feature Counter -1 80(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|Processing base feature(s)...
+2017-02-06 17:25:45|   3.1|  0.0|STATS |NeighborFinder(ProximityFactory): Input Summary:  4 base feature(s), 4 candidate feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |NeighborFinder(ProximityFactory): Output Summary: 4 matched feature(s), 0 unmatched base feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |NeighborFinder_MATCHED Feature Counter -1 78(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |NeighborFinder_<REJECTED> Feature Counter -1 2147811361(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |NeighborFinder_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |VertexCreator_OUTPUT Feature Counter -1 81(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |VertexCreator_<REJECTED> Feature Counter -1 2147680292(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |VertexCreator_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_6_catcher(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_6(ChoppingFactory): Processed 1 input feature(s), of which 1 feature(s) were chopped up into 4 piece(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_6_OUTPUT Feature Counter -1 85(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_6_<REJECTED> Feature Counter -1 2147680296(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_6_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AreaBuilder_GeomFilter_1(TestFactory): Tested 12 input feature(s) -- 0 feature(s) passed and 12 feature(s) failed
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AreaBuilder_GeomFilter_2(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AreaBuilder_GeomFilter_3(TestFactory): Tested 12 input feature(s) -- 12 feature(s) passed and 0 feature(s) failed
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AreaBuilder_polygonizer(PolygonFactory): Forming polygons from 12 input feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AreaBuilder_polygonizer(PolygonFactory): Formed 5 polygons
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|Done computing spatial closure
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AreaBuilder_donutizer(DonutFactory): Combined 5 input feature(s) into 0 point-in-polygon feature(s), 0 donut polygon(s), 5 polygon(s), 0 line(s), and 0 point(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AreaBuilder_WarnInvalids(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AreaBuilder_AREA Feature Counter -1 86(TeeFactory): Cloned 5 input feature(s) into 5 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AreaBuilder_<REJECTED> Feature Counter -1 2147745833(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AreaBuilder_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |FaceReplacer_3_FaceCreator(TeeFactory): Cloned 5 input feature(s) into 5 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |FaceReplacer_3_Rejector(TestFactory): Tested 5 input feature(s) -- 0 feature(s) passed and 5 feature(s) failed
+2017-02-06 17:25:45|   3.1|  0.0|STATS |FaceReplacer_3_OUTPUT Feature Counter -1 89(TeeFactory): Cloned 5 input feature(s) into 5 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |FaceReplacer_3_<REJECTED> Feature Counter -1 2147680300(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |FaceReplacer_3_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.1|WARN  |f_115(GeometryBuilderFactory): Error encountered while copying traits to generated solids. Output will be left without traits, appearances, measures or attributes
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|FME Configuration: Using FME Reprojection Engine
+2017-02-06 17:25:45|   3.1|  0.0|STATS |SolidBuilder_SOLID Feature Counter -1 87(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |SolidBuilder_<REJECTED> Feature Counter -1 2147745834(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |SolidBuilder_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_5(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_5_Rejector(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_5_OUTPUT Feature Counter -1 67(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_5_<REJECTED> Feature Counter -1 2147680283(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_5_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_2_catcher(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_2(ChoppingFactory): Processed 0 input feature(s), of which 0 feature(s) were chopped up into 0 piece(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_2_OUTPUT Feature Counter -1 69(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_2_<REJECTED> Feature Counter -1 2147680281(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_2_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Extruder_2_ExtrusionCreator(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Extruder_2_OUTPUT Feature Counter -1 70(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_6(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_6_Rejector(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_6_OUTPUT Feature Counter -1 68(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_6_<REJECTED> Feature Counter -1 2147680284(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_6_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |GeometryCoercer_COERCED Feature Counter -1 65(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_4(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_4_Rejector(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_4_OUTPUT Feature Counter -1 64(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_4_<REJECTED> Feature Counter -1 2147680275(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_4_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |CenterLineReplacer(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |CenterLineReplacer_Rejector(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-06 17:25:45|   3.1|  0.0|STATS |CenterLineReplacer_CENTERLINE Feature Counter -1 63(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |CenterLineReplacer_<REJECTED> Feature Counter -1 2147680274(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |CenterLineReplacer_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_3(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_3_Rejector(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_3_OUTPUT Feature Counter -1 62(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_3_<REJECTED> Feature Counter -1 2147680273(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_3_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |TINGenerator_TIN_SURFACE Feature Counter -1 91(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeCreator_3_OUTPUT Feature Counter -1 66(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |GeometryPropertySetter_2_Outputter(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |GeometryPropertySetter_2_SET Feature Counter -1 54(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeCreator_2_OUTPUT Feature Counter -1 48(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_2(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_2_Rejector(TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_2_OUTPUT Feature Counter -1 61(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_2_<REJECTED> Feature Counter -1 2147680272(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |3DForcer_2_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_catcher(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper(ChoppingFactory): Processed 1 input feature(s), of which 1 feature(s) were chopped up into 4 piece(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_OUTPUT Feature Counter -1 56(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_<REJECTED> Feature Counter -1 2147680268(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Chopper_<Rejected>(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Extruder_ExtrusionCreator(TeeFactory): Cloned 5 input feature(s) into 5 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Extruder OUTPUT Splitter(TeeFactory): Cloned 5 input feature(s) into 10 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Extruder_OUTPUT_0_Aqn3HyLuY5k= Feature Counter -1 57(TeeFactory): Cloned 5 input feature(s) into 5 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Extruder_OUTPUT_1_CHec5K8fEOA= Feature Counter -1 58(TeeFactory): Cloned 5 input feature(s) into 5 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeCreator_5_OUTPUT Feature Counter -1 59(TeeFactory): Cloned 5 input feature(s) into 5 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |GeometryPropertySetter_4_Outputter(TeeFactory): Cloned 5 input feature(s) into 5 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |GeometryPropertySetter_4_SET Feature Counter -1 60(TeeFactory): Cloned 5 input feature(s) into 5 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |AttributeCreator_4_OUTPUT Feature Counter -1 49(TeeFactory): Cloned 5 input feature(s) into 5 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |GeometryPropertySetter_3_Outputter(TeeFactory): Cloned 5 input feature(s) into 5 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |GeometryPropertySetter_3_SET Feature Counter -1 55(TeeFactory): Cloned 5 input feature(s) into 5 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Destination Feature Type Routing Correlator(RoutingFactory): Tested 12 input feature(s), wrote 12 output feature(s): 0 matched merge filters, 12 were routed to output, 0 could not be routed.
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Final Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|                     'GlobalVariable' Final State Summary
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|==============================================================================
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|Total Number of Global Variables:                                            0
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-06 17:25:45|   3.1|  0.0|INFORM|Feature output statistics for `FFS' writer using keyword `W_1':
+2017-02-06 17:25:45|   3.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-06 17:25:45|   3.1|  0.0|STATS |                               Features Written
+2017-02-06 17:25:45|   3.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-06 17:25:45|   3.1|  0.0|STATS |==============================================================================
+2017-02-06 17:25:45|   3.1|  0.0|STATS |Total Features Written                                                       0
+2017-02-06 17:25:45|   3.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-06 17:25:45|   3.2|  0.0|WARN  |CityGMLWriter registered 1 messages of type:  The 'Building' feature with geometry type 'IFMEPolygon' will not be written because the geometry does not have a citygml_lod_name.
+2017-02-06 17:25:45|   3.2|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-06 17:25:45|   3.2|  0.0|INFORM|Feature output statistics for `CITYGML' writer using keyword `CITYGML_1':
+2017-02-06 17:25:45|   3.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-06 17:25:45|   3.2|  0.0|STATS |                               Features Written
+2017-02-06 17:25:45|   3.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-06 17:25:45|   3.2|  0.0|STATS |Building                                                                     1
+2017-02-06 17:25:45|   3.2|  0.0|STATS |FloorSurface                                                                 5
+2017-02-06 17:25:45|   3.2|  0.0|STATS |RoofSurface                                                                  1
+2017-02-06 17:25:45|   3.2|  0.0|STATS |WallSurface                                                                  5
+2017-02-06 17:25:45|   3.2|  0.0|STATS |==============================================================================
+2017-02-06 17:25:45|   3.2|  0.0|STATS |Total Features Written                                                      12
+2017-02-06 17:25:45|   3.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-06 17:25:45|   3.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-06 17:25:45|   3.2|  0.0|STATS |                            Features Read Summary
+2017-02-06 17:25:45|   3.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-06 17:25:45|   3.2|  0.0|STATS |r_e                                                                          1
+2017-02-06 17:25:45|   3.2|  0.0|STATS |sample                                                                       1
+2017-02-06 17:25:45|   3.2|  0.0|STATS |==============================================================================
+2017-02-06 17:25:45|   3.2|  0.0|STATS |Total Features Read                                                          2
+2017-02-06 17:25:45|   3.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-06 17:25:45|   3.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-06 17:25:45|   3.2|  0.0|STATS |                           Features Written Summary
+2017-02-06 17:25:45|   3.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-06 17:25:45|   3.2|  0.0|STATS |Building                                                                     1
+2017-02-06 17:25:45|   3.2|  0.0|STATS |FloorSurface                                                                 5
+2017-02-06 17:25:45|   3.2|  0.0|STATS |RoofSurface                                                                  1
+2017-02-06 17:25:45|   3.2|  0.0|STATS |WallSurface                                                                  5
+2017-02-06 17:25:45|   3.2|  0.0|STATS |==============================================================================
+2017-02-06 17:25:45|   3.2|  0.0|STATS |Total Features Written                                                      12
+2017-02-06 17:25:45|   3.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-02-06 17:25:45|   3.2|  0.0|INFORM|Translation was SUCCESSFUL with 5 warning(s) (12 feature(s) output)
+2017-02-06 17:25:45|   3.2|  0.0|INFORM|FME Session Duration: 3.2 seconds. (CPU: 2.6s user, 0.5s system)
+2017-02-06 17:25:45|   3.2|  0.0|INFORM|END - ProcessID: 5840, peak process memory usage: 224872 kB, current process memory usage: 217304 kB

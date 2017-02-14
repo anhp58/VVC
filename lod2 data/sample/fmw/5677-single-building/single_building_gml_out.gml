@@ -456,9 +456,7 @@
 </bldg:lod2MultiSurface>
 </bldg:WallSurface>
 </bldg:boundedBy>
-</bldg:Building>
-</core:cityObjectMember>
-<core:cityObjectMember>
+<bldg:boundedBy>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_is_void">
 <gen:value>no</gen:value>
@@ -562,5 +560,7 @@
 </gml:MultiSurface>
 </bldg:lod2MultiSurface>
 </bldg:RoofSurface>
+</bldg:boundedBy>
+</bldg:Building>
 </core:cityObjectMember>
 </core:CityModel>

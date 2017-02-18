@@ -1,757 +1,84 @@
-2017-02-14 17:08:53|   0.1|  0.1|INFORM|FME 2016.1.3.0 (20161103 - Build 16709 - WIN64)
-2017-02-14 17:08:53|   0.1|  0.0|INFORM|FME_HOME is 'E:\SETUP FOLDER\FME\'
-2017-02-14 17:08:53|   0.1|  0.0|INFORM|FME Desktop Smallworld Edition (floating)
-2017-02-14 17:08:53|   0.1|  0.0|INFORM|Permanent License.
-2017-02-14 17:08:53|   0.1|  0.0|INFORM|Machine host name is: DESKTOP-PC43V6K
-2017-02-14 17:08:53|   0.1|  0.0|INFORM|START - ProcessID: 7576, peak process memory usage: 30564 kB, current process memory usage: 30564 kB
-2017-02-14 17:08:53|   0.1|  0.0|INFORM|FME Configuration: Command line arguments are `E:\SETUP FOLDER\FME\fme.exe' `F:/4d gis/fmw/VVC/lod2 data\wb-xlate-1487066932425_7916' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{f40745a3-00bf-496a-abf1-13e1cdfd528f}'
-2017-02-14 17:08:53|   0.2|  0.1|INFORM|Shared folders for formats are : E:\SETUP FOLDER\FME\datasources;C:\Users\ACER\Documents\FME\Formats
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|Shared folders for transformers are : E:\SETUP FOLDER\FME\transformers;C:\Users\ACER\AppData\Roaming\Safe Software\FME\FME Store\Transformers;C:\Users\ACER\Documents\FME\Transformers
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\ACER\Documents\FME\CoordinateSystems
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\ACER\Documents\FME\CoordinateSystemExceptions
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\ACER\Documents\FME\CoordinateSystemGridOverrides
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\ACER\Documents\FME\CsmapTransformationExceptions
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\ACER\Documents\FME\TransformerCategories
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|FME Configuration: No destination coordinate system set
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|FME Configuration: Current working folder is `F:\4d gis\fmw\VVC\lod2 data'
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\ACER\AppData\Local\Temp'
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|FME Configuration: FME_HOME is `E:\SETUP FOLDER\FME\'
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'F:\4d gis\fmw\VVC\lod2 data/'
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|FME Configuration: FME_MF_NAME is '5675-citygml-sample-lod2-from-shapefile.fmw'
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2016.1.3.0'
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|System Status: 252.88 MB of disk space available in the FME temporary folder (C:\Users\ACER\AppData\Local\Temp)
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|System Status: 128.00 TB of virtual memory available
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|Operating System: Microsoft Windows 10 64-bit  (Build 10586)
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|FME Platform: WIN64
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|Locale: en_US
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|Code Page: 1252  (ANSI - Latin I)
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|FME Configuration: Process limits are 3.80 GB of physical memory and 128.00 TB of address space
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|FME Configuration: Start freeing memory when process usage exceeds 11.40 GB of memory or 128.00 TB of address space
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|FME Configuration: Stop freeing memory when process usage is below 8.55 GB of memory and 96.00 TB of address space
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|Creating writer for format: 
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|Creating reader for format: 
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding ESRISHAPE Reader with keyword ESRISHAPE_1
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding ESRISHAPE Reader with keyword ESRISHAPE_2
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding ESRISHAPE Reader with keyword ESRISHAPE_3
-2017-02-14 17:08:53|   0.2|  0.0|INFORM|Using Multi Reader $Revision$ ( $Date$ ) with keyword `MULTI_READER' to read multiple datasets
-2017-02-14 17:08:53|   0.3|  0.0|INFORM|Creating reader for format: Esri Shapefile
-2017-02-14 17:08:53|   0.3|  0.0|INFORM|Using Shape Reader $Revision$ ( $Date$ ) to read shape files from folder `F:\4d gis\fmw\VVC\lod2 data\DHQG (1)/'
-2017-02-14 17:08:53|   0.3|  0.0|INFORM|ESRISHAPE_1 Reader: Using enhanced geometry
-2017-02-14 17:08:53|   0.3|  0.0|INFORM|Shape Reader: Using simple donut geometry detection
-2017-02-14 17:08:53|   0.3|  0.0|INFORM|Shape Reader: Allowing attribute names with mixed case
-2017-02-14 17:08:53|   0.3|  0.0|INFORM|Opened Shape File 'F:\4d gis\fmw\VVC\lod2 data\DHQG (1)\DHQG.shp' for input
-2017-02-14 17:08:53|   0.3|  0.0|INFORM|Opened DBF File 'F:\4d gis\fmw\VVC\lod2 data\DHQG (1)\DHQG.dbf' for input
-2017-02-14 17:08:53|   0.3|  0.0|INFORM|DBF Reader: Could not detect encoding. Using default system encoding
-2017-02-14 17:08:53|   0.3|  0.0|INFORM|DBF File 'F:\4d gis\fmw\VVC\lod2 data\DHQG (1)\DHQG.dbf' has fields: height number(2,0), name char(16), roof_heigh number(2,0), roof_type char(20), id number(9,0)
-2017-02-14 17:08:54|   0.6|  0.3|INFORM|The OGC definition of the FME coordinate system '_LL-WGS84_0' is 'GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]'
-2017-02-14 17:08:54|   0.6|  0.0|INFORM|FME Configuration: Source coordinate system for reader ESRISHAPE_1[ESRISHAPE] set to `_LL-WGS84_0' as read from input data
-2017-02-14 17:08:54|   0.6|  0.0|INFORM|Coordinate System `_LL-WGS84_0' parameters: CS_NAME=`_LL-WGS84_0' DESC_NM=`WGS84 Lat/Longs' DT_NAME=`WGS84' ESRI_WKT=`GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]' GROUP=`LL' MAP_SCL=`1' PROJ=`LL' QUAD=`1' SCL_RED=`1' UNIT=`DEGREE' 
-2017-02-14 17:08:54|   0.6|  0.0|INFORM|Shape Reader: Bounding box of shapefile `F:\4d gis\fmw\VVC\lod2 data\DHQG (1)\DHQG' is: (105.781195182626,21.03689285832),(105.783816856088,21.0409053481268)
-2017-02-14 17:08:54|   0.6|  0.0|INFORM|Shape Reader: Bounding box of shapefile(s) selected from folder `F:\4d gis\fmw\VVC\lod2 data\DHQG (1)/' is: (105.781195182626,21.03689285832),(105.783816856088,21.0409053481268)
-2017-02-14 17:08:54|   0.6|  0.0|INFORM|Using MultiWriter $Revision$ ( $Date$ ) with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
-2017-02-14 17:08:54|   0.6|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
-2017-02-14 17:08:54|   0.6|  0.0|INFORM|Loaded module 'LogCount_func' from file 'E:\SETUP FOLDER\FME\plugins/LogCount_func.dll'
-2017-02-14 17:08:54|   0.6|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20160224)
-2017-02-14 17:08:54|   0.7|  0.1|INFORM|Creating writer for format: FME Feature Store (FFS)
-2017-02-14 17:08:54|   0.8|  0.0|INFORM|FME Configuration: No destination coordinate system set
-2017-02-14 17:08:55|   0.8|  0.0|INFORM|Loaded module 'SurfaceModelFactory' from file 'E:\SETUP FOLDER\FME\plugins/SurfaceModelFactory.dll'
-2017-02-14 17:08:55|   0.8|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:08:55|   0.8|  0.0|INFORM|... Last line repeated 2 times ...
-2017-02-14 17:08:55|   0.8|  0.0|INFORM|Loaded module 'UUID_func' from file 'E:\SETUP FOLDER\FME\plugins/UUID_func.dll'
-2017-02-14 17:08:55|   0.8|  0.0|INFORM|FME API version of module 'UUID_func' matches current internal version (3.8 20160224)
-2017-02-14 17:08:55|   0.8|  0.0|INFORM|Loaded module 'AttributeFilterFactory' from file 'E:\SETUP FOLDER\FME\plugins/AttributeFilterFactory.dll'
-2017-02-14 17:08:55|   0.8|  0.0|INFORM|FME API version of module 'AttributeFilterFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:08:56|   0.8|  0.0|INFORM|FME API version of module 'AttributeFilterFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:08:56|   0.8|  0.0|INFORM|Loaded module 'GQueryFactory' from file 'E:\SETUP FOLDER\FME\plugins/GQueryFactory.dll'
-2017-02-14 17:08:56|   0.8|  0.0|INFORM|FME API version of module 'GQueryFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:08:57|   2.0|  1.2|INFORM|Transformer '' successfully loaded
-2017-02-14 17:08:57|   2.0|  0.0|INFORM|The current FME license has limited the number of workers to `16'
-2017-02-14 17:08:57|   2.0|  0.0|INFORM|TINGenerator: The Parallel processing level of `NO_PARALLELISM' has requested `0' workers
-2017-02-14 17:08:58|   2.0|  0.0|INFORM|Loaded module 'VertexCreatorFactory' from file 'E:\SETUP FOLDER\FME\plugins/VertexCreatorFactory.dll'
-2017-02-14 17:08:58|   2.0|  0.0|INFORM|FME API version of module 'VertexCreatorFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:08:58|   2.0|  0.0|INFORM|Loaded module 'GeometryBuilderFactory' from file 'E:\SETUP FOLDER\FME\plugins/GeometryBuilderFactory.dll'
-2017-02-14 17:08:58|   2.0|  0.0|INFORM|FME API version of module 'GeometryBuilderFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:08:58|   2.0|  0.0|INFORM|FME API version of module 'GQueryFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:08:58|   2.0|  0.0|INFORM|Transformer '' successfully loaded
-2017-02-14 17:08:58|   2.0|  0.0|INFORM|TINGenerator: The Parallel processing level of `NO_PARALLELISM' has requested `0' workers
-2017-02-14 17:08:58|   2.0|  0.0|INFORM|FME API version of module 'GQueryFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:08:59|   2.2|  0.2|INFORM|... Last line repeated 2 times ...
-2017-02-14 17:08:59|   2.2|  0.0|INFORM|Creating writer for format: CityGML
-2017-02-14 17:08:59|   2.2|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `CITYGML'
-2017-02-14 17:09:00|   2.2|  0.0|INFORM|Loaded module 'CITYGML' from file 'E:\SETUP FOLDER\FME\plugins/CITYGML.dll'
-2017-02-14 17:09:00|   2.2|  0.0|INFORM|FME API version of module 'CITYGML' matches current internal version (3.8 20160224)
-2017-02-14 17:09:00|   2.2|  0.0|INFORM|FME Configuration: No destination coordinate system set
-2017-02-14 17:09:00|   2.2|  0.0|INFORM|FME API version of module 'CITYGML' matches current internal version (3.8 20160224)
-2017-02-14 17:09:00|   2.2|  0.0|INFORM|Writer `CITYGML_1' of type `CITYGML' using group definition keyword `CITYGML_1_DEF'
-2017-02-14 17:09:00|   2.2|  0.0|INFORM|FME API version of module 'CITYGML' matches current internal version (3.8 20160224)
-2017-02-14 17:09:00|   2.2|  0.0|INFORM|CityGML Writer: No Document encoding set, defaulting to UTF-8.
-2017-02-14 17:09:00|   2.3|  0.0|INFORM|The uri-map document 'E:\SETUP FOLDER\FME\xml\urimap\gml_aixm.xml' is being used to map from URI to URI
-2017-02-14 17:09:00|   2.3|  0.0|INFORM|The uri-map document 'E:\SETUP FOLDER\FME\xml\urimap\gml_inspire.xml' is being used to map from URI to URI
-2017-02-14 17:09:00|   2.3|  0.0|INFORM|The uri-map document 'E:\SETUP FOLDER\FME\xml\urimap\gml_urimap.xml' is being used to map from URI to URI
-2017-02-14 17:09:00|   2.3|  0.0|INFORM|The uri-map document 'E:\SETUP FOLDER\FME\xml\urimap\gml_citygml.xml' is being used to map from URI to URI
-2017-02-14 17:09:00|   2.3|  0.0|INFORM|URI 'CityGML.xsd' mapped to 'file:///E:/SETUP FOLDER/FME/xml/schemas/CityGML/CityGML/2.0/CityGML.xsd'
-2017-02-14 17:09:00|   2.3|  0.0|INFORM|Parsing schema document 'file:///E:/SETUP FOLDER/FME/xml/schemas/CityGML/CityGML/2.0/CityGML.xsd' ...
-2017-02-14 17:09:00|   2.3|  0.0|INFORM|A <schemaLocation> in the uri-map is overriding the namespace 'http://www.w3.org/1999/xlink' xsd location from '../xlink/xlinks.xsd' to 'xlink.xsd'
-2017-02-14 17:09:00|   2.4|  0.1|INFORM|Using XSD semantics configuration file 'file:///E:/SETUP FOLDER/FME/xml/CityGML/CityGML_config.xml'.
-2017-02-14 17:09:01|   3.2|  0.8|INFORM|Creating reader for format: XML (Extensible Markup Language)
-2017-02-14 17:09:01|   3.2|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `XML'
-2017-02-14 17:09:01|   3.2|  0.0|INFORM|Loaded module 'XML' from file 'E:\SETUP FOLDER\FME\plugins/XML.dll'
-2017-02-14 17:09:01|   3.2|  0.0|INFORM|FME API version of module 'XML' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.3|  0.0|INFORM|Opening the XML reader with source dataset 'C:\Users\ACER\AppData\Local\Temp\FME_1487066941251_7576.xfmap'
-2017-02-14 17:09:02|   3.3|  0.0|INFORM|The XML Reader is using xfMap 'E:\SETUP FOLDER\FME\xml\CityGML\CityGML_meta_schema_xfmap.xml'
-2017-02-14 17:09:02|   3.3|  0.0|INFORM|The uri-map document 'E:\SETUP FOLDER\FME\xml\urimap\gml_aixm.xml' is being used to map from URI to URI
-2017-02-14 17:09:02|   3.3|  0.0|INFORM|The uri-map document 'E:\SETUP FOLDER\FME\xml\urimap\gml_citygml.xml' is being used to map from URI to URI
-2017-02-14 17:09:02|   3.3|  0.0|INFORM|The uri-map document 'E:\SETUP FOLDER\FME\xml\urimap\gml_inspire.xml' is being used to map from URI to URI
-2017-02-14 17:09:02|   3.3|  0.0|INFORM|The uri-map document 'E:\SETUP FOLDER\FME\xml\urimap\gml_urimap.xml' is being used to map from URI to URI
-2017-02-14 17:09:02|   3.5|  0.3|INFORM|FME Configuration: Destination coordinate system set to input coordinate system `_LL-WGS84_0'
-2017-02-14 17:09:02|   3.5|  0.0|WARN  |The 'Building' feature with geometry type 'IFMEPolygon' will not be written because the geometry does not have a citygml_lod_name.
-2017-02-14 17:09:02|   3.5|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.5|  0.0|INFORM|CenterLineReplacer: While constructing straight-skeletons, there may be no log messages for an extended period of time if the dataset is large or complex 
-2017-02-14 17:09:02|   3.6|  0.1|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 48 input coordinates
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.782272866579,21.0374437551413,20) (105.78285249403, 21.0375845959163,24)
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.6|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 34 input coordinates
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.781202954385,21.0378645849433,9) (105.781360980157, 21.0382413348842,13)
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.6|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.781433516577,21.0381755580856,12) (105.781625087871, 21.0383314494107,16)
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.6|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.781689984633,21.0383401545407,20) (105.782345402999, 21.0384554441401,24)
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.6|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.6|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.781195182626,21.0383504482549,16) (105.781664078769, 21.0384739728257,21)
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.7|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 34 input coordinates
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.782404986486,21.0377868617348,25) (105.782853768431, 21.0379302915188,30)
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.7|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 34 input coordinates
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.782849243175,21.0377856811849,25) (105.782989192266, 21.0381864272065,30)
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.7|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.782475960644,21.0379284059716,20) (105.782560523929, 21.038200977212,25)
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.7|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.7|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.783208284556,21.0382675120447,10) (105.783280604698, 21.0384430916831,17)
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.8|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 41 input coordinates
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.782899788494,21.0391739453934,32) (105.783328913312, 21.0392768825358,36)
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.8|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.782897197907,21.0397256884761,8) (105.783169209482, 21.03979362699,13)
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.8|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.782788192063,21.0395189260475,8) (105.782897197907, 21.0398389193326,13)
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.8|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 34 input coordinates
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.783184260897,21.039961042641,16) (105.78330132939, 21.0404215435582,22)
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.8|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.8|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.782381671209,21.0406068304142,15) (105.782658863956, 21.0407241787564,20)
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.9|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.781840238646,21.0405697730429,17) (105.782384261795, 21.0406953563565,22)
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.9|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.781840238646,21.0402424329304,17) (105.782373899449, 21.0403645775662,22)
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.9|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.781568227071,21.0406871213852,20) (105.781840238646, 21.0408024109845,25)
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.9|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.781415382472,21.0406480052711,16) (105.78157599883, 21.0407735885847,21)
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.9|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.781397248367,21.0402547853875,20) (105.78153973062, 21.0406541814996,25)
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.9|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.781417973058,21.0401642007023,20) (105.781840238646, 21.0402424329304,24)
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.9|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.782373899449,21.0402918427587,15) (105.782658863956, 21.0403865449296,20)
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:02|   3.9|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:02|   3.9|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:02|   4.0|  0.1|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 27 input coordinates
-2017-02-14 17:09:02|   4.0|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:02|   4.0|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:02|   4.0|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.782432216185,21.0381820452019,30) (105.782991782852, 21.0383240984582,34)
-2017-02-14 17:09:02|   4.0|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:03|   4.0|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:03|   4.0|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:03|   4.0|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:03|   4.0|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 34 input coordinates
-2017-02-14 17:09:03|   4.0|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:03|   4.0|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:03|   4.0|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.782879063802,21.0399500914465,16) (105.78320607159, 21.0400468523601,22)
-2017-02-14 17:09:03|   4.0|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:03|   4.0|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:03|   4.0|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:03|   4.0|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:03|   4.0|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 34 input coordinates
-2017-02-14 17:09:03|   4.0|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:03|   4.0|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:03|   4.0|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.782877375186,21.0403166450602,16) (105.783187343587, 21.0404203949842,22)
-2017-02-14 17:09:03|   4.0|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:03|   4.0|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:03|   4.0|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:03|   4.0|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.782957077909,21.0400324411603,16) (105.783062995439, 21.0403213338853,22)
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:03|   4.1|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.782702903925,21.0372366683753,20) (105.782822070901, 21.0374507776313,24)
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:03|   4.1|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.782381671209,21.0371831410613,20) (105.782529334635, 21.0374591086135,24)
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:03|   4.1|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.783153665963,21.0392746288084,32) (105.783332416427, 21.0394930505345,36)
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:03|   4.1|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.781353115479,21.0379939492577,11) (105.781433598763, 21.0380869291706,15)
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:03|   4.1|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|Creating reader for format: Esri Shapefile
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|FME Configuration: Source coordinate system for reader ESRISHAPE_2[ESRISHAPE] set to `LL-WGS84'
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|Coordinate System `LL-WGS84' parameters: CS_NAME=`LL-WGS84' DESC_NM=`WGS84 Lat/Longs' DT_NAME=`WGS84' GROUP=`LL' MAP_SCL=`1' PROJ=`LL' QUAD=`1' SCL_RED=`1' UNIT=`DEGREE' 
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|Using Shape Reader $Revision$ ( $Date$ ) to read shape files from folder `F:\4d gis\fmw\VVC\lod2 data\DHQG (1)/'
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|ESRISHAPE_2 Reader: Using enhanced geometry
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|Shape Reader: Using simple donut geometry detection
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|Shape Reader: Allowing attribute names with mixed case
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|Opened Shape File 'F:\4d gis\fmw\VVC\lod2 data\DHQG (1)\roofEdge.shp' for input
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|Opened DBF File 'F:\4d gis\fmw\VVC\lod2 data\DHQG (1)\roofEdge.dbf' for input
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|DBF Reader: Could not detect encoding. Using default system encoding
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|DBF File 'F:\4d gis\fmw\VVC\lod2 data\DHQG (1)\roofEdge.dbf' has fields: name char(50), roof_h number(4,0), roof_t char(20), wall_h number(4,0), id number(9,0)
-2017-02-14 17:09:03|   4.1|  0.0|WARN  |NOT changing coordinate system of reader identified by keyword `ESRISHAPE_2' from `LL-WGS84' to `_LL-WGS84_0' -- mapping file setting of `LL-WGS84' overrides coordinate system `_LL-WGS84_0' read from file
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|Shape Reader: Bounding box of shapefile `F:\4d gis\fmw\VVC\lod2 data\DHQG (1)\ROOFEDGE' is: (105.781305370885,21.0371910087932),(105.783645877384,21.0408518316937)
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|Shape Reader: Bounding box of shapefile(s) selected from folder `F:\4d gis\fmw\VVC\lod2 data\DHQG (1)/' is: (105.781305370885,21.0371910087932),(105.783645877384,21.0408518316937)
-2017-02-14 17:09:03|   4.1|  0.0|INFORM|FME Configuration: Using FME Reprojection Engine
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|TINGenerator::TINGenerator_2(SurfaceModelFactory): Starting to build surface model with 8 input coordinates
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|TINGenerator::TINGenerator_2(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|TINGenerator::TINGenerator_2(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|TINGenerator::TINGenerator_2(SurfaceModelFactory): Finished building surface model with extents (105.78211992044,21.0380359061554,10) (105.782172030636, 21.0380794502917,10)
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|TINGenerator::TINGenerator_2(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|TINGenerator::TINGenerator_2(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:03|   4.2|  0.0|STATS |TINGenerator::TINGenerator_2(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|TINGenerator::TINGenerator_2(SurfaceModelFactory): Starting to build surface model with 8 input coordinates
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|TINGenerator::TINGenerator_2(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|TINGenerator::TINGenerator_2(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|TINGenerator::TINGenerator_2(SurfaceModelFactory): Finished building surface model with extents (105.783016986162,21.0406040703164,13) (105.783145477057, 21.0407218536362,15)
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|TINGenerator::TINGenerator_2(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|TINGenerator::TINGenerator_2(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:03|   4.2|  0.0|STATS |TINGenerator::TINGenerator_2(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|Creating reader for format: Esri Shapefile
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|FME Configuration: Source coordinate system for reader ESRISHAPE_3[ESRISHAPE] set to `LL-WGS84'
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|Coordinate System `LL-WGS84' parameters: CS_NAME=`LL-WGS84' DESC_NM=`WGS84 Lat/Longs' DT_NAME=`WGS84' GROUP=`LL' MAP_SCL=`1' PROJ=`LL' QUAD=`1' SCL_RED=`1' UNIT=`DEGREE' 
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|Using Shape Reader $Revision$ ( $Date$ ) to read shape files from folder `F:\4d gis\fmw\VVC\lod2 data\DHQG (1)/'
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|ESRISHAPE_3 Reader: Using enhanced geometry
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|Shape Reader: Using simple donut geometry detection
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|Shape Reader: Allowing attribute names with mixed case
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|Opened Shape File 'F:\4d gis\fmw\VVC\lod2 data\DHQG (1)\roofEdge_arch.shp' for input
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|Opened DBF File 'F:\4d gis\fmw\VVC\lod2 data\DHQG (1)\roofEdge_arch.dbf' for input
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|DBF Reader: Could not detect encoding. Using default system encoding
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|DBF File 'F:\4d gis\fmw\VVC\lod2 data\DHQG (1)\roofEdge_arch.dbf' has fields: Id number(6,0), height number(19,11)
-2017-02-14 17:09:03|   4.2|  0.0|WARN  |NOT changing coordinate system of reader identified by keyword `ESRISHAPE_3' from `LL-WGS84' to `_LL-WGS84_0' -- mapping file setting of `LL-WGS84' overrides coordinate system `_LL-WGS84_0' read from file
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|Shape Reader: Bounding box of shapefile `F:\4d gis\fmw\VVC\lod2 data\DHQG (1)\ROOFEDGE_ARCH' is: (105.781387365511,21.0397890194722),(105.781654305993,21.0401360417574)
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|Shape Reader: Bounding box of shapefile(s) selected from folder `F:\4d gis\fmw\VVC\lod2 data\DHQG (1)/' is: (105.781387365511,21.0397890194722),(105.781654305993,21.0401360417574)
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|MULTI_READER(MULTI_READER): Done reading 88 features from 3 readers
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|Emptying factory pipeline
-2017-02-14 17:09:03|   4.2|  0.0|STATS |Router and Unexpected Input Remover(RoutingFactory): Tested 88 input feature(s), wrote 88 output feature(s): 88 matched merge filters, 88 were routed to output, 0 could not be routed.
-2017-02-14 17:09:03|   4.2|  0.0|STATS |Unexpected Input Remover Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |roofEdge_arch (ESRISHAPE_3) Splitter(TeeFactory): Cloned 6 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |roofEdge_arch_ESRISHAPE_3_0_vR2HVjbF2Ks= Feature Counter -1 208(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |roofEdge_arch_ESRISHAPE_3_1_a245D7bG9bg= Feature Counter -1 210(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |roofEdge (ESRISHAPE_2) Splitter(TeeFactory): Cloned 21 input feature(s) into 21 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |roofEdge_ESRISHAPE_2 Feature Counter -1 141(TeeFactory): Cloned 21 input feature(s) into 21 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |DHQG (ESRISHAPE_1) Splitter(TeeFactory): Cloned 61 input feature(s) into 61 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |DHQG_ESRISHAPE_1 Feature Counter -1 57(TeeFactory): Cloned 61 input feature(s) into 61 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |3DForcer_12(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |3DForcer_12_Rejector(TestFactory): Tested 6 input feature(s) -- 0 feature(s) passed and 6 feature(s) failed
-2017-02-14 17:09:03|   4.2|  0.0|STATS |3DForcer_12 OUTPUT Splitter(TeeFactory): Cloned 6 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |3DForcer_12_OUTPUT_0_iTO3ABja/A0= Feature Counter -1 241(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |3DForcer_12_OUTPUT_1_ZWR1cxBLM9I= Feature Counter -1 242(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |3DForcer_12_<REJECTED> Feature Counter -1 2147680460(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |SnipLastPoint_2_Aggfilter(TestFactory): Tested 6 input feature(s) -- 6 feature(s) passed and 0 feature(s) failed
-2017-02-14 17:09:03|   4.2|  0.0|STATS |SnipLastPoint_2_Typefilter(TestFactory): Tested 6 input feature(s) -- 6 feature(s) passed and 0 feature(s) failed
-2017-02-14 17:09:03|   4.2|  0.0|STATS |SnipLastPoint_2_Input(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |SnipLastPoint_2_SplitRemnants(DeaggregateFactory): Split 6 input feature(s) into 0 point-in-polygon feature(s), 0 donut polygon(s), 0 polygon(s), 6 line(s), 6 point(s), and 0 aggregate(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |SnipLastPoint_2_NullNuker(TestFactory): Tested 12 input feature(s) -- 0 feature(s) passed and 12 feature(s) failed
-2017-02-14 17:09:03|   4.2|  0.0|STATS |SnipLastPoint_2_Outputter(TestFactory): Tested 12 input feature(s) -- 6 feature(s) passed and 6 feature(s) failed
-2017-02-14 17:09:03|   4.2|  0.0|STATS |SnipLastPoint_2_OUTPUT Feature Counter -1 244(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |SnipLastPoint_2_<REJECTED> Feature Counter -1 2147746003(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |Extruder_3_ExtrusionCreator(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |Extruder_3_OUTPUT Feature Counter -1 248(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|TINGenerator_4(SurfaceModelFactory): Starting to build surface model with 10 input coordinates
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|TINGenerator_4(SurfaceModelFactory): Finished building surface model with extents (105.781651605326,21.0397890194722,30) (105.781654305993, 21.0401345436572,36)
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|TINGenerator_4(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|TINGenerator_4(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:03|   4.2|  0.0|STATS |TINGenerator_4(SurfaceModelFactory): Processed 6 features and 0 breaklines. 6 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:03|   4.2|  0.0|STATS |TINGenerator_4_TIN_SURFACE Feature Counter -1 192(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |SnipFirstPoint_2_Aggfilter(TestFactory): Tested 6 input feature(s) -- 6 feature(s) passed and 0 feature(s) failed
-2017-02-14 17:09:03|   4.2|  0.0|STATS |SnipFirstPoint_2_Typefilter(TestFactory): Tested 6 input feature(s) -- 6 feature(s) passed and 0 feature(s) failed
-2017-02-14 17:09:03|   4.2|  0.0|STATS |SnipFirstPoint_2_Input(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |SnipFirstPoint_2_SplitRemnants(DeaggregateFactory): Split 6 input feature(s) into 0 point-in-polygon feature(s), 0 donut polygon(s), 0 polygon(s), 6 line(s), 6 point(s), and 0 aggregate(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |SnipFirstPoint_2_NullNuker(TestFactory): Tested 12 input feature(s) -- 0 feature(s) passed and 12 feature(s) failed
-2017-02-14 17:09:03|   4.2|  0.0|STATS |SnipFirstPoint_2_Outputter(TestFactory): Tested 12 input feature(s) -- 6 feature(s) passed and 6 feature(s) failed
-2017-02-14 17:09:03|   4.2|  0.0|STATS |SnipFirstPoint_2_OUTPUT Feature Counter -1 246(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |SnipFirstPoint_2_<REJECTED> Feature Counter -1 2147746032(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |Extruder_4_ExtrusionCreator(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|STATS |Extruder_4_OUTPUT Feature Counter -1 250(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|TINGenerator_5(SurfaceModelFactory): Starting to build surface model with 10 input coordinates
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|TINGenerator_5(SurfaceModelFactory): Finished building surface model with extents (105.781387365511,21.039791078215,30) (105.781392539608, 21.0401360417574,36)
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|TINGenerator_5(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:03|   4.2|  0.0|INFORM|TINGenerator_5(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:03|   4.3|  0.0|STATS |TINGenerator_5(SurfaceModelFactory): Processed 6 features and 0 breaklines. 6 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:03|   4.3|  0.0|STATS |TINGenerator_5_TIN_SURFACE Feature Counter -1 191(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_Rejector(TestFactory): Tested 6 input feature(s) -- 0 feature(s) passed and 6 feature(s) failed
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_OUTPUT Feature Counter -1 176(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_<REJECTED> Feature Counter -1 2147680427(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|INFORM|TINGenerator_3(SurfaceModelFactory): Starting to build surface model with 12 input coordinates
-2017-02-14 17:09:03|   4.3|  0.0|INFORM|TINGenerator_3(SurfaceModelFactory): Finished building surface model with extents (105.781387365511,21.0397890194722,30) (105.781654305993, 21.0401360417574,36)
-2017-02-14 17:09:03|   4.3|  0.0|INFORM|TINGenerator_3(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:03|   4.3|  0.0|INFORM|TINGenerator_3(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:03|   4.3|  0.0|STATS |TINGenerator_3(SurfaceModelFactory): Processed 6 features and 0 breaklines. 6 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:03|   4.3|  0.0|STATS |TINGenerator_3_TIN_SURFACE Feature Counter -1 186(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |UUIDGenerator_2(TeeFactory): Cloned 61 input feature(s) into 61 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |UUIDGenerator_2 OUTPUT Splitter(TeeFactory): Cloned 61 input feature(s) into 244 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |UUIDGenerator_2_OUTPUT_0_BtV2N4jaFPw= Feature Counter -1 31(TeeFactory): Cloned 61 input feature(s) into 61 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |UUIDGenerator_2_OUTPUT_1_auHCD7Yu0A0= Feature Counter -1 32(TeeFactory): Cloned 61 input feature(s) into 61 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |UUIDGenerator_2_OUTPUT_2_8uYTH5+vQ5Q= Feature Counter -1 59(TeeFactory): Cloned 61 input feature(s) into 61 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |UUIDGenerator_2_OUTPUT_3_6ISgP70NO04= Feature Counter -1 47(TeeFactory): Cloned 61 input feature(s) into 61 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_2(TeeFactory): Cloned 61 input feature(s) into 61 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_2_Rejector(TestFactory): Tested 61 input feature(s) -- 0 feature(s) passed and 61 feature(s) failed
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_2_OUTPUT Feature Counter -1 54(TeeFactory): Cloned 61 input feature(s) into 61 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_2_<REJECTED> Feature Counter -1 2147680274(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter(TeeFactory): Cloned 61 input feature(s) into 61 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter <EMPTY> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter <MISSING> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter <NULL> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter <UNFILTERED> Output Nuker(TeeFactory): Cloned 12 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter hip Splitter(TeeFactory): Cloned 30 input feature(s) into 60 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter mansard Splitter(TeeFactory): Cloned 6 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter_hip_0_fL+84+ZVyYk= Feature Counter -1 195(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter_hip_1_YN7V/BkLT6Y= Feature Counter -1 205(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter_flat Feature Counter -1 268(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter_mansard_0_Dl03zgAEiY4= Feature Counter -1 254(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter_mansard_1_KlkaOtsQJCA= Feature Counter -1 261(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter_arch Feature Counter -1 181(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_12(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_12_Output Feature Counter -1 185(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_13(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_13_Output Feature Counter -1 183(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_11(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_11_Rejector(TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_11_OUTPUT Feature Counter -1 184(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_11_<REJECTED> Feature Counter -1 2147680428(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_3(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_3_Output Feature Counter -1 179(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_4(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_4_Output Feature Counter -1 190(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_20(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_20_Output Feature Counter -1 264(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_21(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_21_Output Feature Counter -1 263(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_18(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_18_Output Feature Counter -1 257(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_19(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_19_Output Feature Counter -1 256(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_9(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_9_Rejector(TestFactory): Tested 6 input feature(s) -- 0 feature(s) passed and 6 feature(s) failed
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_9 OUTPUT Splitter(TeeFactory): Cloned 6 input feature(s) into 18 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_9_OUTPUT_0_Wk/Zl0XuYss= Feature Counter -1 130(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_9_OUTPUT_1_PeDioAiLa1o= Feature Counter -1 131(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_9_OUTPUT_2_zjptpGsrA6M= Feature Counter -1 136(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_9_<REJECTED> Feature Counter -1 2147680337(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Chopper_5_catcher(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Chopper_5(ChoppingFactory): Processed 6 input feature(s), of which 6 feature(s) were chopped up into 27 piece(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Chopper_5_OUTPUT Feature Counter -1 124(TeeFactory): Cloned 27 input feature(s) into 27 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Chopper_5_<REJECTED> Feature Counter -1 2147680367(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Chopper_3_catcher(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Chopper_3(ChoppingFactory): Processed 6 input feature(s), of which 6 feature(s) were chopped up into 33 piece(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Chopper_3_OUTPUT Feature Counter -1 117(TeeFactory): Cloned 33 input feature(s) into 33 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Chopper_3_<REJECTED> Feature Counter -1 2147680360(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Sampler(SamplingFactory): Sampled 4 of 33 feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Sampler_Sampled(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Sampler_SAMPLED Feature Counter -1 122(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |FaceReplacer_2_FaceCreator(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |FaceReplacer_2_Rejector(TestFactory): Tested 6 input feature(s) -- 0 feature(s) passed and 6 feature(s) failed
-2017-02-14 17:09:03|   4.3|  0.0|STATS |FaceReplacer_2_OUTPUT Feature Counter -1 137(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |FaceReplacer_2_<REJECTED> Feature Counter -1 2147680391(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Orientor(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Orientor_Rejector(TestFactory): Tested 6 input feature(s) -- 0 feature(s) passed and 6 feature(s) failed
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Orientor_ORIENTED Feature Counter -1 127(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Orientor_<REJECTED> Feature Counter -1 2147680371(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_22(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_22_Output Feature Counter -1 271(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_23(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_23_Output Feature Counter -1 270(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeCreator_OUTPUT Feature Counter -1 95(TeeFactory): Cloned 18 input feature(s) into 18 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter_2(TeeFactory): Cloned 39 input feature(s) into 39 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter_2 <EMPTY> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter_2 <MISSING> Output Nuker(TeeFactory): Cloned 18 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter_2 <NULL> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter_2 <UNFILTERED> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter_2 flat Splitter(TeeFactory): Cloned 12 input feature(s) into 24 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter_2 flat-hip Splitter(TeeFactory): Cloned 3 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter_2_flat_0_lWTsysIxE7I= Feature Counter -1 275(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter_2_flat_1_BesvPtq7Ex4= Feature Counter -1 282(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter_2_mansard Feature Counter -1 303(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter_2_flat-hip_0_/5KQWow333Q= Feature Counter -1 289(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AttributeFilter_2_flat-hip_1_dgrktqgIky8= Feature Counter -1 296(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_30(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_30_Output Feature Counter -1 299(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_31(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_31_Output Feature Counter -1 298(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |CenterLineReplacer_2(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |CenterLineReplacer_2_Rejector(TestFactory): Tested 3 input feature(s) -- 0 feature(s) passed and 3 feature(s) failed
-2017-02-14 17:09:03|   4.3|  0.0|STATS |CenterLineReplacer_2_CENTERLINE Feature Counter -1 151(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |CenterLineReplacer_2_<REJECTED> Feature Counter -1 2147680401(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_8(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_8_Rejector(TestFactory): Tested 3 input feature(s) -- 0 feature(s) passed and 3 feature(s) failed
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_8_OUTPUT Feature Counter -1 149(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_8_<REJECTED> Feature Counter -1 2147680400(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_28(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_28_Output Feature Counter -1 292(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_29(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_29_Output Feature Counter -1 291(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |GeometryCoercer_2_COERCED Feature Counter -1 152(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_10(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_10_Rejector(TestFactory): Tested 3 input feature(s) -- 0 feature(s) passed and 3 feature(s) failed
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_10_OUTPUT Feature Counter -1 150(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_10_<REJECTED> Feature Counter -1 2147680402(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|INFORM|TINGenerator::TINGenerator_2(SurfaceModelFactory): Starting to build surface model with 8 input coordinates
-2017-02-14 17:09:03|   4.3|  0.0|INFORM|TINGenerator::TINGenerator_2(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:03|   4.3|  0.0|INFORM|TINGenerator::TINGenerator_2(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:03|   4.3|  0.0|INFORM|TINGenerator::TINGenerator_2(SurfaceModelFactory): Finished building surface model with extents (105.783277790952,21.0380023939825,14) (105.783540721393, 21.0381081902147,17)
-2017-02-14 17:09:03|   4.3|  0.0|INFORM|TINGenerator::TINGenerator_2(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:03|   4.3|  0.0|INFORM|TINGenerator::TINGenerator_2(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:03|   4.3|  0.0|STATS |TINGenerator::TINGenerator_2(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:03|   4.3|  0.0|STATS |TINGenerator_2_TIN_SURFACE Feature Counter -1 217(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_5(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_5_Output Feature Counter -1 220(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_6(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_6_Output Feature Counter -1 219(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_32(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_32_Output Feature Counter -1 306(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_33(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Junction_33_Output Feature Counter -1 305(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_7(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_7_Rejector(TestFactory): Tested 6 input feature(s) -- 0 feature(s) passed and 6 feature(s) failed
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_7 OUTPUT Splitter(TeeFactory): Cloned 6 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_7_OUTPUT_0_5iU/2fcb3ho= Feature Counter -1 132(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_7_OUTPUT_1_4jOWkL1aVDc= Feature Counter -1 133(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |3DForcer_7_<REJECTED> Feature Counter -1 2147680341(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Chopper_4_catcher(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Chopper_4(ChoppingFactory): Processed 6 input feature(s), of which 6 feature(s) were chopped up into 31 piece(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Chopper_4_OUTPUT Feature Counter -1 119(TeeFactory): Cloned 31 input feature(s) into 31 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Chopper_4_<REJECTED> Feature Counter -1 2147680362(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Sampler_2(SamplingFactory): Sampled 4 of 31 feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Sampler_2_Sampled(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Sampler_2_SAMPLED Feature Counter -1 123(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |f_179(TestFactory): Tested 4 input feature(s) -- 0 feature(s) passed and 4 feature(s) failed
-2017-02-14 17:09:03|   4.3|  0.0|STATS |CoordinateExtractor_PASSED(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
-2017-02-14 17:09:03|   4.3|  0.0|STATS |CoordinateExtractor_FAILED(TestFactory): Tested 4 input feature(s) -- 0 feature(s) passed and 4 feature(s) failed
-2017-02-14 17:09:03|   4.3|  0.0|STATS |CoordinateExtractor_FAILED_PASSED(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
-2017-02-14 17:09:03|   4.3|  0.0|STATS |CoordinateExtractor_OUTPUT Feature Counter -1 121(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|INFORM|Processing base feature(s)...
-2017-02-14 17:09:03|   4.3|  0.0|STATS |NeighborFinder(ProximityFactory): Input Summary:  4 base feature(s), 4 candidate feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |NeighborFinder(ProximityFactory): Output Summary: 4 matched feature(s), 0 unmatched base feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |NeighborFinder_MATCHED Feature Counter -1 118(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |NeighborFinder_<REJECTED> Feature Counter -1 2147811433(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |VertexCreator_OUTPUT Feature Counter -1 120(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |VertexCreator_<REJECTED> Feature Counter -1 2147680364(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Chopper_6_catcher(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Chopper_6(ChoppingFactory): Processed 6 input feature(s), of which 6 feature(s) were chopped up into 25 piece(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Chopper_6_OUTPUT Feature Counter -1 125(TeeFactory): Cloned 25 input feature(s) into 25 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |Chopper_6_<REJECTED> Feature Counter -1 2147680368(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AreaBuilder_GeomFilter_1(TestFactory): Tested 56 input feature(s) -- 0 feature(s) passed and 56 feature(s) failed
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AreaBuilder_GeomFilter_2(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AreaBuilder_GeomFilter_3(TestFactory): Tested 56 input feature(s) -- 56 feature(s) passed and 0 feature(s) failed
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AreaBuilder_polygonizer(PolygonFactory): Forming polygons from 56 input feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AreaBuilder_polygonizer(PolygonFactory): Formed 13 polygons
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AreaBuilder_polygonizer(PolygonFactory): 1 line segment(s) did not close
-2017-02-14 17:09:03|   4.3|  0.0|INFORM|Done computing spatial closure
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AreaBuilder_donutizer(DonutFactory): Combined 13 input feature(s) into 0 point-in-polygon feature(s), 6 donut polygon(s), 7 polygon(s), 0 line(s), and 0 point(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AreaBuilder_WarnInvalids(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AreaBuilder_AREA Feature Counter -1 126(TeeFactory): Cloned 13 input feature(s) into 13 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |AreaBuilder_<REJECTED> Feature Counter -1 2147745905(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |FaceReplacer_3_FaceCreator(TeeFactory): Cloned 13 input feature(s) into 13 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |FaceReplacer_3_Rejector(TestFactory): Tested 13 input feature(s) -- 0 feature(s) passed and 13 feature(s) failed
-2017-02-14 17:09:03|   4.3|  0.0|STATS |FaceReplacer_3_OUTPUT Feature Counter -1 128(TeeFactory): Cloned 13 input feature(s) into 13 output feature(s)
-2017-02-14 17:09:03|   4.3|  0.0|STATS |FaceReplacer_3_<REJECTED> Feature Counter -1 2147680372(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:04|   5.0|  0.8|WARN  |f_206(GeometryBuilderFactory): Error encountered while copying traits to generated solids. Output will be left without traits, appearances, measures or attributes
-2017-02-14 17:09:04|   5.4|  0.4|STATS |SolidBuilder_SOLID Feature Counter -1 196(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |SolidBuilder_<REJECTED> Feature Counter -1 2147745906(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |Junction(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |Junction_Output Feature Counter -1 213(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |Junction_2(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |Junction_2_Output Feature Counter -1 212(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |Junction_24(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |Junction_24_Output Feature Counter -1 278(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |Junction_25(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |Junction_25_Output Feature Counter -1 277(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |3DForcer_5(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |3DForcer_5_Rejector(TestFactory): Tested 12 input feature(s) -- 0 feature(s) passed and 12 feature(s) failed
-2017-02-14 17:09:04|   5.4|  0.0|STATS |3DForcer_5_OUTPUT Feature Counter -1 71(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |3DForcer_5_<REJECTED> Feature Counter -1 2147680318(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |Chopper_2_catcher(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |Chopper_2(ChoppingFactory): Processed 12 input feature(s), of which 12 feature(s) were chopped up into 142 piece(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |Chopper_2_OUTPUT Feature Counter -1 69(TeeFactory): Cloned 142 input feature(s) into 142 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |Chopper_2_<REJECTED> Feature Counter -1 2147680332(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |Extruder_2_ExtrusionCreator(TeeFactory): Cloned 142 input feature(s) into 142 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |Extruder_2_OUTPUT Feature Counter -1 232(TeeFactory): Cloned 142 input feature(s) into 142 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |Junction_26(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |Junction_26_Output Feature Counter -1 285(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |Junction_27(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |Junction_27_Output Feature Counter -1 284(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |3DForcer_6(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |3DForcer_6_Rejector(TestFactory): Tested 12 input feature(s) -- 0 feature(s) passed and 12 feature(s) failed
-2017-02-14 17:09:04|   5.4|  0.0|STATS |3DForcer_6_OUTPUT Feature Counter -1 231(TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |3DForcer_6_<REJECTED> Feature Counter -1 2147680328(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:04|   5.4|  0.0|STATS |Junction_9(TeeFactory): Cloned 154 input feature(s) into 154 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Junction_9_Output Feature Counter -1 234(TeeFactory): Cloned 154 input feature(s) into 154 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Junction_10(TeeFactory): Cloned 154 input feature(s) into 154 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Junction_10_Output Feature Counter -1 237(TeeFactory): Cloned 154 input feature(s) into 154 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Junction_11(TeeFactory): Cloned 154 input feature(s) into 154 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Junction_11_Output Feature Counter -1 236(TeeFactory): Cloned 154 input feature(s) into 154 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Junction_16(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Junction_16_Output Feature Counter -1 209(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Junction_17(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Junction_17_Output Feature Counter -1 207(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |CenterLineReplacer(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |CenterLineReplacer_Rejector(TestFactory): Tested 30 input feature(s) -- 0 feature(s) passed and 30 feature(s) failed
-2017-02-14 17:09:04|   5.5|  0.0|STATS |CenterLineReplacer_CENTERLINE Feature Counter -1 48(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |CenterLineReplacer_<REJECTED> Feature Counter -1 2147680293(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |3DForcer_3(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |3DForcer_3_Rejector(TestFactory): Tested 30 input feature(s) -- 0 feature(s) passed and 30 feature(s) failed
-2017-02-14 17:09:04|   5.5|  0.0|STATS |3DForcer_3_OUTPUT Feature Counter -1 50(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |3DForcer_3_<REJECTED> Feature Counter -1 2147680290(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Junction_14(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Junction_14_Output Feature Counter -1 200(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Junction_15(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Junction_15_Output Feature Counter -1 199(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |GeometryCoercer_COERCED Feature Counter -1 44(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |3DForcer_4(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |3DForcer_4_Rejector(TestFactory): Tested 30 input feature(s) -- 0 feature(s) passed and 30 feature(s) failed
-2017-02-14 17:09:04|   5.5|  0.0|STATS |3DForcer_4_OUTPUT Feature Counter -1 46(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |3DForcer_4_<REJECTED> Feature Counter -1 2147680298(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to build surface model with 20 input coordinates
-2017-02-14 17:09:04|   5.5|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting to enter 1 breaklines into the model
-2017-02-14 17:09:04|   5.5|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished entering the breaklines into the model
-2017-02-14 17:09:04|   5.5|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Finished building surface model with extents (105.782810884332,21.0379882940721,25) (105.782858339111, 21.038107516599,30)
-2017-02-14 17:09:04|   5.5|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Starting triangle retrieval
-2017-02-14 17:09:04|   5.5|  0.0|INFORM|TINGenerator::TINGenerator(SurfaceModelFactory): Triangles now being output
-2017-02-14 17:09:04|   5.5|  0.0|STATS |TINGenerator::TINGenerator(SurfaceModelFactory): Processed 1 features and 1 breaklines. 1 were added to the model successfully. 0 were not added. The number of DEM points output was 0. The number of triangles output was 0. The number of Voronoi Polygons was 0. The number of contours output was 0. The number of vertex points output was 0. The number of features draped was 0. The number of raster features output was 0. The number of TIN Surface features output was 1. The total number of features output was 1
-2017-02-14 17:09:04|   5.5|  0.0|STATS |TINGenerator_TIN_SURFACE Feature Counter -1 224(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Junction_7(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Junction_7_Output Feature Counter -1 227(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Junction_8(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Junction_8_Output Feature Counter -1 226(TeeFactory): Cloned 30 input feature(s) into 30 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |AttributeCreator_3_OUTPUT Feature Counter -1 52(TeeFactory): Cloned 197 input feature(s) into 197 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |GeometryPropertySetter_2_Outputter(TeeFactory): Cloned 197 input feature(s) into 197 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |GeometryPropertySetter_2_SET Feature Counter -1 23(TeeFactory): Cloned 197 input feature(s) into 197 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |AttributeCreator_2_OUTPUT Feature Counter -1 22(TeeFactory): Cloned 61 input feature(s) into 61 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Chopper_catcher(TeeFactory): Cloned 61 input feature(s) into 61 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Chopper(ChoppingFactory): Processed 61 input feature(s), of which 61 feature(s) were chopped up into 411 piece(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Chopper_OUTPUT Feature Counter -1 27(TeeFactory): Cloned 411 input feature(s) into 411 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Chopper_<REJECTED> Feature Counter -1 2147680269(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Extruder_ExtrusionCreator(TeeFactory): Cloned 472 input feature(s) into 472 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Extruder OUTPUT Splitter(TeeFactory): Cloned 472 input feature(s) into 944 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Extruder_OUTPUT_0_Aqn3HyLuY5k= Feature Counter -1 55(TeeFactory): Cloned 472 input feature(s) into 472 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Extruder_OUTPUT_1_CHec5K8fEOA= Feature Counter -1 64(TeeFactory): Cloned 472 input feature(s) into 472 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |AttributeCreator_4_OUTPUT Feature Counter -1 25(TeeFactory): Cloned 472 input feature(s) into 472 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |GeometryPropertySetter_3_Outputter(TeeFactory): Cloned 472 input feature(s) into 472 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |GeometryPropertySetter_3_SET Feature Counter -1 35(TeeFactory): Cloned 472 input feature(s) into 472 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |AttributeCreator_5_OUTPUT Feature Counter -1 68(TeeFactory): Cloned 472 input feature(s) into 472 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |GeometryPropertySetter_4_Outputter(TeeFactory): Cloned 472 input feature(s) into 472 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |GeometryPropertySetter_4_SET Feature Counter -1 29(TeeFactory): Cloned 472 input feature(s) into 472 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Destination Feature Type Routing Correlator(RoutingFactory): Tested 1202 input feature(s), wrote 1202 output feature(s): 0 matched merge filters, 1202 were routed to output, 0 could not be routed.
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Final Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-02-14 17:09:04|   5.5|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-02-14 17:09:04|   5.5|  0.0|INFORM|                     'GlobalVariable' Final State Summary
-2017-02-14 17:09:04|   5.5|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-02-14 17:09:04|   5.5|  0.0|INFORM|==============================================================================
-2017-02-14 17:09:04|   5.5|  0.0|INFORM|Total Number of Global Variables:                                            0
-2017-02-14 17:09:04|   5.5|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-02-14 17:09:04|   5.5|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-02-14 17:09:04|   5.5|  0.0|INFORM|Feature output statistics for `FFS' writer using keyword `W_1':
-2017-02-14 17:09:04|   5.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-02-14 17:09:04|   5.5|  0.0|STATS |                               Features Written
-2017-02-14 17:09:04|   5.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-02-14 17:09:04|   5.5|  0.0|STATS |==============================================================================
-2017-02-14 17:09:04|   5.5|  0.0|STATS |Total Features Written                                                       0
-2017-02-14 17:09:04|   5.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-02-14 17:09:05|   5.8|  0.4|WARN  |CityGMLWriter registered 61 messages of type:  The 'Building' feature with geometry type 'IFMEPolygon' will not be written because the geometry does not have a citygml_lod_name.
-2017-02-14 17:09:05|   5.8|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-02-14 17:09:05|   5.8|  0.0|INFORM|Feature output statistics for `CITYGML' writer using keyword `CITYGML_1':
-2017-02-14 17:09:05|   5.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-02-14 17:09:05|   5.8|  0.0|STATS |                               Features Written
-2017-02-14 17:09:05|   5.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-02-14 17:09:05|   5.8|  0.0|STATS |Building                                                                    61
-2017-02-14 17:09:05|   5.8|  0.0|STATS |FloorSurface                                                               472
-2017-02-14 17:09:05|   5.8|  0.0|STATS |RoofSurface                                                                197
-2017-02-14 17:09:05|   5.8|  0.0|STATS |WallSurface                                                                472
-2017-02-14 17:09:05|   5.8|  0.0|STATS |==============================================================================
-2017-02-14 17:09:05|   5.8|  0.0|STATS |Total Features Written                                                    1202
-2017-02-14 17:09:05|   5.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-02-14 17:09:05|   5.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-02-14 17:09:05|   5.8|  0.0|STATS |                            Features Read Summary
-2017-02-14 17:09:05|   5.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-02-14 17:09:05|   5.8|  0.0|STATS |DHQG                                                                        61
-2017-02-14 17:09:05|   5.8|  0.0|STATS |roofEdge                                                                    21
-2017-02-14 17:09:05|   5.8|  0.0|STATS |roofEdge_arch                                                                6
-2017-02-14 17:09:05|   5.8|  0.0|STATS |==============================================================================
-2017-02-14 17:09:05|   5.8|  0.0|STATS |Total Features Read                                                         88
-2017-02-14 17:09:05|   5.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-02-14 17:09:05|   5.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-02-14 17:09:05|   5.8|  0.0|STATS |                           Features Written Summary
-2017-02-14 17:09:05|   5.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-02-14 17:09:05|   5.8|  0.0|STATS |Building                                                                    61
-2017-02-14 17:09:05|   5.8|  0.0|STATS |FloorSurface                                                               472
-2017-02-14 17:09:05|   5.8|  0.0|STATS |RoofSurface                                                                197
-2017-02-14 17:09:05|   5.8|  0.0|STATS |WallSurface                                                                472
-2017-02-14 17:09:05|   5.8|  0.0|STATS |==============================================================================
-2017-02-14 17:09:05|   5.8|  0.0|STATS |Total Features Written                                                    1202
-2017-02-14 17:09:05|   5.8|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-02-14 17:09:05|   5.8|  0.0|INFORM|Translation was SUCCESSFUL with 5 warning(s) (1202 feature(s) output)
-2017-02-14 17:09:05|   5.8|  0.0|INFORM|FME Session Duration: 11.6 seconds. (CPU: 5.1s user, 0.7s system)
-2017-02-14 17:09:05|   5.8|  0.0|INFORM|END - ProcessID: 7576, peak process memory usage: 234072 kB, current process memory usage: 226400 kB
+2017-02-18 17:31:59|   0.1|  0.1|INFORM|FME 2016.1.3.0 (20161103 - Build 16709 - WIN64)
+2017-02-18 17:31:59|   0.1|  0.0|INFORM|FME_HOME is 'E:\SETUP FOLDER\FME\'
+2017-02-18 17:31:59|   0.1|  0.0|INFORM|FME Desktop Smallworld Edition (floating)
+2017-02-18 17:31:59|   0.1|  0.0|INFORM|Permanent License.
+2017-02-18 17:31:59|   0.1|  0.0|INFORM|Machine host name is: DESKTOP-PC43V6K
+2017-02-18 17:31:59|   0.1|  0.0|INFORM|START - ProcessID: 7736, peak process memory usage: 30660 kB, current process memory usage: 30660 kB
+2017-02-18 17:31:59|   0.1|  0.0|INFORM|FME Configuration: Command line arguments are `E:\SETUP FOLDER\FME\fme.exe' `F:/4d gis/fmw/VVC/lod2 data\wb-xlate-14874139180_4188' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{fa7e8e27-ab04-4a85-b036-60b87c3d425d}'
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|Shared folders for formats are : E:\SETUP FOLDER\FME\datasources;C:\Users\ACER\Documents\FME\Formats
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|Shared folders for transformers are : E:\SETUP FOLDER\FME\transformers;C:\Users\ACER\AppData\Roaming\Safe Software\FME\FME Store\Transformers;C:\Users\ACER\Documents\FME\Transformers
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\ACER\Documents\FME\CoordinateSystems
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\ACER\Documents\FME\CoordinateSystemExceptions
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\ACER\Documents\FME\CoordinateSystemGridOverrides
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\ACER\Documents\FME\CsmapTransformationExceptions
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\ACER\Documents\FME\TransformerCategories
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|FME Configuration: Current working folder is `F:\4d gis\fmw\VVC\lod2 data'
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\ACER\AppData\Local\Temp'
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|FME Configuration: FME_HOME is `E:\SETUP FOLDER\FME\'
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'F:\4d gis\fmw\VVC\lod2 data/'
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|FME Configuration: FME_MF_NAME is '5675-citygml-sample-lod2-from-shapefile.fmw'
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2016.1.3.0'
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|System Status: 2.17 GB of disk space available in the FME temporary folder (C:\Users\ACER\AppData\Local\Temp)
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|System Status: 128.00 TB of virtual memory available
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|Operating System: Microsoft Windows 10 64-bit  (Build 10586)
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|FME Platform: WIN64
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|Locale: en_US
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|Code Page: 1252  (ANSI - Latin I)
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|FME Configuration: Process limits are 3.80 GB of physical memory and 128.00 TB of address space
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|FME Configuration: Start freeing memory when process usage exceeds 11.40 GB of memory or 128.00 TB of address space
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|FME Configuration: Stop freeing memory when process usage is below 8.55 GB of memory and 96.00 TB of address space
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|Creating writer for format: 
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|Creating reader for format: 
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding ESRISHAPE Reader with keyword ESRISHAPE_1
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding ESRISHAPE Reader with keyword ESRISHAPE_2
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding ESRISHAPE Reader with keyword ESRISHAPE_3
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|Using Multi Reader $Revision$ ( $Date$ ) with keyword `MULTI_READER' to read multiple datasets
+2017-02-18 17:31:59|   0.2|  0.0|INFORM|Creating reader for format: Esri Shapefile
+2017-02-18 17:31:59|   0.3|  0.0|INFORM|Using Shape Reader $Revision$ ( $Date$ ) to read shape files from folder `F:\4d gis\fmw\VVC\lod2 data\DHQG (1)/'
+2017-02-18 17:31:59|   0.3|  0.0|INFORM|ESRISHAPE_1 Reader: Using enhanced geometry
+2017-02-18 17:31:59|   0.3|  0.0|INFORM|Shape Reader: Using simple donut geometry detection
+2017-02-18 17:31:59|   0.3|  0.0|INFORM|Shape Reader: Allowing attribute names with mixed case
+2017-02-18 17:31:59|   0.3|  0.0|INFORM|Opened Shape File 'F:\4d gis\fmw\VVC\lod2 data\DHQG (1)\DHQG.shp' for input
+2017-02-18 17:31:59|   0.3|  0.0|INFORM|Opened DBF File 'F:\4d gis\fmw\VVC\lod2 data\DHQG (1)\DHQG.dbf' for input
+2017-02-18 17:31:59|   0.3|  0.0|INFORM|DBF Reader: Could not detect encoding. Using default system encoding
+2017-02-18 17:31:59|   0.3|  0.0|INFORM|DBF File 'F:\4d gis\fmw\VVC\lod2 data\DHQG (1)\DHQG.dbf' has fields: height number(2,0), name char(16), roof_heigh number(2,0), roof_type char(20), id number(9,0)
+2017-02-18 17:32:00|   0.5|  0.3|INFORM|The OGC definition of the FME coordinate system '_LL-WGS84_0' is 'GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]'
+2017-02-18 17:32:00|   0.5|  0.0|INFORM|FME Configuration: Source coordinate system for reader ESRISHAPE_1[ESRISHAPE] set to `_LL-WGS84_0' as read from input data
+2017-02-18 17:32:00|   0.5|  0.0|INFORM|Coordinate System `_LL-WGS84_0' parameters: CS_NAME=`_LL-WGS84_0' DESC_NM=`WGS84 Lat/Longs' DT_NAME=`WGS84' ESRI_WKT=`GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]' GROUP=`LL' MAP_SCL=`1' PROJ=`LL' QUAD=`1' SCL_RED=`1' UNIT=`DEGREE' 
+2017-02-18 17:32:00|   0.5|  0.0|INFORM|Shape Reader: Bounding box of shapefile `F:\4d gis\fmw\VVC\lod2 data\DHQG (1)\DHQG' is: (105.781195182626,21.03689285832),(105.783816856088,21.0409053481268)
+2017-02-18 17:32:00|   0.5|  0.0|INFORM|Shape Reader: Bounding box of shapefile(s) selected from folder `F:\4d gis\fmw\VVC\lod2 data\DHQG (1)/' is: (105.781195182626,21.03689285832),(105.783816856088,21.0409053481268)
+2017-02-18 17:32:00|   0.5|  0.0|INFORM|Using MultiWriter $Revision$ ( $Date$ ) with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2017-02-18 17:32:00|   0.5|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2017-02-18 17:32:00|   0.5|  0.0|INFORM|Loaded module 'LogCount_func' from file 'E:\SETUP FOLDER\FME\plugins/LogCount_func.dll'
+2017-02-18 17:32:00|   0.5|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20160224)
+2017-02-18 17:32:00|   0.6|  0.0|INFORM|Creating writer for format: FME Feature Store (FFS)
+2017-02-18 17:32:00|   0.6|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2017-02-18 17:32:01|   0.6|  0.0|INFORM|Loaded module 'SurfaceModelFactory' from file 'E:\SETUP FOLDER\FME\plugins/SurfaceModelFactory.dll'
+2017-02-18 17:32:01|   0.6|  0.0|INFORM|FME API version of module 'SurfaceModelFactory' matches current internal version (3.8 20160224)
+2017-02-18 17:32:01|   0.6|  0.0|INFORM|... Last line repeated 2 times ...
+2017-02-18 17:32:01|   0.6|  0.0|INFORM|Loaded module 'UUID_func' from file 'E:\SETUP FOLDER\FME\plugins/UUID_func.dll'
+2017-02-18 17:32:01|   0.6|  0.0|INFORM|FME API version of module 'UUID_func' matches current internal version (3.8 20160224)
+2017-02-18 17:32:02|   0.6|  0.0|INFORM|Loaded module 'AttributeFilterFactory' from file 'E:\SETUP FOLDER\FME\plugins/AttributeFilterFactory.dll'
+2017-02-18 17:32:02|   0.6|  0.0|INFORM|FME API version of module 'AttributeFilterFactory' matches current internal version (3.8 20160224)
+2017-02-18 17:32:03|   0.6|  0.0|INFORM|FME API version of module 'AttributeFilterFactory' matches current internal version (3.8 20160224)
+2017-02-18 17:32:03|   0.6|  0.0|INFORM|Loaded module 'GQueryFactory' from file 'E:\SETUP FOLDER\FME\plugins/GQueryFactory.dll'
+2017-02-18 17:32:03|   0.6|  0.0|INFORM|FME API version of module 'GQueryFactory' matches current internal version (3.8 20160224)
+2017-02-18 17:32:04|   1.7|  1.1|INFORM|Transformer '' successfully loaded
+2017-02-18 17:32:04|   1.7|  0.0|INFORM|The current FME license has limited the number of workers to `16'
+2017-02-18 17:32:04|   1.7|  0.0|INFORM|TINGenerator: The Parallel processing level of `NO_PARALLELISM' has requested `0' workers
+2017-02-18 17:32:04|   1.7|  0.0|INFORM|Loaded module 'VertexCreatorFactory' from file 'E:\SETUP FOLDER\FME\plugins/VertexCreatorFactory.dll'
+2017-02-18 17:32:04|   1.7|  0.0|INFORM|FME API version of module 'VertexCreatorFactory' matches current internal version (3.8 20160224)
+2017-02-18 17:32:04|   1.7|  0.0|INFORM|Loaded module 'GeometryBuilderFactory' from file 'E:\SETUP FOLDER\FME\plugins/GeometryBuilderFactory.dll'
+2017-02-18 17:32:04|   1.7|  0.0|INFORM|FME API version of module 'GeometryBuilderFactory' matches current internal version (3.8 20160224)
+2017-02-18 17:32:04|   1.7|  0.0|INFORM|FME API version of module 'GQueryFactory' matches current internal version (3.8 20160224)
+2017-02-18 17:32:04|   1.7|  0.0|INFORM|Transformer '' successfully loaded
+2017-02-18 17:32:04|   1.7|  0.0|INFORM|TINGenerator: The Parallel processing level of `NO_PARALLELISM' has requested `0' workers
+2017-02-18 17:32:04|   1.7|  0.0|INFORM|FME API version of module 'GQueryFactory' matches current internal version (3.8 20160224)

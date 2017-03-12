@@ -7,7 +7,7 @@
 </gml:Envelope>
 </gml:boundedBy>
 <core:cityObjectMember>
-<bldg:Building gml:id="6d46d182-06ce-44df-9914-24fe36f5e8dd">
+<bldg:Building gml:id="d9e245ca-bf3e-4104-9032-18e4a4cf3192">
 <gen:intAttribute name="height">
 <gen:value>16</gen:value>
 </gen:intAttribute>
@@ -18,7 +18,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6d46d182-06ce-44df-9914-24fe36f5e8dd</gen:value>
+<gen:value>d9e245ca-bf3e-4104-9032-18e4a4cf3192</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -32,7 +32,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6d46d182-06ce-44df-9914-24fe36f5e8dd</gen:value>
+<gen:value>d9e245ca-bf3e-4104-9032-18e4a4cf3192</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -67,7 +67,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6d46d182-06ce-44df-9914-24fe36f5e8dd</gen:value>
+<gen:value>d9e245ca-bf3e-4104-9032-18e4a4cf3192</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -102,7 +102,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6d46d182-06ce-44df-9914-24fe36f5e8dd</gen:value>
+<gen:value>d9e245ca-bf3e-4104-9032-18e4a4cf3192</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -137,7 +137,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6d46d182-06ce-44df-9914-24fe36f5e8dd</gen:value>
+<gen:value>d9e245ca-bf3e-4104-9032-18e4a4cf3192</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -172,7 +172,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6d46d182-06ce-44df-9914-24fe36f5e8dd</gen:value>
+<gen:value>d9e245ca-bf3e-4104-9032-18e4a4cf3192</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -207,7 +207,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6d46d182-06ce-44df-9914-24fe36f5e8dd</gen:value>
+<gen:value>d9e245ca-bf3e-4104-9032-18e4a4cf3192</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -242,7 +242,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6d46d182-06ce-44df-9914-24fe36f5e8dd</gen:value>
+<gen:value>d9e245ca-bf3e-4104-9032-18e4a4cf3192</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -277,7 +277,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6d46d182-06ce-44df-9914-24fe36f5e8dd</gen:value>
+<gen:value>d9e245ca-bf3e-4104-9032-18e4a4cf3192</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -312,7 +312,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6d46d182-06ce-44df-9914-24fe36f5e8dd</gen:value>
+<gen:value>d9e245ca-bf3e-4104-9032-18e4a4cf3192</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -347,7 +347,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6d46d182-06ce-44df-9914-24fe36f5e8dd</gen:value>
+<gen:value>d9e245ca-bf3e-4104-9032-18e4a4cf3192</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -382,7 +382,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6d46d182-06ce-44df-9914-24fe36f5e8dd</gen:value>
+<gen:value>d9e245ca-bf3e-4104-9032-18e4a4cf3192</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -469,7 +469,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6d46d182-06ce-44df-9914-24fe36f5e8dd</gen:value>
+<gen:value>d9e245ca-bf3e-4104-9032-18e4a4cf3192</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -547,7 +547,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="73edca7b-c099-40e3-b902-6b17739aa4c2">
+<bldg:Building gml:id="7144b510-43fd-456c-b6d2-94f662c8fd06">
 <gen:intAttribute name="height">
 <gen:value>20</gen:value>
 </gen:intAttribute>
@@ -558,7 +558,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>73edca7b-c099-40e3-b902-6b17739aa4c2</gen:value>
+<gen:value>7144b510-43fd-456c-b6d2-94f662c8fd06</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -572,7 +572,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>73edca7b-c099-40e3-b902-6b17739aa4c2</gen:value>
+<gen:value>7144b510-43fd-456c-b6d2-94f662c8fd06</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -607,7 +607,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>73edca7b-c099-40e3-b902-6b17739aa4c2</gen:value>
+<gen:value>7144b510-43fd-456c-b6d2-94f662c8fd06</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -642,7 +642,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>73edca7b-c099-40e3-b902-6b17739aa4c2</gen:value>
+<gen:value>7144b510-43fd-456c-b6d2-94f662c8fd06</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -677,7 +677,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>73edca7b-c099-40e3-b902-6b17739aa4c2</gen:value>
+<gen:value>7144b510-43fd-456c-b6d2-94f662c8fd06</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -712,7 +712,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>73edca7b-c099-40e3-b902-6b17739aa4c2</gen:value>
+<gen:value>7144b510-43fd-456c-b6d2-94f662c8fd06</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -747,7 +747,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>73edca7b-c099-40e3-b902-6b17739aa4c2</gen:value>
+<gen:value>7144b510-43fd-456c-b6d2-94f662c8fd06</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -782,7 +782,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>73edca7b-c099-40e3-b902-6b17739aa4c2</gen:value>
+<gen:value>7144b510-43fd-456c-b6d2-94f662c8fd06</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -817,7 +817,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>73edca7b-c099-40e3-b902-6b17739aa4c2</gen:value>
+<gen:value>7144b510-43fd-456c-b6d2-94f662c8fd06</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -852,7 +852,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>73edca7b-c099-40e3-b902-6b17739aa4c2</gen:value>
+<gen:value>7144b510-43fd-456c-b6d2-94f662c8fd06</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -887,7 +887,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>73edca7b-c099-40e3-b902-6b17739aa4c2</gen:value>
+<gen:value>7144b510-43fd-456c-b6d2-94f662c8fd06</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -922,7 +922,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>73edca7b-c099-40e3-b902-6b17739aa4c2</gen:value>
+<gen:value>7144b510-43fd-456c-b6d2-94f662c8fd06</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -957,7 +957,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>73edca7b-c099-40e3-b902-6b17739aa4c2</gen:value>
+<gen:value>7144b510-43fd-456c-b6d2-94f662c8fd06</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -992,7 +992,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>73edca7b-c099-40e3-b902-6b17739aa4c2</gen:value>
+<gen:value>7144b510-43fd-456c-b6d2-94f662c8fd06</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -1027,7 +1027,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>73edca7b-c099-40e3-b902-6b17739aa4c2</gen:value>
+<gen:value>7144b510-43fd-456c-b6d2-94f662c8fd06</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -1062,7 +1062,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>73edca7b-c099-40e3-b902-6b17739aa4c2</gen:value>
+<gen:value>7144b510-43fd-456c-b6d2-94f662c8fd06</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -1097,7 +1097,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>73edca7b-c099-40e3-b902-6b17739aa4c2</gen:value>
+<gen:value>7144b510-43fd-456c-b6d2-94f662c8fd06</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -1132,7 +1132,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>73edca7b-c099-40e3-b902-6b17739aa4c2</gen:value>
+<gen:value>7144b510-43fd-456c-b6d2-94f662c8fd06</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -1246,7 +1246,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>73edca7b-c099-40e3-b902-6b17739aa4c2</gen:value>
+<gen:value>7144b510-43fd-456c-b6d2-94f662c8fd06</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -1351,7 +1351,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="93ddbda9-cc80-448e-b569-09f28f33e905">
+<bldg:Building gml:id="064a1b5c-214e-42e1-8056-1b15c62b14f1">
 <gen:intAttribute name="height">
 <gen:value>10</gen:value>
 </gen:intAttribute>
@@ -1362,7 +1362,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>93ddbda9-cc80-448e-b569-09f28f33e905</gen:value>
+<gen:value>064a1b5c-214e-42e1-8056-1b15c62b14f1</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -1376,7 +1376,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>93ddbda9-cc80-448e-b569-09f28f33e905</gen:value>
+<gen:value>064a1b5c-214e-42e1-8056-1b15c62b14f1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -1411,7 +1411,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>93ddbda9-cc80-448e-b569-09f28f33e905</gen:value>
+<gen:value>064a1b5c-214e-42e1-8056-1b15c62b14f1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -1446,7 +1446,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>93ddbda9-cc80-448e-b569-09f28f33e905</gen:value>
+<gen:value>064a1b5c-214e-42e1-8056-1b15c62b14f1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -1481,7 +1481,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>93ddbda9-cc80-448e-b569-09f28f33e905</gen:value>
+<gen:value>064a1b5c-214e-42e1-8056-1b15c62b14f1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -1516,7 +1516,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>93ddbda9-cc80-448e-b569-09f28f33e905</gen:value>
+<gen:value>064a1b5c-214e-42e1-8056-1b15c62b14f1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -1551,7 +1551,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>93ddbda9-cc80-448e-b569-09f28f33e905</gen:value>
+<gen:value>064a1b5c-214e-42e1-8056-1b15c62b14f1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -1586,7 +1586,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>93ddbda9-cc80-448e-b569-09f28f33e905</gen:value>
+<gen:value>064a1b5c-214e-42e1-8056-1b15c62b14f1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -1621,7 +1621,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>93ddbda9-cc80-448e-b569-09f28f33e905</gen:value>
+<gen:value>064a1b5c-214e-42e1-8056-1b15c62b14f1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -1656,7 +1656,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>93ddbda9-cc80-448e-b569-09f28f33e905</gen:value>
+<gen:value>064a1b5c-214e-42e1-8056-1b15c62b14f1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -1691,7 +1691,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>93ddbda9-cc80-448e-b569-09f28f33e905</gen:value>
+<gen:value>064a1b5c-214e-42e1-8056-1b15c62b14f1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -1726,7 +1726,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>93ddbda9-cc80-448e-b569-09f28f33e905</gen:value>
+<gen:value>064a1b5c-214e-42e1-8056-1b15c62b14f1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -1761,7 +1761,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>93ddbda9-cc80-448e-b569-09f28f33e905</gen:value>
+<gen:value>064a1b5c-214e-42e1-8056-1b15c62b14f1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -1796,7 +1796,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>93ddbda9-cc80-448e-b569-09f28f33e905</gen:value>
+<gen:value>064a1b5c-214e-42e1-8056-1b15c62b14f1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -1831,7 +1831,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>93ddbda9-cc80-448e-b569-09f28f33e905</gen:value>
+<gen:value>064a1b5c-214e-42e1-8056-1b15c62b14f1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -1866,7 +1866,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>93ddbda9-cc80-448e-b569-09f28f33e905</gen:value>
+<gen:value>064a1b5c-214e-42e1-8056-1b15c62b14f1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -1901,7 +1901,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>93ddbda9-cc80-448e-b569-09f28f33e905</gen:value>
+<gen:value>064a1b5c-214e-42e1-8056-1b15c62b14f1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -1936,7 +1936,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>93ddbda9-cc80-448e-b569-09f28f33e905</gen:value>
+<gen:value>064a1b5c-214e-42e1-8056-1b15c62b14f1</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -2050,7 +2050,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>93ddbda9-cc80-448e-b569-09f28f33e905</gen:value>
+<gen:value>064a1b5c-214e-42e1-8056-1b15c62b14f1</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -2155,7 +2155,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="d690c997-1fc4-47e7-b3da-23b940071217">
+<bldg:Building gml:id="13c0a6c4-1361-4cdb-a854-f8b5254cc8a2">
 <gen:intAttribute name="height">
 <gen:value>45</gen:value>
 </gen:intAttribute>
@@ -2166,7 +2166,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d690c997-1fc4-47e7-b3da-23b940071217</gen:value>
+<gen:value>13c0a6c4-1361-4cdb-a854-f8b5254cc8a2</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -2180,7 +2180,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d690c997-1fc4-47e7-b3da-23b940071217</gen:value>
+<gen:value>13c0a6c4-1361-4cdb-a854-f8b5254cc8a2</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -2215,7 +2215,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d690c997-1fc4-47e7-b3da-23b940071217</gen:value>
+<gen:value>13c0a6c4-1361-4cdb-a854-f8b5254cc8a2</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -2250,7 +2250,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d690c997-1fc4-47e7-b3da-23b940071217</gen:value>
+<gen:value>13c0a6c4-1361-4cdb-a854-f8b5254cc8a2</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -2285,7 +2285,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d690c997-1fc4-47e7-b3da-23b940071217</gen:value>
+<gen:value>13c0a6c4-1361-4cdb-a854-f8b5254cc8a2</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -2320,7 +2320,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d690c997-1fc4-47e7-b3da-23b940071217</gen:value>
+<gen:value>13c0a6c4-1361-4cdb-a854-f8b5254cc8a2</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -2355,7 +2355,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d690c997-1fc4-47e7-b3da-23b940071217</gen:value>
+<gen:value>13c0a6c4-1361-4cdb-a854-f8b5254cc8a2</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -2390,7 +2390,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d690c997-1fc4-47e7-b3da-23b940071217</gen:value>
+<gen:value>13c0a6c4-1361-4cdb-a854-f8b5254cc8a2</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -2425,7 +2425,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d690c997-1fc4-47e7-b3da-23b940071217</gen:value>
+<gen:value>13c0a6c4-1361-4cdb-a854-f8b5254cc8a2</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -2460,7 +2460,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d690c997-1fc4-47e7-b3da-23b940071217</gen:value>
+<gen:value>13c0a6c4-1361-4cdb-a854-f8b5254cc8a2</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -2538,7 +2538,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d690c997-1fc4-47e7-b3da-23b940071217</gen:value>
+<gen:value>13c0a6c4-1361-4cdb-a854-f8b5254cc8a2</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -2607,7 +2607,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="9a2bcf54-6683-429b-8957-7999be6b5942">
+<bldg:Building gml:id="57838f81-17a9-4b5b-ad62-1c7f9a91ba40">
 <gen:intAttribute name="height">
 <gen:value>9</gen:value>
 </gen:intAttribute>
@@ -2618,7 +2618,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>9a2bcf54-6683-429b-8957-7999be6b5942</gen:value>
+<gen:value>57838f81-17a9-4b5b-ad62-1c7f9a91ba40</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -2632,7 +2632,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>9a2bcf54-6683-429b-8957-7999be6b5942</gen:value>
+<gen:value>57838f81-17a9-4b5b-ad62-1c7f9a91ba40</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -2667,7 +2667,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>9a2bcf54-6683-429b-8957-7999be6b5942</gen:value>
+<gen:value>57838f81-17a9-4b5b-ad62-1c7f9a91ba40</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -2702,7 +2702,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>9a2bcf54-6683-429b-8957-7999be6b5942</gen:value>
+<gen:value>57838f81-17a9-4b5b-ad62-1c7f9a91ba40</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -2737,7 +2737,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>9a2bcf54-6683-429b-8957-7999be6b5942</gen:value>
+<gen:value>57838f81-17a9-4b5b-ad62-1c7f9a91ba40</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -2772,7 +2772,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>9a2bcf54-6683-429b-8957-7999be6b5942</gen:value>
+<gen:value>57838f81-17a9-4b5b-ad62-1c7f9a91ba40</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -2807,7 +2807,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>9a2bcf54-6683-429b-8957-7999be6b5942</gen:value>
+<gen:value>57838f81-17a9-4b5b-ad62-1c7f9a91ba40</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -2842,7 +2842,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>9a2bcf54-6683-429b-8957-7999be6b5942</gen:value>
+<gen:value>57838f81-17a9-4b5b-ad62-1c7f9a91ba40</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -2877,7 +2877,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>9a2bcf54-6683-429b-8957-7999be6b5942</gen:value>
+<gen:value>57838f81-17a9-4b5b-ad62-1c7f9a91ba40</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -2912,7 +2912,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>9a2bcf54-6683-429b-8957-7999be6b5942</gen:value>
+<gen:value>57838f81-17a9-4b5b-ad62-1c7f9a91ba40</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -2947,7 +2947,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>9a2bcf54-6683-429b-8957-7999be6b5942</gen:value>
+<gen:value>57838f81-17a9-4b5b-ad62-1c7f9a91ba40</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -2982,7 +2982,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>9a2bcf54-6683-429b-8957-7999be6b5942</gen:value>
+<gen:value>57838f81-17a9-4b5b-ad62-1c7f9a91ba40</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -3017,7 +3017,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>9a2bcf54-6683-429b-8957-7999be6b5942</gen:value>
+<gen:value>57838f81-17a9-4b5b-ad62-1c7f9a91ba40</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -3052,7 +3052,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>9a2bcf54-6683-429b-8957-7999be6b5942</gen:value>
+<gen:value>57838f81-17a9-4b5b-ad62-1c7f9a91ba40</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -3148,7 +3148,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>9a2bcf54-6683-429b-8957-7999be6b5942</gen:value>
+<gen:value>57838f81-17a9-4b5b-ad62-1c7f9a91ba40</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -3237,129 +3237,12 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>73edca7b-c099-40e3-b902-6b17739aa4c2</gen:value>
+<gen:value>7144b510-43fd-456c-b6d2-94f662c8fd06</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
 <gml:surfaceMember>
 <gml:CompositeSurface>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.037461482041 105.782275213827 20 21.0374437551413 105.782820587465 20 21.0374591086135 105.782383200891 24 21.037461482041 105.782275213827 20</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.037461482041 105.782275213827 20 21.0374591086135 105.782383200891 24 21.0375214773931 105.782335384136 24 21.037461482041 105.782275213827 20</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.037461482041 105.782275213827 20 21.0375214773931 105.782335384136 24 21.0375845959163 105.782272866579 20 21.037461482041 105.782275213827 20</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0374590126026 105.782526744048 24 21.0374507776313 105.782702903925 20 21.0375114281688 105.782706131 24 21.0374590126026 105.782526744048 24</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0374590126026 105.782526744048 24 21.0375114281688 105.782706131 24 21.0375181363596 105.782528145012 24 21.0374590126026 105.782526744048 24</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0374590126026 105.782526744048 24 21.0375181363596 105.782528145012 24 21.0375202497232 105.782383893165 24 21.0374590126026 105.782526744048 24</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0374590126026 105.782526744048 24 21.0375202497232 105.782383893165 24 21.0374591086135 105.782383200891 24 21.0374590126026 105.782526744048 24</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0374590126026 105.782526744048 24 21.0374591086135 105.782383200891 24 21.0374507776313 105.782702903925 20 21.0374590126026 105.782526744048 24</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0374591086135 105.782383200891 24 21.0374437551413 105.782820587465 20 21.0374507776313 105.782702903925 20 21.0374591086135 105.782383200891 24</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0374591086135 105.782383200891 24 21.0375202497232 105.782383893165 24 21.0375214773931 105.782335384136 24 21.0374591086135 105.782383200891 24</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0375845959163 105.782272866579 20 21.0375214773931 105.782335384136 24 21.0375202497232 105.782383893165 24 21.0375845959163 105.782272866579 20</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0375845959163 105.782272866579 20 21.0375202497232 105.782383893165 24 21.0375181363596 105.782528145012 24 21.0375845959163 105.782272866579 20</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0375845959163 105.782272866579 20 21.0375181363596 105.782528145012 24 21.0375681259736 105.782847976765 20 21.0375845959163 105.782272866579 20</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
 <gml:surfaceMember>
 <gml:Polygon>
 <gml:exterior>
@@ -3382,6 +3265,24 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
+<gml:posList>21.0374437551413 105.782820587465 20 21.0374507776313 105.782702903925 20 21.037461482041 105.782275213827 20 21.0374437551413 105.782820587465 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0374507776313 105.782702903925 20 21.0375181363596 105.782528145012 24 21.037461482041 105.782275213827 20 21.0374507776313 105.782702903925 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
 <gml:posList>21.0374507776313 105.782702903925 20 21.0375078083746 105.782788129448 24 21.0375114281688 105.782706131 24 21.0374507776313 105.782702903925 20</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
@@ -3391,7 +3292,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0375114281688 105.782706131 24 21.0375078083746 105.782788129448 24 21.0375681259736 105.782847976765 20 21.0375114281688 105.782706131 24</gml:posList>
+<gml:posList>21.0374507776313 105.782702903925 20 21.0375114281688 105.782706131 24 21.0375181363596 105.782528145012 24 21.0374507776313 105.782702903925 20</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -3400,7 +3301,34 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0375114281688 105.782706131 24 21.0375681259736 105.782847976765 20 21.0375181363596 105.782528145012 24 21.0375114281688 105.782706131 24</gml:posList>
+<gml:posList>21.0375181363596 105.782528145012 24 21.0375202497232 105.782383893165 24 21.037461482041 105.782275213827 20 21.0375181363596 105.782528145012 24</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0375181363596 105.782528145012 24 21.0375114281688 105.782706131 24 21.0375681259736 105.782847976765 20 21.0375181363596 105.782528145012 24</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0375181363596 105.782528145012 24 21.0375681259736 105.782847976765 20 21.0375845959163 105.782272866579 20 21.0375181363596 105.782528145012 24</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0375181363596 105.782528145012 24 21.0375845959163 105.782272866579 20 21.0375202497232 105.782383893165 24 21.0375181363596 105.782528145012 24</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -3414,6 +3342,42 @@
 </gml:exterior>
 </gml:Polygon>
 </gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0375681259736 105.782847976765 20 21.0375114281688 105.782706131 24 21.0375078083746 105.782788129448 24 21.0375681259736 105.782847976765 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0375845959163 105.782272866579 20 21.037461482041 105.782275213827 20 21.0375214773931 105.782335384136 24 21.0375845959163 105.782272866579 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0375845959163 105.782272866579 20 21.0375214773931 105.782335384136 24 21.0375202497232 105.782383893165 24 21.0375845959163 105.782272866579 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.037461482041 105.782275213827 20 21.0375202497232 105.782383893165 24 21.0375214773931 105.782335384136 24 21.037461482041 105.782275213827 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
 </gml:CompositeSurface>
 </gml:surfaceMember>
 </gml:MultiSurface>
@@ -3421,7 +3385,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="f8659839-e0ef-4913-9fc9-974c33d41293">
+<bldg:Building gml:id="30292dcf-0533-41e4-a8cb-8548d6d5c6a5">
 <gen:intAttribute name="height">
 <gen:value>12</gen:value>
 </gen:intAttribute>
@@ -3432,7 +3396,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f8659839-e0ef-4913-9fc9-974c33d41293</gen:value>
+<gen:value>30292dcf-0533-41e4-a8cb-8548d6d5c6a5</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -3446,7 +3410,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f8659839-e0ef-4913-9fc9-974c33d41293</gen:value>
+<gen:value>30292dcf-0533-41e4-a8cb-8548d6d5c6a5</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -3481,7 +3445,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f8659839-e0ef-4913-9fc9-974c33d41293</gen:value>
+<gen:value>30292dcf-0533-41e4-a8cb-8548d6d5c6a5</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -3516,7 +3480,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f8659839-e0ef-4913-9fc9-974c33d41293</gen:value>
+<gen:value>30292dcf-0533-41e4-a8cb-8548d6d5c6a5</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -3551,7 +3515,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f8659839-e0ef-4913-9fc9-974c33d41293</gen:value>
+<gen:value>30292dcf-0533-41e4-a8cb-8548d6d5c6a5</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -3586,7 +3550,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f8659839-e0ef-4913-9fc9-974c33d41293</gen:value>
+<gen:value>30292dcf-0533-41e4-a8cb-8548d6d5c6a5</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -3621,7 +3585,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f8659839-e0ef-4913-9fc9-974c33d41293</gen:value>
+<gen:value>30292dcf-0533-41e4-a8cb-8548d6d5c6a5</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -3656,7 +3620,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f8659839-e0ef-4913-9fc9-974c33d41293</gen:value>
+<gen:value>30292dcf-0533-41e4-a8cb-8548d6d5c6a5</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -3691,7 +3655,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f8659839-e0ef-4913-9fc9-974c33d41293</gen:value>
+<gen:value>30292dcf-0533-41e4-a8cb-8548d6d5c6a5</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -3726,7 +3690,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f8659839-e0ef-4913-9fc9-974c33d41293</gen:value>
+<gen:value>30292dcf-0533-41e4-a8cb-8548d6d5c6a5</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -3804,7 +3768,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f8659839-e0ef-4913-9fc9-974c33d41293</gen:value>
+<gen:value>30292dcf-0533-41e4-a8cb-8548d6d5c6a5</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -3875,7 +3839,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>9a2bcf54-6683-429b-8957-7999be6b5942</gen:value>
+<gen:value>57838f81-17a9-4b5b-ad62-1c7f9a91ba40</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -3948,7 +3912,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0381667246901 105.781284864688 13 21.0382392761414 105.781360980157 9 21.0382413348842 105.781213316731 9 21.0381667246901 105.781284864688 13</gml:posList>
+<gml:posList>21.0379406171029 105.781277917543 13 21.0379993223399 105.78127986771 13 21.0378707611719 105.781202954385 9 21.0379406171029 105.781277917543 13</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -3957,7 +3921,16 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0381667246901 105.781284864688 13 21.0382413348842 105.781213316731 9 21.0380892681754 105.781282464642 13 21.0381667246901 105.781284864688 13</gml:posList>
+<gml:posList>21.0379406171029 105.781277917543 13 21.0378707611719 105.781202954385 9 21.0378645849433 105.781348027225 9 21.0379406171029 105.781277917543 13</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0382392761414 105.781360980157 9 21.0382413348842 105.781213316731 9 21.0381667246901 105.781284864688 13 21.0382392761414 105.781360980157 9</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -3975,16 +3948,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0378707611719 105.781202954385 9 21.0378645849433 105.781348027225 9 21.0379406171029 105.781277917543 13 21.0378707611719 105.781202954385 9</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0378707611719 105.781202954385 9 21.0379406171029 105.781277917543 13 21.0379993223399 105.78127986771 13 21.0378707611719 105.781202954385 9</gml:posList>
+<gml:posList>21.0382413348842 105.781213316731 9 21.0380892681754 105.781282464642 13 21.0381667246901 105.781284864688 13 21.0382413348842 105.781213316731 9</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -4005,7 +3969,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="f26f2fd0-4a51-48b4-84cb-c11b41023e8d">
+<bldg:Building gml:id="20540b63-9dbe-4a36-80af-fb546ad21730">
 <gen:intAttribute name="height">
 <gen:value>8</gen:value>
 </gen:intAttribute>
@@ -4016,7 +3980,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -4030,7 +3994,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4065,7 +4029,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4100,7 +4064,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4135,7 +4099,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4170,7 +4134,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4205,7 +4169,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4240,7 +4204,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4275,7 +4239,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4310,7 +4274,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4345,7 +4309,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4380,7 +4344,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4415,7 +4379,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4450,7 +4414,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4485,7 +4449,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4520,7 +4484,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4555,7 +4519,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4590,7 +4554,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4625,7 +4589,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4660,7 +4624,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4695,7 +4659,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4730,7 +4694,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4765,7 +4729,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4800,7 +4764,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4835,7 +4799,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4870,7 +4834,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4905,7 +4869,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4940,7 +4904,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -4975,7 +4939,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -5010,7 +4974,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -5045,7 +5009,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -5080,7 +5044,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -5115,7 +5079,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -5150,7 +5114,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -5336,7 +5300,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f26f2fd0-4a51-48b4-84cb-c11b41023e8d</gen:value>
+<gen:value>20540b63-9dbe-4a36-80af-fb546ad21730</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -5513,7 +5477,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="8e607e76-c351-4816-aa03-20bee0253f8d">
+<bldg:Building gml:id="e8e549e6-cc80-43f6-af62-6fc3bcd6f190">
 <gen:intAttribute name="height">
 <gen:value>20</gen:value>
 </gen:intAttribute>
@@ -5524,7 +5488,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8e607e76-c351-4816-aa03-20bee0253f8d</gen:value>
+<gen:value>e8e549e6-cc80-43f6-af62-6fc3bcd6f190</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -5538,7 +5502,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8e607e76-c351-4816-aa03-20bee0253f8d</gen:value>
+<gen:value>e8e549e6-cc80-43f6-af62-6fc3bcd6f190</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -5573,7 +5537,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8e607e76-c351-4816-aa03-20bee0253f8d</gen:value>
+<gen:value>e8e549e6-cc80-43f6-af62-6fc3bcd6f190</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -5608,7 +5572,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8e607e76-c351-4816-aa03-20bee0253f8d</gen:value>
+<gen:value>e8e549e6-cc80-43f6-af62-6fc3bcd6f190</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -5643,7 +5607,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8e607e76-c351-4816-aa03-20bee0253f8d</gen:value>
+<gen:value>e8e549e6-cc80-43f6-af62-6fc3bcd6f190</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -5678,7 +5642,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8e607e76-c351-4816-aa03-20bee0253f8d</gen:value>
+<gen:value>e8e549e6-cc80-43f6-af62-6fc3bcd6f190</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -5713,7 +5677,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8e607e76-c351-4816-aa03-20bee0253f8d</gen:value>
+<gen:value>e8e549e6-cc80-43f6-af62-6fc3bcd6f190</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -5748,7 +5712,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8e607e76-c351-4816-aa03-20bee0253f8d</gen:value>
+<gen:value>e8e549e6-cc80-43f6-af62-6fc3bcd6f190</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -5783,7 +5747,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8e607e76-c351-4816-aa03-20bee0253f8d</gen:value>
+<gen:value>e8e549e6-cc80-43f6-af62-6fc3bcd6f190</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -5818,7 +5782,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8e607e76-c351-4816-aa03-20bee0253f8d</gen:value>
+<gen:value>e8e549e6-cc80-43f6-af62-6fc3bcd6f190</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -5896,7 +5860,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8e607e76-c351-4816-aa03-20bee0253f8d</gen:value>
+<gen:value>e8e549e6-cc80-43f6-af62-6fc3bcd6f190</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -5967,7 +5931,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>f8659839-e0ef-4913-9fc9-974c33d41293</gen:value>
+<gen:value>30292dcf-0533-41e4-a8cb-8548d6d5c6a5</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -6013,7 +5977,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0382541438676 105.781509608883 16 21.0381816313417 105.781433516577 12 21.0382528525451 105.781549952704 16 21.0382541438676 105.781509608883 16</gml:posList>
+<gml:posList>21.0382528525451 105.781549952704 16 21.0382541438676 105.781509608883 16 21.0381816313417 105.781433516577 12 21.0382528525451 105.781549952704 16</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -6022,7 +5986,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0381816313417 105.781433516577 12 21.0381755580856 105.781624571211 12 21.0382528525451 105.781549952704 16 21.0381816313417 105.781433516577 12</gml:posList>
+<gml:posList>21.0382528525451 105.781549952704 16 21.0381816313417 105.781433516577 12 21.0381755580856 105.781624571211 12 21.0382528525451 105.781549952704 16</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -6034,7 +5998,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="63515cdd-7fd2-4f17-8b58-a6ee39649462">
+<bldg:Building gml:id="912ff979-ce5c-4814-853f-e7f738e94f9e">
 <gen:intAttribute name="height">
 <gen:value>16</gen:value>
 </gen:intAttribute>
@@ -6045,7 +6009,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>63515cdd-7fd2-4f17-8b58-a6ee39649462</gen:value>
+<gen:value>912ff979-ce5c-4814-853f-e7f738e94f9e</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -6059,7 +6023,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>63515cdd-7fd2-4f17-8b58-a6ee39649462</gen:value>
+<gen:value>912ff979-ce5c-4814-853f-e7f738e94f9e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -6094,7 +6058,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>63515cdd-7fd2-4f17-8b58-a6ee39649462</gen:value>
+<gen:value>912ff979-ce5c-4814-853f-e7f738e94f9e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -6129,7 +6093,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>63515cdd-7fd2-4f17-8b58-a6ee39649462</gen:value>
+<gen:value>912ff979-ce5c-4814-853f-e7f738e94f9e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -6164,7 +6128,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>63515cdd-7fd2-4f17-8b58-a6ee39649462</gen:value>
+<gen:value>912ff979-ce5c-4814-853f-e7f738e94f9e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -6199,7 +6163,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>63515cdd-7fd2-4f17-8b58-a6ee39649462</gen:value>
+<gen:value>912ff979-ce5c-4814-853f-e7f738e94f9e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -6234,7 +6198,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>63515cdd-7fd2-4f17-8b58-a6ee39649462</gen:value>
+<gen:value>912ff979-ce5c-4814-853f-e7f738e94f9e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -6269,7 +6233,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>63515cdd-7fd2-4f17-8b58-a6ee39649462</gen:value>
+<gen:value>912ff979-ce5c-4814-853f-e7f738e94f9e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -6304,7 +6268,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>63515cdd-7fd2-4f17-8b58-a6ee39649462</gen:value>
+<gen:value>912ff979-ce5c-4814-853f-e7f738e94f9e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -6339,7 +6303,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>63515cdd-7fd2-4f17-8b58-a6ee39649462</gen:value>
+<gen:value>912ff979-ce5c-4814-853f-e7f738e94f9e</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -6417,7 +6381,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>63515cdd-7fd2-4f17-8b58-a6ee39649462</gen:value>
+<gen:value>912ff979-ce5c-4814-853f-e7f738e94f9e</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -6488,7 +6452,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>8e607e76-c351-4816-aa03-20bee0253f8d</gen:value>
+<gen:value>e8e549e6-cc80-43f6-af62-6fc3bcd6f190</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -6534,7 +6498,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0383917838721 105.782295054757 24 21.0384410329402 105.782345402999 20 21.0384048660912 105.78174076843 24 21.0383917838721 105.782295054757 24</gml:posList>
+<gml:posList>21.0384048660912 105.78174076843 24 21.0383917838721 105.782295054757 24 21.0384410329402 105.782345402999 20 21.0384048660912 105.78174076843 24</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -6543,7 +6507,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0384410329402 105.782345402999 20 21.0384554441401 105.781692575219 20 21.0384048660912 105.78174076843 24 21.0384410329402 105.782345402999 20</gml:posList>
+<gml:posList>21.0384048660912 105.78174076843 24 21.0384410329402 105.782345402999 20 21.0384554441401 105.781692575219 20 21.0384048660912 105.78174076843 24</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -6555,7 +6519,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="8ae7a1b8-6573-4752-9e98-9aa77245ea5c">
+<bldg:Building gml:id="96e63241-f1c1-4b9f-aeb4-f1085a866e8f">
 <gen:intAttribute name="height">
 <gen:value>25</gen:value>
 </gen:intAttribute>
@@ -6566,7 +6530,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ae7a1b8-6573-4752-9e98-9aa77245ea5c</gen:value>
+<gen:value>96e63241-f1c1-4b9f-aeb4-f1085a866e8f</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -6580,7 +6544,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ae7a1b8-6573-4752-9e98-9aa77245ea5c</gen:value>
+<gen:value>96e63241-f1c1-4b9f-aeb4-f1085a866e8f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -6615,7 +6579,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ae7a1b8-6573-4752-9e98-9aa77245ea5c</gen:value>
+<gen:value>96e63241-f1c1-4b9f-aeb4-f1085a866e8f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -6650,7 +6614,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ae7a1b8-6573-4752-9e98-9aa77245ea5c</gen:value>
+<gen:value>96e63241-f1c1-4b9f-aeb4-f1085a866e8f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -6685,7 +6649,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ae7a1b8-6573-4752-9e98-9aa77245ea5c</gen:value>
+<gen:value>96e63241-f1c1-4b9f-aeb4-f1085a866e8f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -6720,7 +6684,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ae7a1b8-6573-4752-9e98-9aa77245ea5c</gen:value>
+<gen:value>96e63241-f1c1-4b9f-aeb4-f1085a866e8f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -6755,7 +6719,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ae7a1b8-6573-4752-9e98-9aa77245ea5c</gen:value>
+<gen:value>96e63241-f1c1-4b9f-aeb4-f1085a866e8f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -6790,7 +6754,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ae7a1b8-6573-4752-9e98-9aa77245ea5c</gen:value>
+<gen:value>96e63241-f1c1-4b9f-aeb4-f1085a866e8f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -6825,7 +6789,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ae7a1b8-6573-4752-9e98-9aa77245ea5c</gen:value>
+<gen:value>96e63241-f1c1-4b9f-aeb4-f1085a866e8f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -6860,7 +6824,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ae7a1b8-6573-4752-9e98-9aa77245ea5c</gen:value>
+<gen:value>96e63241-f1c1-4b9f-aeb4-f1085a866e8f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -6895,7 +6859,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ae7a1b8-6573-4752-9e98-9aa77245ea5c</gen:value>
+<gen:value>96e63241-f1c1-4b9f-aeb4-f1085a866e8f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -6930,7 +6894,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ae7a1b8-6573-4752-9e98-9aa77245ea5c</gen:value>
+<gen:value>96e63241-f1c1-4b9f-aeb4-f1085a866e8f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -6965,7 +6929,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ae7a1b8-6573-4752-9e98-9aa77245ea5c</gen:value>
+<gen:value>96e63241-f1c1-4b9f-aeb4-f1085a866e8f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -7000,7 +6964,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ae7a1b8-6573-4752-9e98-9aa77245ea5c</gen:value>
+<gen:value>96e63241-f1c1-4b9f-aeb4-f1085a866e8f</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -7096,7 +7060,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ae7a1b8-6573-4752-9e98-9aa77245ea5c</gen:value>
+<gen:value>96e63241-f1c1-4b9f-aeb4-f1085a866e8f</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -7185,7 +7149,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>63515cdd-7fd2-4f17-8b58-a6ee39649462</gen:value>
+<gen:value>912ff979-ce5c-4814-853f-e7f738e94f9e</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -7231,7 +7195,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0384110635197 105.781602138469 21 21.0384164855701 105.781253485859 21 21.0383607419692 105.781197773212 16 21.0384110635197 105.781602138469 21</gml:posList>
+<gml:posList>21.0384164855701 105.781253485859 21 21.0383607419692 105.781197773212 16 21.0384110635197 105.781602138469 21 21.0384164855701 105.781253485859 21</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -7240,7 +7204,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0384110635197 105.781602138469 21 21.0383607419692 105.781197773212 16 21.0383504482549 105.781658897596 16 21.0384110635197 105.781602138469 21</gml:posList>
+<gml:posList>21.0383607419692 105.781197773212 16 21.0383504482549 105.781658897596 16 21.0384110635197 105.781602138469 21 21.0383607419692 105.781197773212 16</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -7252,7 +7216,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="72278ee6-59ea-400a-a7e5-c429c051f6e8">
+<bldg:Building gml:id="b82a2ed5-ced7-4831-90c7-11582d67f435">
 <gen:intAttribute name="height">
 <gen:value>25</gen:value>
 </gen:intAttribute>
@@ -7263,7 +7227,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>72278ee6-59ea-400a-a7e5-c429c051f6e8</gen:value>
+<gen:value>b82a2ed5-ced7-4831-90c7-11582d67f435</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -7277,7 +7241,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>72278ee6-59ea-400a-a7e5-c429c051f6e8</gen:value>
+<gen:value>b82a2ed5-ced7-4831-90c7-11582d67f435</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -7312,7 +7276,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>72278ee6-59ea-400a-a7e5-c429c051f6e8</gen:value>
+<gen:value>b82a2ed5-ced7-4831-90c7-11582d67f435</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -7347,7 +7311,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>72278ee6-59ea-400a-a7e5-c429c051f6e8</gen:value>
+<gen:value>b82a2ed5-ced7-4831-90c7-11582d67f435</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -7382,7 +7346,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>72278ee6-59ea-400a-a7e5-c429c051f6e8</gen:value>
+<gen:value>b82a2ed5-ced7-4831-90c7-11582d67f435</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -7417,7 +7381,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>72278ee6-59ea-400a-a7e5-c429c051f6e8</gen:value>
+<gen:value>b82a2ed5-ced7-4831-90c7-11582d67f435</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -7452,7 +7416,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>72278ee6-59ea-400a-a7e5-c429c051f6e8</gen:value>
+<gen:value>b82a2ed5-ced7-4831-90c7-11582d67f435</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -7487,7 +7451,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>72278ee6-59ea-400a-a7e5-c429c051f6e8</gen:value>
+<gen:value>b82a2ed5-ced7-4831-90c7-11582d67f435</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -7522,7 +7486,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>72278ee6-59ea-400a-a7e5-c429c051f6e8</gen:value>
+<gen:value>b82a2ed5-ced7-4831-90c7-11582d67f435</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -7557,7 +7521,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>72278ee6-59ea-400a-a7e5-c429c051f6e8</gen:value>
+<gen:value>b82a2ed5-ced7-4831-90c7-11582d67f435</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -7592,7 +7556,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>72278ee6-59ea-400a-a7e5-c429c051f6e8</gen:value>
+<gen:value>b82a2ed5-ced7-4831-90c7-11582d67f435</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -7627,7 +7591,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>72278ee6-59ea-400a-a7e5-c429c051f6e8</gen:value>
+<gen:value>b82a2ed5-ced7-4831-90c7-11582d67f435</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -7662,7 +7626,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>72278ee6-59ea-400a-a7e5-c429c051f6e8</gen:value>
+<gen:value>b82a2ed5-ced7-4831-90c7-11582d67f435</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -7697,7 +7661,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>72278ee6-59ea-400a-a7e5-c429c051f6e8</gen:value>
+<gen:value>b82a2ed5-ced7-4831-90c7-11582d67f435</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -7793,7 +7757,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>72278ee6-59ea-400a-a7e5-c429c051f6e8</gen:value>
+<gen:value>b82a2ed5-ced7-4831-90c7-11582d67f435</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -7882,7 +7846,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ae7a1b8-6573-4752-9e98-9aa77245ea5c</gen:value>
+<gen:value>96e63241-f1c1-4b9f-aeb4-f1085a866e8f</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -7892,7 +7856,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0379284059716 105.782482704079 25 21.0378616875528 105.78248187575 30 21.0378608226358 105.782560425318 30 21.0379284059716 105.782482704079 25</gml:posList>
+<gml:posList>21.0379284059716 105.782482704079 25 21.0378619048944 105.78247259938 30 21.0378608226358 105.782560425318 30 21.0379284059716 105.782482704079 25</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -7919,16 +7883,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0379284059716 105.782482704079 25 21.0379302915188 105.782406779337 25 21.0378616875528 105.78248187575 30 21.0379284059716 105.782482704079 25</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0379284059716 105.782560421672 25 21.0378608226358 105.782560425318 30 21.0378584006748 105.782781464894 30 21.0379284059716 105.782560421672 25</gml:posList>
+<gml:posList>21.0379284059716 105.782482704079 25 21.0379302915188 105.782406779337 25 21.0378619048944 105.78247259938 30 21.0379284059716 105.782482704079 25</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -7955,7 +7910,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0378584006748 105.782781464894 30 21.0378608226358 105.782560425318 30 21.0377868617348 105.782849243175 25 21.0378584006748 105.782781464894 30</gml:posList>
+<gml:posList>21.0379284059716 105.782560421672 25 21.0378608226358 105.782560425318 30 21.0378584006748 105.782781464894 30 21.0379284059716 105.782560421672 25</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -7964,7 +7919,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0378584006748 105.782781464894 30 21.0377868617348 105.782849243175 25 21.0379284376266 105.782853768431 25 21.0378584006748 105.782781464894 30</gml:posList>
+<gml:posList>21.0378619048944 105.78247259938 30 21.0379302915188 105.782406779337 25 21.0377966464295 105.782404986486 25 21.0378619048944 105.78247259938 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -7973,7 +7928,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0379302915188 105.782406779337 25 21.0377966464295 105.782404986486 25 21.0378616875528 105.78248187575 30 21.0379302915188 105.782406779337 25</gml:posList>
+<gml:posList>21.0378619048944 105.78247259938 30 21.0377966464295 105.782404986486 25 21.0378608226358 105.782560425318 30 21.0378619048944 105.78247259938 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -7991,7 +7946,16 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0377966464295 105.782404986486 25 21.0378608226358 105.782560425318 30 21.0378616875528 105.78248187575 30 21.0377966464295 105.782404986486 25</gml:posList>
+<gml:posList>21.0377868617348 105.782849243175 25 21.0379284376266 105.782853768431 25 21.0378584006748 105.782781464894 30 21.0377868617348 105.782849243175 25</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0377868617348 105.782849243175 25 21.0378584006748 105.782781464894 30 21.0378608226358 105.782560425318 30 21.0377868617348 105.782849243175 25</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -8003,7 +7967,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="dddf2b2e-e325-4e26-9e76-95a3af6b8398">
+<bldg:Building gml:id="304b8c85-cbbd-4091-9d4f-0887757a0a94">
 <gen:intAttribute name="height">
 <gen:value>20</gen:value>
 </gen:intAttribute>
@@ -8014,7 +7978,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>dddf2b2e-e325-4e26-9e76-95a3af6b8398</gen:value>
+<gen:value>304b8c85-cbbd-4091-9d4f-0887757a0a94</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -8028,7 +7992,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>dddf2b2e-e325-4e26-9e76-95a3af6b8398</gen:value>
+<gen:value>304b8c85-cbbd-4091-9d4f-0887757a0a94</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -8063,7 +8027,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>dddf2b2e-e325-4e26-9e76-95a3af6b8398</gen:value>
+<gen:value>304b8c85-cbbd-4091-9d4f-0887757a0a94</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -8098,7 +8062,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>dddf2b2e-e325-4e26-9e76-95a3af6b8398</gen:value>
+<gen:value>304b8c85-cbbd-4091-9d4f-0887757a0a94</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -8133,7 +8097,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>dddf2b2e-e325-4e26-9e76-95a3af6b8398</gen:value>
+<gen:value>304b8c85-cbbd-4091-9d4f-0887757a0a94</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -8168,7 +8132,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>dddf2b2e-e325-4e26-9e76-95a3af6b8398</gen:value>
+<gen:value>304b8c85-cbbd-4091-9d4f-0887757a0a94</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -8203,7 +8167,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>dddf2b2e-e325-4e26-9e76-95a3af6b8398</gen:value>
+<gen:value>304b8c85-cbbd-4091-9d4f-0887757a0a94</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -8238,7 +8202,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>dddf2b2e-e325-4e26-9e76-95a3af6b8398</gen:value>
+<gen:value>304b8c85-cbbd-4091-9d4f-0887757a0a94</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -8273,7 +8237,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>dddf2b2e-e325-4e26-9e76-95a3af6b8398</gen:value>
+<gen:value>304b8c85-cbbd-4091-9d4f-0887757a0a94</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -8308,7 +8272,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>dddf2b2e-e325-4e26-9e76-95a3af6b8398</gen:value>
+<gen:value>304b8c85-cbbd-4091-9d4f-0887757a0a94</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -8386,7 +8350,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>dddf2b2e-e325-4e26-9e76-95a3af6b8398</gen:value>
+<gen:value>304b8c85-cbbd-4091-9d4f-0887757a0a94</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -8457,7 +8421,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>72278ee6-59ea-400a-a7e5-c429c051f6e8</gen:value>
+<gen:value>b82a2ed5-ced7-4831-90c7-11582d67f435</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -8476,16 +8440,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0379882940721 105.782855681651 25 21.0379864743727 105.782922283785 30 21.0381038667424 105.782923699626 30 21.0379882940721 105.782855681651 25</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0379882940721 105.782855681651 25 21.0381038667424 105.782923699626 30 21.0381054578564 105.782858339111 25 21.0379882940721 105.782855681651 25</gml:posList>
+<gml:posList>21.0379882940721 105.782855681651 25 21.0379864743727 105.782922283785 30 21.0381054578564 105.782858339111 25 21.0379882940721 105.782855681651 25</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -8521,7 +8476,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0381054578564 105.782858339111 25 21.0381038667424 105.782923699626 30 21.0381864272065 105.782860444789 25 21.0381054578564 105.782858339111 25</gml:posList>
+<gml:posList>21.0381054578564 105.782858339111 25 21.0379864743727 105.782922283785 30 21.0381190359341 105.78292390778 30 21.0381054578564 105.782858339111 25</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -8530,7 +8485,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.037854897812 105.782920086566 30 21.0377868617348 105.782849243175 25 21.0377856811849 105.782988620454 25 21.037854897812 105.782920086566 30</gml:posList>
+<gml:posList>21.0381054578564 105.782858339111 25 21.0381190359341 105.78292390778 30 21.0381864272065 105.782860444789 25 21.0381054578564 105.782858339111 25</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -8539,7 +8494,25 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.037854897812 105.782920086566 30 21.0377856811849 105.782988620454 25 21.0379864743727 105.782922283785 30 21.037854897812 105.782920086566 30</gml:posList>
+<gml:posList>21.0381190359341 105.78292390778 30 21.0379864743727 105.782922283785 30 21.0381820452019 105.782989192266 25 21.0381190359341 105.78292390778 30</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0381190359341 105.78292390778 30 21.0381820452019 105.782989192266 25 21.0381864272065 105.782860444789 25 21.0381190359341 105.78292390778 30</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0377868617348 105.782849243175 25 21.0377856811849 105.782988620454 25 21.037854897812 105.782920086566 30 21.0377868617348 105.782849243175 25</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -8557,16 +8530,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0381820452019 105.782989192266 25 21.0381864272065 105.782860444789 25 21.0381038667424 105.782923699626 30 21.0381820452019 105.782989192266 25</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0381820452019 105.782989192266 25 21.0381038667424 105.782923699626 30 21.0379864743727 105.782922283785 30 21.0381820452019 105.782989192266 25</gml:posList>
+<gml:posList>21.0377856811849 105.782988620454 25 21.0379864743727 105.782922283785 30 21.037854897812 105.782920086566 30 21.0377856811849 105.782988620454 25</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -8578,7 +8542,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="4ad1170b-6046-4c2a-96fd-e24691056cb9">
+<bldg:Building gml:id="bb60d884-3707-4012-ab5f-8ddb06a68a4b">
 <gen:intAttribute name="height">
 <gen:value>12</gen:value>
 </gen:intAttribute>
@@ -8589,7 +8553,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>4ad1170b-6046-4c2a-96fd-e24691056cb9</gen:value>
+<gen:value>bb60d884-3707-4012-ab5f-8ddb06a68a4b</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -8603,7 +8567,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>4ad1170b-6046-4c2a-96fd-e24691056cb9</gen:value>
+<gen:value>bb60d884-3707-4012-ab5f-8ddb06a68a4b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -8638,7 +8602,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>4ad1170b-6046-4c2a-96fd-e24691056cb9</gen:value>
+<gen:value>bb60d884-3707-4012-ab5f-8ddb06a68a4b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -8673,7 +8637,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>4ad1170b-6046-4c2a-96fd-e24691056cb9</gen:value>
+<gen:value>bb60d884-3707-4012-ab5f-8ddb06a68a4b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -8708,7 +8672,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>4ad1170b-6046-4c2a-96fd-e24691056cb9</gen:value>
+<gen:value>bb60d884-3707-4012-ab5f-8ddb06a68a4b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -8743,7 +8707,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>4ad1170b-6046-4c2a-96fd-e24691056cb9</gen:value>
+<gen:value>bb60d884-3707-4012-ab5f-8ddb06a68a4b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -8778,7 +8742,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>4ad1170b-6046-4c2a-96fd-e24691056cb9</gen:value>
+<gen:value>bb60d884-3707-4012-ab5f-8ddb06a68a4b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -8813,7 +8777,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>4ad1170b-6046-4c2a-96fd-e24691056cb9</gen:value>
+<gen:value>bb60d884-3707-4012-ab5f-8ddb06a68a4b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -8848,7 +8812,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>4ad1170b-6046-4c2a-96fd-e24691056cb9</gen:value>
+<gen:value>bb60d884-3707-4012-ab5f-8ddb06a68a4b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -8883,7 +8847,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>4ad1170b-6046-4c2a-96fd-e24691056cb9</gen:value>
+<gen:value>bb60d884-3707-4012-ab5f-8ddb06a68a4b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -8918,7 +8882,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>4ad1170b-6046-4c2a-96fd-e24691056cb9</gen:value>
+<gen:value>bb60d884-3707-4012-ab5f-8ddb06a68a4b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -8953,7 +8917,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>4ad1170b-6046-4c2a-96fd-e24691056cb9</gen:value>
+<gen:value>bb60d884-3707-4012-ab5f-8ddb06a68a4b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -8988,7 +8952,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>4ad1170b-6046-4c2a-96fd-e24691056cb9</gen:value>
+<gen:value>bb60d884-3707-4012-ab5f-8ddb06a68a4b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -9023,7 +8987,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>4ad1170b-6046-4c2a-96fd-e24691056cb9</gen:value>
+<gen:value>bb60d884-3707-4012-ab5f-8ddb06a68a4b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -9058,7 +9022,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>4ad1170b-6046-4c2a-96fd-e24691056cb9</gen:value>
+<gen:value>bb60d884-3707-4012-ab5f-8ddb06a68a4b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -9093,7 +9057,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>4ad1170b-6046-4c2a-96fd-e24691056cb9</gen:value>
+<gen:value>bb60d884-3707-4012-ab5f-8ddb06a68a4b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -9128,7 +9092,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>4ad1170b-6046-4c2a-96fd-e24691056cb9</gen:value>
+<gen:value>bb60d884-3707-4012-ab5f-8ddb06a68a4b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -9163,7 +9127,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>4ad1170b-6046-4c2a-96fd-e24691056cb9</gen:value>
+<gen:value>bb60d884-3707-4012-ab5f-8ddb06a68a4b</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -9277,7 +9241,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>4ad1170b-6046-4c2a-96fd-e24691056cb9</gen:value>
+<gen:value>bb60d884-3707-4012-ab5f-8ddb06a68a4b</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -9382,7 +9346,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="e06f48cb-544a-433d-b913-c61e47d49830">
+<bldg:Building gml:id="f4985846-71b5-448e-87a0-53e4da947fe6">
 <gen:intAttribute name="height">
 <gen:value>32</gen:value>
 </gen:intAttribute>
@@ -9393,7 +9357,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e06f48cb-544a-433d-b913-c61e47d49830</gen:value>
+<gen:value>f4985846-71b5-448e-87a0-53e4da947fe6</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -9407,7 +9371,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e06f48cb-544a-433d-b913-c61e47d49830</gen:value>
+<gen:value>f4985846-71b5-448e-87a0-53e4da947fe6</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -9442,7 +9406,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e06f48cb-544a-433d-b913-c61e47d49830</gen:value>
+<gen:value>f4985846-71b5-448e-87a0-53e4da947fe6</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -9477,7 +9441,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e06f48cb-544a-433d-b913-c61e47d49830</gen:value>
+<gen:value>f4985846-71b5-448e-87a0-53e4da947fe6</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -9512,7 +9476,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e06f48cb-544a-433d-b913-c61e47d49830</gen:value>
+<gen:value>f4985846-71b5-448e-87a0-53e4da947fe6</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -9547,7 +9511,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e06f48cb-544a-433d-b913-c61e47d49830</gen:value>
+<gen:value>f4985846-71b5-448e-87a0-53e4da947fe6</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -9582,7 +9546,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e06f48cb-544a-433d-b913-c61e47d49830</gen:value>
+<gen:value>f4985846-71b5-448e-87a0-53e4da947fe6</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -9617,7 +9581,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e06f48cb-544a-433d-b913-c61e47d49830</gen:value>
+<gen:value>f4985846-71b5-448e-87a0-53e4da947fe6</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -9652,7 +9616,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e06f48cb-544a-433d-b913-c61e47d49830</gen:value>
+<gen:value>f4985846-71b5-448e-87a0-53e4da947fe6</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -9687,7 +9651,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e06f48cb-544a-433d-b913-c61e47d49830</gen:value>
+<gen:value>f4985846-71b5-448e-87a0-53e4da947fe6</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -9765,7 +9729,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e06f48cb-544a-433d-b913-c61e47d49830</gen:value>
+<gen:value>f4985846-71b5-448e-87a0-53e4da947fe6</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -9834,7 +9798,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="0442ee84-1af5-467e-877d-90e7b5523c30">
+<bldg:Building gml:id="746a1984-67d9-4db0-b8da-5a67620da63f">
 <gen:intAttribute name="height">
 <gen:value>10</gen:value>
 </gen:intAttribute>
@@ -9845,7 +9809,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0442ee84-1af5-467e-877d-90e7b5523c30</gen:value>
+<gen:value>746a1984-67d9-4db0-b8da-5a67620da63f</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -9859,7 +9823,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0442ee84-1af5-467e-877d-90e7b5523c30</gen:value>
+<gen:value>746a1984-67d9-4db0-b8da-5a67620da63f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -9894,7 +9858,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0442ee84-1af5-467e-877d-90e7b5523c30</gen:value>
+<gen:value>746a1984-67d9-4db0-b8da-5a67620da63f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -9929,7 +9893,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0442ee84-1af5-467e-877d-90e7b5523c30</gen:value>
+<gen:value>746a1984-67d9-4db0-b8da-5a67620da63f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -9964,7 +9928,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0442ee84-1af5-467e-877d-90e7b5523c30</gen:value>
+<gen:value>746a1984-67d9-4db0-b8da-5a67620da63f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -9999,7 +9963,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0442ee84-1af5-467e-877d-90e7b5523c30</gen:value>
+<gen:value>746a1984-67d9-4db0-b8da-5a67620da63f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10034,7 +9998,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0442ee84-1af5-467e-877d-90e7b5523c30</gen:value>
+<gen:value>746a1984-67d9-4db0-b8da-5a67620da63f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10069,7 +10033,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0442ee84-1af5-467e-877d-90e7b5523c30</gen:value>
+<gen:value>746a1984-67d9-4db0-b8da-5a67620da63f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10104,7 +10068,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0442ee84-1af5-467e-877d-90e7b5523c30</gen:value>
+<gen:value>746a1984-67d9-4db0-b8da-5a67620da63f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10139,7 +10103,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0442ee84-1af5-467e-877d-90e7b5523c30</gen:value>
+<gen:value>746a1984-67d9-4db0-b8da-5a67620da63f</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -10217,7 +10181,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0442ee84-1af5-467e-877d-90e7b5523c30</gen:value>
+<gen:value>746a1984-67d9-4db0-b8da-5a67620da63f</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -10288,7 +10252,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>dddf2b2e-e325-4e26-9e76-95a3af6b8398</gen:value>
+<gen:value>304b8c85-cbbd-4091-9d4f-0887757a0a94</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -10334,7 +10298,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0381570761596 105.782518237562 25 21.0379707121098 105.782518214935 25 21.0381977770897 105.782560523929 20 21.0381570761596 105.782518237562 25</gml:posList>
+<gml:posList>21.0379707121098 105.782518214935 25 21.0381977770897 105.782560523929 20 21.0381570761596 105.782518237562 25 21.0379707121098 105.782518214935 25</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -10343,7 +10307,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0381570761596 105.782518237562 25 21.0381977770897 105.782560523929 20 21.038200977212 105.782475960644 20 21.0381570761596 105.782518237562 25</gml:posList>
+<gml:posList>21.0381977770897 105.782560523929 20 21.038200977212 105.782475960644 20 21.0381570761596 105.782518237562 25 21.0381977770897 105.782560523929 20</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -10355,9 +10319,9 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="695de3bd-de0a-4527-9caf-b6154db79b71">
+<bldg:Building gml:id="51d1cfea-29c4-43b1-8734-a8f3264cde2d">
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -10366,12 +10330,12 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -10380,7 +10344,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10394,7 +10358,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038739550653 105.781353208398 0 21.0387354331672 105.781513824756 0 21.0387354331672 105.781513824756 8 21.038739550653 105.781353208398 8 21.038739550653 105.781353208398 0</gml:posList>
+<gml:posList>21.038739550653 105.781353208398 0 21.0387354331672 105.781513824756 0 21.0387354331672 105.781513824756 20 21.038739550653 105.781353208398 20 21.038739550653 105.781353208398 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -10406,7 +10370,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -10415,7 +10379,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10429,7 +10393,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038739550653 105.781353208398 0 21.0387354331672 105.781513824756 0 21.0387354331672 105.781513824756 8 21.038739550653 105.781353208398 8 21.038739550653 105.781353208398 0</gml:posList>
+<gml:posList>21.038739550653 105.781353208398 0 21.0387354331672 105.781513824756 0 21.0387354331672 105.781513824756 20 21.038739550653 105.781353208398 20 21.038739550653 105.781353208398 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -10441,7 +10405,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -10450,7 +10414,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10464,7 +10428,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387354331672 105.781513824756 0 21.0387724905385 105.781516415342 0 21.0387724905385 105.781516415342 8 21.0387354331672 105.781513824756 8 21.0387354331672 105.781513824756 0</gml:posList>
+<gml:posList>21.0387354331672 105.781513824756 0 21.0387724905385 105.781516415342 0 21.0387724905385 105.781516415342 20 21.0387354331672 105.781513824756 20 21.0387354331672 105.781513824756 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -10476,7 +10440,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -10485,7 +10449,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10499,7 +10463,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387354331672 105.781513824756 0 21.0387724905385 105.781516415342 0 21.0387724905385 105.781516415342 8 21.0387354331672 105.781513824756 8 21.0387354331672 105.781513824756 0</gml:posList>
+<gml:posList>21.0387354331672 105.781513824756 0 21.0387724905385 105.781516415342 0 21.0387724905385 105.781516415342 20 21.0387354331672 105.781513824756 20 21.0387354331672 105.781513824756 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -10511,7 +10475,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -10520,7 +10484,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10534,7 +10498,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387724905385 105.781516415342 0 21.0387724905385 105.781599314108 0 21.0387724905385 105.781599314108 8 21.0387724905385 105.781516415342 8 21.0387724905385 105.781516415342 0</gml:posList>
+<gml:posList>21.0387724905385 105.781516415342 0 21.0387724905385 105.781599314108 0 21.0387724905385 105.781599314108 20 21.0387724905385 105.781516415342 20 21.0387724905385 105.781516415342 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -10546,7 +10510,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -10555,7 +10519,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10569,7 +10533,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387724905385 105.781516415342 0 21.0387724905385 105.781599314108 0 21.0387724905385 105.781599314108 8 21.0387724905385 105.781516415342 8 21.0387724905385 105.781516415342 0</gml:posList>
+<gml:posList>21.0387724905385 105.781516415342 0 21.0387724905385 105.781599314108 0 21.0387724905385 105.781599314108 20 21.0387724905385 105.781516415342 20 21.0387724905385 105.781516415342 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -10581,7 +10545,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -10590,7 +10554,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10604,7 +10568,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387724905385 105.781599314108 0 21.0386971217774 105.781598034287 0 21.0386971217774 105.781598034287 8 21.0387724905385 105.781599314108 8 21.0387724905385 105.781599314108 0</gml:posList>
+<gml:posList>21.0387724905385 105.781599314108 0 21.0386971217774 105.781598034287 0 21.0386971217774 105.781598034287 20 21.0387724905385 105.781599314108 20 21.0387724905385 105.781599314108 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -10616,7 +10580,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -10625,7 +10589,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10639,7 +10603,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387724905385 105.781599314108 0 21.0386971217774 105.781598034287 0 21.0386971217774 105.781598034287 8 21.0387724905385 105.781599314108 8 21.0387724905385 105.781599314108 0</gml:posList>
+<gml:posList>21.0387724905385 105.781599314108 0 21.0386971217774 105.781598034287 0 21.0386971217774 105.781598034287 20 21.0387724905385 105.781599314108 20 21.0387724905385 105.781599314108 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -10651,7 +10615,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -10660,7 +10624,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10674,7 +10638,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386971217774 105.781598034287 0 21.038698341343 105.781674861315 0 21.038698341343 105.781674861315 8 21.0386971217774 105.781598034287 8 21.0386971217774 105.781598034287 0</gml:posList>
+<gml:posList>21.0386971217774 105.781598034287 0 21.038698341343 105.781674861315 0 21.038698341343 105.781674861315 20 21.0386971217774 105.781598034287 20 21.0386971217774 105.781598034287 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -10686,7 +10650,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -10695,7 +10659,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10709,7 +10673,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386971217774 105.781598034287 0 21.038698341343 105.781674861315 0 21.038698341343 105.781674861315 8 21.0386971217774 105.781598034287 8 21.0386971217774 105.781598034287 0</gml:posList>
+<gml:posList>21.0386971217774 105.781598034287 0 21.038698341343 105.781674861315 0 21.038698341343 105.781674861315 20 21.0386971217774 105.781598034287 20 21.0386971217774 105.781598034287 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -10721,7 +10685,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -10730,7 +10694,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10744,7 +10708,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038698341343 105.781674861315 0 21.0387394303341 105.781675163914 0 21.0387394303341 105.781675163914 8 21.038698341343 105.781674861315 8 21.038698341343 105.781674861315 0</gml:posList>
+<gml:posList>21.038698341343 105.781674861315 0 21.0387394303341 105.781675163914 0 21.0387394303341 105.781675163914 20 21.038698341343 105.781674861315 20 21.038698341343 105.781674861315 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -10756,7 +10720,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -10765,7 +10729,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10779,7 +10743,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038698341343 105.781674861315 0 21.0387394303341 105.781675163914 0 21.0387394303341 105.781675163914 8 21.038698341343 105.781674861315 8 21.038698341343 105.781674861315 0</gml:posList>
+<gml:posList>21.038698341343 105.781674861315 0 21.0387394303341 105.781675163914 0 21.0387394303341 105.781675163914 20 21.038698341343 105.781674861315 20 21.038698341343 105.781674861315 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -10791,7 +10755,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -10800,7 +10764,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10814,7 +10778,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387394303341 105.781675163914 0 21.0387405010916 105.781757897773 0 21.0387405010916 105.781757897773 8 21.0387394303341 105.781675163914 8 21.0387394303341 105.781675163914 0</gml:posList>
+<gml:posList>21.0387394303341 105.781675163914 0 21.0387405010916 105.781757897773 0 21.0387405010916 105.781757897773 20 21.0387394303341 105.781675163914 20 21.0387394303341 105.781675163914 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -10826,7 +10790,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -10835,7 +10799,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10849,7 +10813,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387394303341 105.781675163914 0 21.0387405010916 105.781757897773 0 21.0387405010916 105.781757897773 8 21.0387394303341 105.781675163914 8 21.0387394303341 105.781675163914 0</gml:posList>
+<gml:posList>21.0387394303341 105.781675163914 0 21.0387405010916 105.781757897773 0 21.0387405010916 105.781757897773 20 21.0387394303341 105.781675163914 20 21.0387394303341 105.781675163914 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -10861,7 +10825,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -10870,7 +10834,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10884,7 +10848,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387405010916 105.781757897773 0 21.038642276941 105.7817548362 0 21.038642276941 105.7817548362 8 21.0387405010916 105.781757897773 8 21.0387405010916 105.781757897773 0</gml:posList>
+<gml:posList>21.0387405010916 105.781757897773 0 21.038642276941 105.7817548362 0 21.038642276941 105.7817548362 20 21.0387405010916 105.781757897773 20 21.0387405010916 105.781757897773 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -10896,7 +10860,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -10905,7 +10869,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10919,7 +10883,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387405010916 105.781757897773 0 21.038642276941 105.7817548362 0 21.038642276941 105.7817548362 8 21.0387405010916 105.781757897773 8 21.0387405010916 105.781757897773 0</gml:posList>
+<gml:posList>21.0387405010916 105.781757897773 0 21.038642276941 105.7817548362 0 21.038642276941 105.7817548362 20 21.0387405010916 105.781757897773 20 21.0387405010916 105.781757897773 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -10931,7 +10895,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -10940,7 +10904,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10954,7 +10918,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038642276941 105.7817548362 0 21.038639300875 105.781859418079 0 21.038639300875 105.781859418079 8 21.038642276941 105.7817548362 8 21.038642276941 105.7817548362 0</gml:posList>
+<gml:posList>21.038642276941 105.7817548362 0 21.038639300875 105.781859418079 0 21.038639300875 105.781859418079 20 21.038642276941 105.7817548362 20 21.038642276941 105.7817548362 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -10966,7 +10930,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -10975,7 +10939,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -10989,7 +10953,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038642276941 105.7817548362 0 21.038639300875 105.781859418079 0 21.038639300875 105.781859418079 8 21.038642276941 105.7817548362 8 21.038642276941 105.7817548362 0</gml:posList>
+<gml:posList>21.038642276941 105.7817548362 0 21.038639300875 105.781859418079 0 21.038639300875 105.781859418079 20 21.038642276941 105.7817548362 20 21.038642276941 105.7817548362 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11001,7 +10965,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -11010,7 +10974,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -11024,7 +10988,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038639300875 105.781859418079 0 21.0385213239112 105.781853191578 0 21.0385213239112 105.781853191578 8 21.038639300875 105.781859418079 8 21.038639300875 105.781859418079 0</gml:posList>
+<gml:posList>21.038639300875 105.781859418079 0 21.0385213239112 105.781853191578 0 21.0385213239112 105.781853191578 20 21.038639300875 105.781859418079 20 21.038639300875 105.781859418079 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11036,7 +11000,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -11045,7 +11009,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -11059,7 +11023,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038639300875 105.781859418079 0 21.0385213239112 105.781853191578 0 21.0385213239112 105.781853191578 8 21.038639300875 105.781859418079 8 21.038639300875 105.781859418079 0</gml:posList>
+<gml:posList>21.038639300875 105.781859418079 0 21.0385213239112 105.781853191578 0 21.0385213239112 105.781853191578 20 21.038639300875 105.781859418079 20 21.038639300875 105.781859418079 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11071,7 +11035,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -11080,7 +11044,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -11094,7 +11058,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385213239112 105.781853191578 0 21.0385241913411 105.781691037885 0 21.0385241913411 105.781691037885 8 21.0385213239112 105.781853191578 8 21.0385213239112 105.781853191578 0</gml:posList>
+<gml:posList>21.0385213239112 105.781853191578 0 21.0385241913411 105.781691037885 0 21.0385241913411 105.781691037885 20 21.0385213239112 105.781853191578 20 21.0385213239112 105.781853191578 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11106,7 +11070,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -11115,7 +11079,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -11129,7 +11093,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385213239112 105.781853191578 0 21.0385241913411 105.781691037885 0 21.0385241913411 105.781691037885 8 21.0385213239112 105.781853191578 8 21.0385213239112 105.781853191578 0</gml:posList>
+<gml:posList>21.0385213239112 105.781853191578 0 21.0385241913411 105.781691037885 0 21.0385241913411 105.781691037885 20 21.0385213239112 105.781853191578 20 21.0385213239112 105.781853191578 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11141,7 +11105,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -11150,7 +11114,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -11164,7 +11128,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385241913411 105.781691037885 0 21.0385523015887 105.781692882966 0 21.0385523015887 105.781692882966 8 21.0385241913411 105.781691037885 8 21.0385241913411 105.781691037885 0</gml:posList>
+<gml:posList>21.0385241913411 105.781691037885 0 21.0385523015887 105.781692882966 0 21.0385523015887 105.781692882966 20 21.0385241913411 105.781691037885 20 21.0385241913411 105.781691037885 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11176,7 +11140,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -11185,7 +11149,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -11199,7 +11163,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385241913411 105.781691037885 0 21.0385523015887 105.781692882966 0 21.0385523015887 105.781692882966 8 21.0385241913411 105.781691037885 8 21.0385241913411 105.781691037885 0</gml:posList>
+<gml:posList>21.0385241913411 105.781691037885 0 21.0385523015887 105.781692882966 0 21.0385523015887 105.781692882966 20 21.0385241913411 105.781691037885 20 21.0385241913411 105.781691037885 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11211,7 +11175,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -11220,7 +11184,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -11234,7 +11198,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385523015887 105.781692882966 0 21.0385599458505 105.781514753152 0 21.0385599458505 105.781514753152 8 21.0385523015887 105.781692882966 8 21.0385523015887 105.781692882966 0</gml:posList>
+<gml:posList>21.0385523015887 105.781692882966 0 21.0385599458505 105.781514753152 0 21.0385599458505 105.781514753152 20 21.0385523015887 105.781692882966 20 21.0385523015887 105.781692882966 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11246,7 +11210,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -11255,7 +11219,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -11269,7 +11233,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385523015887 105.781692882966 0 21.0385599458505 105.781514753152 0 21.0385599458505 105.781514753152 8 21.0385523015887 105.781692882966 8 21.0385523015887 105.781692882966 0</gml:posList>
+<gml:posList>21.0385523015887 105.781692882966 0 21.0385599458505 105.781514753152 0 21.0385599458505 105.781514753152 20 21.0385523015887 105.781692882966 20 21.0385523015887 105.781692882966 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11281,7 +11245,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -11290,7 +11254,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -11304,7 +11268,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385599458505 105.781514753152 0 21.0386160260821 105.781516415342 0 21.0386160260821 105.781516415342 8 21.0385599458505 105.781514753152 8 21.0385599458505 105.781514753152 0</gml:posList>
+<gml:posList>21.0385599458505 105.781514753152 0 21.0386160260821 105.781516415342 0 21.0386160260821 105.781516415342 20 21.0385599458505 105.781514753152 20 21.0385599458505 105.781514753152 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11316,7 +11280,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -11325,7 +11289,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -11339,7 +11303,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385599458505 105.781514753152 0 21.0386160260821 105.781516415342 0 21.0386160260821 105.781516415342 8 21.0385599458505 105.781514753152 8 21.0385599458505 105.781514753152 0</gml:posList>
+<gml:posList>21.0385599458505 105.781514753152 0 21.0386160260821 105.781516415342 0 21.0386160260821 105.781516415342 20 21.0385599458505 105.781514753152 20 21.0385599458505 105.781514753152 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11351,7 +11315,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -11360,7 +11324,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -11374,7 +11338,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386160260821 105.781516415342 0 21.0386242610534 105.781345436638 0 21.0386242610534 105.781345436638 8 21.0386160260821 105.781516415342 8 21.0386160260821 105.781516415342 0</gml:posList>
+<gml:posList>21.0386160260821 105.781516415342 0 21.0386242610534 105.781345436638 0 21.0386242610534 105.781345436638 20 21.0386160260821 105.781516415342 20 21.0386160260821 105.781516415342 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11386,7 +11350,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -11395,7 +11359,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -11409,7 +11373,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386160260821 105.781516415342 0 21.0386242610534 105.781345436638 0 21.0386242610534 105.781345436638 8 21.0386160260821 105.781516415342 8 21.0386160260821 105.781516415342 0</gml:posList>
+<gml:posList>21.0386160260821 105.781516415342 0 21.0386242610534 105.781345436638 0 21.0386242610534 105.781345436638 20 21.0386160260821 105.781516415342 20 21.0386160260821 105.781516415342 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11421,7 +11385,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -11430,7 +11394,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -11444,7 +11408,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386242610534 105.781345436638 0 21.038739550653 105.781353208398 0 21.038739550653 105.781353208398 8 21.0386242610534 105.781345436638 8 21.0386242610534 105.781345436638 0</gml:posList>
+<gml:posList>21.0386242610534 105.781345436638 0 21.038739550653 105.781353208398 0 21.038739550653 105.781353208398 20 21.0386242610534 105.781345436638 20 21.0386242610534 105.781345436638 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11456,7 +11420,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -11465,7 +11429,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -11479,7 +11443,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386242610534 105.781345436638 0 21.038739550653 105.781353208398 0 21.038739550653 105.781353208398 8 21.0386242610534 105.781345436638 8 21.0386242610534 105.781345436638 0</gml:posList>
+<gml:posList>21.0386242610534 105.781345436638 0 21.038739550653 105.781353208398 0 21.038739550653 105.781353208398 20 21.0386242610534 105.781345436638 20 21.0386242610534 105.781345436638 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11491,7 +11455,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>20</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -11500,193 +11464,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:CompositeSurface>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.038739550653 105.781353208398 0 21.0387354331672 105.781513824756 0 21.0387724905385 105.781516415342 0 21.0387724905385 105.781599314108 0 21.0386971217774 105.781598034287 0 21.038698341343 105.781674861315 0 21.0387394303341 105.781675163914 0 21.0387405010916 105.781757897773 0 21.038642276941 105.7817548362 0 21.038639300875 105.781859418079 0 21.0385213239112 105.781853191578 0 21.0385241913411 105.781691037885 0 21.0385523015887 105.781692882966 0 21.0385599458505 105.781514753152 0 21.0386160260821 105.781516415342 0 21.0386242610534 105.781345436638 0 21.038739550653 105.781353208398 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.038739550653 105.781353208398 0 21.0386242610534 105.781345436638 0 21.0386242610534 105.781345436638 8 21.038739550653 105.781353208398 8 21.038739550653 105.781353208398 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0386242610534 105.781345436638 0 21.0386160260821 105.781516415342 0 21.0386160260821 105.781516415342 8 21.0386242610534 105.781345436638 8 21.0386242610534 105.781345436638 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0386160260821 105.781516415342 0 21.0385599458505 105.781514753152 0 21.0385599458505 105.781514753152 8 21.0386160260821 105.781516415342 8 21.0386160260821 105.781516415342 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0385599458505 105.781514753152 0 21.0385523015887 105.781692882966 0 21.0385523015887 105.781692882966 8 21.0385599458505 105.781514753152 8 21.0385599458505 105.781514753152 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0385523015887 105.781692882966 0 21.0385241913411 105.781691037885 0 21.0385241913411 105.781691037885 8 21.0385523015887 105.781692882966 8 21.0385523015887 105.781692882966 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0385241913411 105.781691037885 0 21.0385213239112 105.781853191578 0 21.0385213239112 105.781853191578 8 21.0385241913411 105.781691037885 8 21.0385241913411 105.781691037885 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0385213239112 105.781853191578 0 21.038639300875 105.781859418079 0 21.038639300875 105.781859418079 8 21.0385213239112 105.781853191578 8 21.0385213239112 105.781853191578 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.038639300875 105.781859418079 0 21.038642276941 105.7817548362 0 21.038642276941 105.7817548362 8 21.038639300875 105.781859418079 8 21.038639300875 105.781859418079 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.038642276941 105.7817548362 0 21.0387405010916 105.781757897773 0 21.0387405010916 105.781757897773 8 21.038642276941 105.7817548362 8 21.038642276941 105.7817548362 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0387405010916 105.781757897773 0 21.0387394303341 105.781675163914 0 21.0387394303341 105.781675163914 8 21.0387405010916 105.781757897773 8 21.0387405010916 105.781757897773 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0387394303341 105.781675163914 0 21.038698341343 105.781674861315 0 21.038698341343 105.781674861315 8 21.0387394303341 105.781675163914 8 21.0387394303341 105.781675163914 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.038698341343 105.781674861315 0 21.0386971217774 105.781598034287 0 21.0386971217774 105.781598034287 8 21.038698341343 105.781674861315 8 21.038698341343 105.781674861315 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0386971217774 105.781598034287 0 21.0387724905385 105.781599314108 0 21.0387724905385 105.781599314108 8 21.0386971217774 105.781598034287 8 21.0386971217774 105.781598034287 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0387724905385 105.781599314108 0 21.0387724905385 105.781516415342 0 21.0387724905385 105.781516415342 8 21.0387724905385 105.781599314108 8 21.0387724905385 105.781599314108 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0387724905385 105.781516415342 0 21.0387354331672 105.781513824756 0 21.0387354331672 105.781513824756 8 21.0387724905385 105.781516415342 8 21.0387724905385 105.781516415342 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0387354331672 105.781513824756 0 21.038739550653 105.781353208398 0 21.038739550653 105.781353208398 8 21.0387354331672 105.781513824756 8 21.0387354331672 105.781513824756 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.038739550653 105.781353208398 8 21.0386242610534 105.781345436638 8 21.0386160260821 105.781516415342 8 21.0385599458505 105.781514753152 8 21.0385523015887 105.781692882966 8 21.0385241913411 105.781691037885 8 21.0385213239112 105.781853191578 8 21.038639300875 105.781859418079 8 21.038642276941 105.7817548362 8 21.0387405010916 105.781757897773 8 21.0387394303341 105.781675163914 8 21.038698341343 105.781674861315 8 21.0386971217774 105.781598034287 8 21.0387724905385 105.781599314108 8 21.0387724905385 105.781516415342 8 21.0387354331672 105.781513824756 8 21.038739550653 105.781353208398 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:CompositeSurface>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:FloorSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:WallSurface>
-<gen:intAttribute name="height">
-<gen:value>8</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>695de3bd-de0a-4527-9caf-b6154db79b71</gen:value>
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -11705,7 +11483,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038739550653 105.781353208398 0 21.0386242610534 105.781345436638 0 21.0386242610534 105.781345436638 8 21.038739550653 105.781353208398 8 21.038739550653 105.781353208398 0</gml:posList>
+<gml:posList>21.038739550653 105.781353208398 0 21.0386242610534 105.781345436638 0 21.0386242610534 105.781345436638 20 21.038739550653 105.781353208398 20 21.038739550653 105.781353208398 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11714,7 +11492,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386242610534 105.781345436638 0 21.0386160260821 105.781516415342 0 21.0386160260821 105.781516415342 8 21.0386242610534 105.781345436638 8 21.0386242610534 105.781345436638 0</gml:posList>
+<gml:posList>21.0386242610534 105.781345436638 0 21.0386160260821 105.781516415342 0 21.0386160260821 105.781516415342 20 21.0386242610534 105.781345436638 20 21.0386242610534 105.781345436638 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11723,7 +11501,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386160260821 105.781516415342 0 21.0385599458505 105.781514753152 0 21.0385599458505 105.781514753152 8 21.0386160260821 105.781516415342 8 21.0386160260821 105.781516415342 0</gml:posList>
+<gml:posList>21.0386160260821 105.781516415342 0 21.0385599458505 105.781514753152 0 21.0385599458505 105.781514753152 20 21.0386160260821 105.781516415342 20 21.0386160260821 105.781516415342 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11732,7 +11510,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385599458505 105.781514753152 0 21.0385523015887 105.781692882966 0 21.0385523015887 105.781692882966 8 21.0385599458505 105.781514753152 8 21.0385599458505 105.781514753152 0</gml:posList>
+<gml:posList>21.0385599458505 105.781514753152 0 21.0385523015887 105.781692882966 0 21.0385523015887 105.781692882966 20 21.0385599458505 105.781514753152 20 21.0385599458505 105.781514753152 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11741,7 +11519,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385523015887 105.781692882966 0 21.0385241913411 105.781691037885 0 21.0385241913411 105.781691037885 8 21.0385523015887 105.781692882966 8 21.0385523015887 105.781692882966 0</gml:posList>
+<gml:posList>21.0385523015887 105.781692882966 0 21.0385241913411 105.781691037885 0 21.0385241913411 105.781691037885 20 21.0385523015887 105.781692882966 20 21.0385523015887 105.781692882966 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11750,7 +11528,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385241913411 105.781691037885 0 21.0385213239112 105.781853191578 0 21.0385213239112 105.781853191578 8 21.0385241913411 105.781691037885 8 21.0385241913411 105.781691037885 0</gml:posList>
+<gml:posList>21.0385241913411 105.781691037885 0 21.0385213239112 105.781853191578 0 21.0385213239112 105.781853191578 20 21.0385241913411 105.781691037885 20 21.0385241913411 105.781691037885 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11759,7 +11537,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385213239112 105.781853191578 0 21.038639300875 105.781859418079 0 21.038639300875 105.781859418079 8 21.0385213239112 105.781853191578 8 21.0385213239112 105.781853191578 0</gml:posList>
+<gml:posList>21.0385213239112 105.781853191578 0 21.038639300875 105.781859418079 0 21.038639300875 105.781859418079 20 21.0385213239112 105.781853191578 20 21.0385213239112 105.781853191578 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11768,7 +11546,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038639300875 105.781859418079 0 21.038642276941 105.7817548362 0 21.038642276941 105.7817548362 8 21.038639300875 105.781859418079 8 21.038639300875 105.781859418079 0</gml:posList>
+<gml:posList>21.038639300875 105.781859418079 0 21.038642276941 105.7817548362 0 21.038642276941 105.7817548362 20 21.038639300875 105.781859418079 20 21.038639300875 105.781859418079 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11777,7 +11555,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038642276941 105.7817548362 0 21.0387405010916 105.781757897773 0 21.0387405010916 105.781757897773 8 21.038642276941 105.7817548362 8 21.038642276941 105.7817548362 0</gml:posList>
+<gml:posList>21.038642276941 105.7817548362 0 21.0387405010916 105.781757897773 0 21.0387405010916 105.781757897773 20 21.038642276941 105.7817548362 20 21.038642276941 105.7817548362 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11786,7 +11564,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387405010916 105.781757897773 0 21.0387394303341 105.781675163914 0 21.0387394303341 105.781675163914 8 21.0387405010916 105.781757897773 8 21.0387405010916 105.781757897773 0</gml:posList>
+<gml:posList>21.0387405010916 105.781757897773 0 21.0387394303341 105.781675163914 0 21.0387394303341 105.781675163914 20 21.0387405010916 105.781757897773 20 21.0387405010916 105.781757897773 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11795,7 +11573,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387394303341 105.781675163914 0 21.038698341343 105.781674861315 0 21.038698341343 105.781674861315 8 21.0387394303341 105.781675163914 8 21.0387394303341 105.781675163914 0</gml:posList>
+<gml:posList>21.0387394303341 105.781675163914 0 21.038698341343 105.781674861315 0 21.038698341343 105.781674861315 20 21.0387394303341 105.781675163914 20 21.0387394303341 105.781675163914 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11804,7 +11582,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038698341343 105.781674861315 0 21.0386971217774 105.781598034287 0 21.0386971217774 105.781598034287 8 21.038698341343 105.781674861315 8 21.038698341343 105.781674861315 0</gml:posList>
+<gml:posList>21.038698341343 105.781674861315 0 21.0386971217774 105.781598034287 0 21.0386971217774 105.781598034287 20 21.038698341343 105.781674861315 20 21.038698341343 105.781674861315 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11813,7 +11591,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386971217774 105.781598034287 0 21.0387724905385 105.781599314108 0 21.0387724905385 105.781599314108 8 21.0386971217774 105.781598034287 8 21.0386971217774 105.781598034287 0</gml:posList>
+<gml:posList>21.0386971217774 105.781598034287 0 21.0387724905385 105.781599314108 0 21.0387724905385 105.781599314108 20 21.0386971217774 105.781598034287 20 21.0386971217774 105.781598034287 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11822,7 +11600,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387724905385 105.781599314108 0 21.0387724905385 105.781516415342 0 21.0387724905385 105.781516415342 8 21.0387724905385 105.781599314108 8 21.0387724905385 105.781599314108 0</gml:posList>
+<gml:posList>21.0387724905385 105.781599314108 0 21.0387724905385 105.781516415342 0 21.0387724905385 105.781516415342 20 21.0387724905385 105.781599314108 20 21.0387724905385 105.781599314108 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11831,7 +11609,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387724905385 105.781516415342 0 21.0387354331672 105.781513824756 0 21.0387354331672 105.781513824756 8 21.0387724905385 105.781516415342 8 21.0387724905385 105.781516415342 0</gml:posList>
+<gml:posList>21.0387724905385 105.781516415342 0 21.0387354331672 105.781513824756 0 21.0387354331672 105.781513824756 20 21.0387724905385 105.781516415342 20 21.0387724905385 105.781516415342 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11840,7 +11618,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387354331672 105.781513824756 0 21.038739550653 105.781353208398 0 21.038739550653 105.781353208398 8 21.0387354331672 105.781513824756 8 21.0387354331672 105.781513824756 0</gml:posList>
+<gml:posList>21.0387354331672 105.781513824756 0 21.038739550653 105.781353208398 0 21.038739550653 105.781353208398 20 21.0387354331672 105.781513824756 20 21.0387354331672 105.781513824756 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11849,7 +11627,193 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038739550653 105.781353208398 8 21.0386242610534 105.781345436638 8 21.0386160260821 105.781516415342 8 21.0385599458505 105.781514753152 8 21.0385523015887 105.781692882966 8 21.0385241913411 105.781691037885 8 21.0385213239112 105.781853191578 8 21.038639300875 105.781859418079 8 21.038642276941 105.7817548362 8 21.0387405010916 105.781757897773 8 21.0387394303341 105.781675163914 8 21.038698341343 105.781674861315 8 21.0386971217774 105.781598034287 8 21.0387724905385 105.781599314108 8 21.0387724905385 105.781516415342 8 21.0387354331672 105.781513824756 8 21.038739550653 105.781353208398 8</gml:posList>
+<gml:posList>21.038739550653 105.781353208398 20 21.0386242610534 105.781345436638 20 21.0386160260821 105.781516415342 20 21.0385599458505 105.781514753152 20 21.0385523015887 105.781692882966 20 21.0385241913411 105.781691037885 20 21.0385213239112 105.781853191578 20 21.038639300875 105.781859418079 20 21.038642276941 105.7817548362 20 21.0387405010916 105.781757897773 20 21.0387394303341 105.781675163914 20 21.038698341343 105.781674861315 20 21.0386971217774 105.781598034287 20 21.0387724905385 105.781599314108 20 21.0387724905385 105.781516415342 20 21.0387354331672 105.781513824756 20 21.038739550653 105.781353208398 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:CompositeSurface>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:FloorSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:intAttribute name="height">
+<gen:value>20</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>51d1cfea-29c4-43b1-8734-a8f3264cde2d</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:CompositeSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.038739550653 105.781353208398 0 21.0387354331672 105.781513824756 0 21.0387724905385 105.781516415342 0 21.0387724905385 105.781599314108 0 21.0386971217774 105.781598034287 0 21.038698341343 105.781674861315 0 21.0387394303341 105.781675163914 0 21.0387405010916 105.781757897773 0 21.038642276941 105.7817548362 0 21.038639300875 105.781859418079 0 21.0385213239112 105.781853191578 0 21.0385241913411 105.781691037885 0 21.0385523015887 105.781692882966 0 21.0385599458505 105.781514753152 0 21.0386160260821 105.781516415342 0 21.0386242610534 105.781345436638 0 21.038739550653 105.781353208398 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.038739550653 105.781353208398 0 21.0386242610534 105.781345436638 0 21.0386242610534 105.781345436638 20 21.038739550653 105.781353208398 20 21.038739550653 105.781353208398 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0386242610534 105.781345436638 0 21.0386160260821 105.781516415342 0 21.0386160260821 105.781516415342 20 21.0386242610534 105.781345436638 20 21.0386242610534 105.781345436638 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0386160260821 105.781516415342 0 21.0385599458505 105.781514753152 0 21.0385599458505 105.781514753152 20 21.0386160260821 105.781516415342 20 21.0386160260821 105.781516415342 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0385599458505 105.781514753152 0 21.0385523015887 105.781692882966 0 21.0385523015887 105.781692882966 20 21.0385599458505 105.781514753152 20 21.0385599458505 105.781514753152 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0385523015887 105.781692882966 0 21.0385241913411 105.781691037885 0 21.0385241913411 105.781691037885 20 21.0385523015887 105.781692882966 20 21.0385523015887 105.781692882966 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0385241913411 105.781691037885 0 21.0385213239112 105.781853191578 0 21.0385213239112 105.781853191578 20 21.0385241913411 105.781691037885 20 21.0385241913411 105.781691037885 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0385213239112 105.781853191578 0 21.038639300875 105.781859418079 0 21.038639300875 105.781859418079 20 21.0385213239112 105.781853191578 20 21.0385213239112 105.781853191578 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.038639300875 105.781859418079 0 21.038642276941 105.7817548362 0 21.038642276941 105.7817548362 20 21.038639300875 105.781859418079 20 21.038639300875 105.781859418079 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.038642276941 105.7817548362 0 21.0387405010916 105.781757897773 0 21.0387405010916 105.781757897773 20 21.038642276941 105.7817548362 20 21.038642276941 105.7817548362 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0387405010916 105.781757897773 0 21.0387394303341 105.781675163914 0 21.0387394303341 105.781675163914 20 21.0387405010916 105.781757897773 20 21.0387405010916 105.781757897773 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0387394303341 105.781675163914 0 21.038698341343 105.781674861315 0 21.038698341343 105.781674861315 20 21.0387394303341 105.781675163914 20 21.0387394303341 105.781675163914 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.038698341343 105.781674861315 0 21.0386971217774 105.781598034287 0 21.0386971217774 105.781598034287 20 21.038698341343 105.781674861315 20 21.038698341343 105.781674861315 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0386971217774 105.781598034287 0 21.0387724905385 105.781599314108 0 21.0387724905385 105.781599314108 20 21.0386971217774 105.781598034287 20 21.0386971217774 105.781598034287 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0387724905385 105.781599314108 0 21.0387724905385 105.781516415342 0 21.0387724905385 105.781516415342 20 21.0387724905385 105.781599314108 20 21.0387724905385 105.781599314108 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0387724905385 105.781516415342 0 21.0387354331672 105.781513824756 0 21.0387354331672 105.781513824756 20 21.0387724905385 105.781516415342 20 21.0387724905385 105.781516415342 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0387354331672 105.781513824756 0 21.038739550653 105.781353208398 0 21.038739550653 105.781353208398 20 21.0387354331672 105.781513824756 20 21.0387354331672 105.781513824756 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.038739550653 105.781353208398 20 21.0386242610534 105.781345436638 20 21.0386160260821 105.781516415342 20 21.0385599458505 105.781514753152 20 21.0385523015887 105.781692882966 20 21.0385241913411 105.781691037885 20 21.0385213239112 105.781853191578 20 21.038639300875 105.781859418079 20 21.038642276941 105.7817548362 20 21.0387405010916 105.781757897773 20 21.0387394303341 105.781675163914 20 21.038698341343 105.781674861315 20 21.0386971217774 105.781598034287 20 21.0387724905385 105.781599314108 20 21.0387724905385 105.781516415342 20 21.0387354331672 105.781513824756 20 21.038739550653 105.781353208398 20</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11863,9 +11827,9 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6">
+<bldg:Building gml:id="b560e5a9-caba-45d5-83c1-f7481083f3b9">
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -11874,12 +11838,12 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -11888,7 +11852,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -11902,7 +11866,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389948347657 105.78193868093 0 21.0390731473607 105.781940120863 0 21.0390731473607 105.781940120863 8 21.0389948347657 105.78193868093 8 21.0389948347657 105.78193868093 0</gml:posList>
+<gml:posList>21.0389948347657 105.78193868093 0 21.0390731473607 105.781940120863 0 21.0390731473607 105.781940120863 15 21.0389948347657 105.78193868093 15 21.0389948347657 105.78193868093 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11914,7 +11878,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -11923,7 +11887,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -11937,7 +11901,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389948347657 105.78193868093 0 21.0390731473607 105.781940120863 0 21.0390731473607 105.781940120863 8 21.0389948347657 105.78193868093 8 21.0389948347657 105.78193868093 0</gml:posList>
+<gml:posList>21.0389948347657 105.78193868093 0 21.0390731473607 105.781940120863 0 21.0390731473607 105.781940120863 15 21.0389948347657 105.78193868093 15 21.0389948347657 105.78193868093 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11949,7 +11913,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -11958,7 +11922,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -11972,7 +11936,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0390731473607 105.781940120863 0 21.0390668907655 105.78208375377 0 21.0390668907655 105.78208375377 8 21.0390731473607 105.781940120863 8 21.0390731473607 105.781940120863 0</gml:posList>
+<gml:posList>21.0390731473607 105.781940120863 0 21.0390668907655 105.78208375377 0 21.0390668907655 105.78208375377 15 21.0390731473607 105.781940120863 15 21.0390731473607 105.781940120863 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -11984,7 +11948,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -11993,7 +11957,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12007,7 +11971,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0390731473607 105.781940120863 0 21.0390668907655 105.78208375377 0 21.0390668907655 105.78208375377 8 21.0390731473607 105.781940120863 8 21.0390731473607 105.781940120863 0</gml:posList>
+<gml:posList>21.0390731473607 105.781940120863 0 21.0390668907655 105.78208375377 0 21.0390668907655 105.78208375377 15 21.0390731473607 105.781940120863 15 21.0390731473607 105.781940120863 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12019,7 +11983,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12028,7 +11992,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12042,7 +12006,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0390668907655 105.78208375377 0 21.0390257159085 105.782081163183 0 21.0390257159085 105.782081163183 8 21.0390668907655 105.78208375377 8 21.0390668907655 105.78208375377 0</gml:posList>
+<gml:posList>21.0390668907655 105.78208375377 0 21.0390257159085 105.782081163183 0 21.0390257159085 105.782081163183 15 21.0390668907655 105.78208375377 15 21.0390668907655 105.78208375377 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12054,7 +12018,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12063,7 +12027,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12077,7 +12041,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0390668907655 105.78208375377 0 21.0390257159085 105.782081163183 0 21.0390257159085 105.782081163183 8 21.0390668907655 105.78208375377 8 21.0390668907655 105.78208375377 0</gml:posList>
+<gml:posList>21.0390668907655 105.78208375377 0 21.0390257159085 105.782081163183 0 21.0390257159085 105.782081163183 15 21.0390668907655 105.78208375377 15 21.0390668907655 105.78208375377 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12089,7 +12053,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12098,7 +12062,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12112,7 +12076,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0390257159085 105.782081163183 0 21.0390228515037 105.782173308041 0 21.0390228515037 105.782173308041 8 21.0390257159085 105.782081163183 8 21.0390257159085 105.782081163183 0</gml:posList>
+<gml:posList>21.0390257159085 105.782081163183 0 21.0390228515037 105.782173308041 0 21.0390228515037 105.782173308041 15 21.0390257159085 105.782081163183 15 21.0390257159085 105.782081163183 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12124,7 +12088,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12133,7 +12097,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12147,7 +12111,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0390257159085 105.782081163183 0 21.0390228515037 105.782173308041 0 21.0390228515037 105.782173308041 8 21.0390257159085 105.782081163183 8 21.0390257159085 105.782081163183 0</gml:posList>
+<gml:posList>21.0390257159085 105.782081163183 0 21.0390228515037 105.782173308041 0 21.0390228515037 105.782173308041 15 21.0390257159085 105.782081163183 15 21.0390257159085 105.782081163183 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12159,7 +12123,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12168,7 +12132,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12182,7 +12146,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0390228515037 105.782173308041 0 21.0389208023699 105.782174616745 0 21.0389208023699 105.782174616745 8 21.0390228515037 105.782173308041 8 21.0390228515037 105.782173308041 0</gml:posList>
+<gml:posList>21.0390228515037 105.782173308041 0 21.0389208023699 105.782174616745 0 21.0389208023699 105.782174616745 15 21.0390228515037 105.782173308041 15 21.0390228515037 105.782173308041 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12194,7 +12158,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12203,7 +12167,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12217,7 +12181,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0390228515037 105.782173308041 0 21.0389208023699 105.782174616745 0 21.0389208023699 105.782174616745 8 21.0390228515037 105.782173308041 8 21.0390228515037 105.782173308041 0</gml:posList>
+<gml:posList>21.0390228515037 105.782173308041 0 21.0389208023699 105.782174616745 0 21.0389208023699 105.782174616745 15 21.0390228515037 105.782173308041 15 21.0390228515037 105.782173308041 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12229,7 +12193,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12238,7 +12202,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12252,7 +12216,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389208023699 105.782174616745 0 21.0389186612804 105.782107069047 0 21.0389186612804 105.782107069047 8 21.0389208023699 105.782174616745 8 21.0389208023699 105.782174616745 0</gml:posList>
+<gml:posList>21.0389208023699 105.782174616745 0 21.0389186612804 105.782107069047 0 21.0389186612804 105.782107069047 15 21.0389208023699 105.782174616745 15 21.0389208023699 105.782174616745 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12264,7 +12228,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12273,7 +12237,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12287,7 +12251,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389208023699 105.782174616745 0 21.0389186612804 105.782107069047 0 21.0389186612804 105.782107069047 8 21.0389208023699 105.782174616745 8 21.0389208023699 105.782174616745 0</gml:posList>
+<gml:posList>21.0389208023699 105.782174616745 0 21.0389186612804 105.782107069047 0 21.0389186612804 105.782107069047 15 21.0389208023699 105.782174616745 15 21.0389208023699 105.782174616745 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12299,7 +12263,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12308,7 +12272,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12322,7 +12286,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389186612804 105.782107069047 0 21.0388692514522 105.782107069047 0 21.0388692514522 105.782107069047 8 21.0389186612804 105.782107069047 8 21.0389186612804 105.782107069047 0</gml:posList>
+<gml:posList>21.0389186612804 105.782107069047 0 21.0388692514522 105.782107069047 0 21.0388692514522 105.782107069047 15 21.0389186612804 105.782107069047 15 21.0389186612804 105.782107069047 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12334,7 +12298,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12343,7 +12307,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12357,7 +12321,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389186612804 105.782107069047 0 21.0388692514522 105.782107069047 0 21.0388692514522 105.782107069047 8 21.0389186612804 105.782107069047 8 21.0389186612804 105.782107069047 0</gml:posList>
+<gml:posList>21.0389186612804 105.782107069047 0 21.0388692514522 105.782107069047 0 21.0388692514522 105.782107069047 15 21.0389186612804 105.782107069047 15 21.0389186612804 105.782107069047 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12369,7 +12333,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12378,7 +12342,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12392,7 +12356,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388692514522 105.782107069047 0 21.0388692514522 105.782174424295 0 21.0388692514522 105.782174424295 8 21.0388692514522 105.782107069047 8 21.0388692514522 105.782107069047 0</gml:posList>
+<gml:posList>21.0388692514522 105.782107069047 0 21.0388692514522 105.782174424295 0 21.0388692514522 105.782174424295 15 21.0388692514522 105.782107069047 15 21.0388692514522 105.782107069047 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12404,7 +12368,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12413,7 +12377,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12427,7 +12391,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388692514522 105.782107069047 0 21.0388692514522 105.782174424295 0 21.0388692514522 105.782174424295 8 21.0388692514522 105.782107069047 8 21.0388692514522 105.782107069047 0</gml:posList>
+<gml:posList>21.0388692514522 105.782107069047 0 21.0388692514522 105.782174424295 0 21.0388692514522 105.782174424295 15 21.0388692514522 105.782107069047 15 21.0388692514522 105.782107069047 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12439,7 +12403,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12448,7 +12412,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12462,7 +12426,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388692514522 105.782174424295 0 21.0387621968243 105.782179605467 0 21.0387621968243 105.782179605467 8 21.0388692514522 105.782174424295 8 21.0388692514522 105.782174424295 0</gml:posList>
+<gml:posList>21.0388692514522 105.782174424295 0 21.0387621968243 105.782179605467 0 21.0387621968243 105.782179605467 15 21.0388692514522 105.782174424295 15 21.0388692514522 105.782174424295 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12474,7 +12438,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12483,7 +12447,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12497,7 +12461,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388692514522 105.782174424295 0 21.0387621968243 105.782179605467 0 21.0387621968243 105.782179605467 8 21.0388692514522 105.782174424295 8 21.0388692514522 105.782174424295 0</gml:posList>
+<gml:posList>21.0388692514522 105.782174424295 0 21.0387621968243 105.782179605467 0 21.0387621968243 105.782179605467 15 21.0388692514522 105.782174424295 15 21.0388692514522 105.782174424295 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12509,7 +12473,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12518,7 +12482,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12532,7 +12496,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387621968243 105.782179605467 0 21.038763490254 105.782073668112 0 21.038763490254 105.782073668112 8 21.0387621968243 105.782179605467 8 21.0387621968243 105.782179605467 0</gml:posList>
+<gml:posList>21.0387621968243 105.782179605467 0 21.038763490254 105.782073668112 0 21.038763490254 105.782073668112 15 21.0387621968243 105.782179605467 15 21.0387621968243 105.782179605467 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12544,7 +12508,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12553,7 +12517,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12567,7 +12531,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387621968243 105.782179605467 0 21.038763490254 105.782073668112 0 21.038763490254 105.782073668112 8 21.0387621968243 105.782179605467 8 21.0387621968243 105.782179605467 0</gml:posList>
+<gml:posList>21.0387621968243 105.782179605467 0 21.038763490254 105.782073668112 0 21.038763490254 105.782073668112 15 21.0387621968243 105.782179605467 15 21.0387621968243 105.782179605467 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12579,7 +12543,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12588,7 +12552,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12602,7 +12566,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038763490254 105.782073668112 0 21.0386942583103 105.782070800838 0 21.0386942583103 105.782070800838 8 21.038763490254 105.782073668112 8 21.038763490254 105.782073668112 0</gml:posList>
+<gml:posList>21.038763490254 105.782073668112 0 21.0386942583103 105.782070800838 0 21.0386942583103 105.782070800838 15 21.038763490254 105.782073668112 15 21.038763490254 105.782073668112 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12614,7 +12578,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12623,7 +12587,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12637,7 +12601,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038763490254 105.782073668112 0 21.0386942583103 105.782070800838 0 21.0386942583103 105.782070800838 8 21.038763490254 105.782073668112 8 21.038763490254 105.782073668112 0</gml:posList>
+<gml:posList>21.038763490254 105.782073668112 0 21.0386942583103 105.782070800838 0 21.0386942583103 105.782070800838 15 21.038763490254 105.782073668112 15 21.038763490254 105.782073668112 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12649,7 +12613,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12658,7 +12622,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12672,7 +12636,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386942583103 105.782070800838 0 21.038698375796 105.781920546825 0 21.038698375796 105.781920546825 8 21.0386942583103 105.782070800838 8 21.0386942583103 105.782070800838 0</gml:posList>
+<gml:posList>21.0386942583103 105.782070800838 0 21.038698375796 105.781920546825 0 21.038698375796 105.781920546825 15 21.0386942583103 105.782070800838 15 21.0386942583103 105.782070800838 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12684,7 +12648,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12693,7 +12657,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12707,7 +12671,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386942583103 105.782070800838 0 21.038698375796 105.781920546825 0 21.038698375796 105.781920546825 8 21.0386942583103 105.782070800838 8 21.0386942583103 105.782070800838 0</gml:posList>
+<gml:posList>21.0386942583103 105.782070800838 0 21.038698375796 105.781920546825 0 21.038698375796 105.781920546825 15 21.0386942583103 105.782070800838 15 21.0386942583103 105.782070800838 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12719,7 +12683,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12728,7 +12692,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12742,7 +12706,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038698375796 105.781920546825 0 21.0388404290523 105.781928318584 0 21.0388404290523 105.781928318584 8 21.038698375796 105.781920546825 8 21.038698375796 105.781920546825 0</gml:posList>
+<gml:posList>21.038698375796 105.781920546825 0 21.0388404290523 105.781928318584 0 21.0388404290523 105.781928318584 15 21.038698375796 105.781920546825 15 21.038698375796 105.781920546825 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12754,7 +12718,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12763,7 +12727,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12777,7 +12741,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038698375796 105.781920546825 0 21.0388404290523 105.781928318584 0 21.0388404290523 105.781928318584 8 21.038698375796 105.781920546825 8 21.038698375796 105.781920546825 0</gml:posList>
+<gml:posList>21.038698375796 105.781920546825 0 21.0388404290523 105.781928318584 0 21.0388404290523 105.781928318584 15 21.038698375796 105.781920546825 15 21.038698375796 105.781920546825 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12789,7 +12753,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12798,7 +12762,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12812,7 +12776,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388404290523 105.781928318584 0 21.0388404290523 105.781998264418 0 21.0388404290523 105.781998264418 8 21.0388404290523 105.781928318584 8 21.0388404290523 105.781928318584 0</gml:posList>
+<gml:posList>21.0388404290523 105.781928318584 0 21.0388404290523 105.781998264418 0 21.0388404290523 105.781998264418 15 21.0388404290523 105.781928318584 15 21.0388404290523 105.781928318584 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12824,7 +12788,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12833,7 +12797,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12847,7 +12811,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388404290523 105.781928318584 0 21.0388404290523 105.781998264418 0 21.0388404290523 105.781998264418 8 21.0388404290523 105.781928318584 8 21.0388404290523 105.781928318584 0</gml:posList>
+<gml:posList>21.0388404290523 105.781928318584 0 21.0388404290523 105.781998264418 0 21.0388404290523 105.781998264418 15 21.0388404290523 105.781928318584 15 21.0388404290523 105.781928318584 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12859,7 +12823,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12868,7 +12832,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12882,7 +12846,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388404290523 105.781998264418 0 21.0388833883421 105.78199964868 0 21.0388833883421 105.78199964868 8 21.0388404290523 105.781998264418 8 21.0388404290523 105.781998264418 0</gml:posList>
+<gml:posList>21.0388404290523 105.781998264418 0 21.0388833883421 105.78199964868 0 21.0388833883421 105.78199964868 15 21.0388404290523 105.781998264418 15 21.0388404290523 105.781998264418 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12894,7 +12858,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12903,7 +12867,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12917,7 +12881,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388404290523 105.781998264418 0 21.0388833883421 105.78199964868 0 21.0388833883421 105.78199964868 8 21.0388404290523 105.781998264418 8 21.0388404290523 105.781998264418 0</gml:posList>
+<gml:posList>21.0388404290523 105.781998264418 0 21.0388833883421 105.78199964868 0 21.0388833883421 105.78199964868 15 21.0388404290523 105.781998264418 15 21.0388404290523 105.781998264418 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12929,7 +12893,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12938,7 +12902,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12952,7 +12916,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388833883421 105.78199964868 0 21.0388870826483 105.781862325687 0 21.0388870826483 105.781862325687 8 21.0388833883421 105.78199964868 8 21.0388833883421 105.78199964868 0</gml:posList>
+<gml:posList>21.0388833883421 105.78199964868 0 21.0388870826483 105.781862325687 0 21.0388870826483 105.781862325687 15 21.0388833883421 105.78199964868 15 21.0388833883421 105.78199964868 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12964,7 +12928,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -12973,7 +12937,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -12987,7 +12951,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388833883421 105.78199964868 0 21.0388870826483 105.781862325687 0 21.0388870826483 105.781862325687 8 21.0388833883421 105.78199964868 8 21.0388833883421 105.78199964868 0</gml:posList>
+<gml:posList>21.0388833883421 105.78199964868 0 21.0388870826483 105.781862325687 0 21.0388870826483 105.781862325687 15 21.0388833883421 105.78199964868 15 21.0388833883421 105.78199964868 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -12999,7 +12963,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -13008,7 +12972,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -13022,7 +12986,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388870826483 105.781862325687 0 21.0389522112552 105.781865762707 0 21.0389522112552 105.781865762707 8 21.0388870826483 105.781862325687 8 21.0388870826483 105.781862325687 0</gml:posList>
+<gml:posList>21.0388870826483 105.781862325687 0 21.0389522112552 105.781865762707 0 21.0389522112552 105.781865762707 15 21.0388870826483 105.781862325687 15 21.0388870826483 105.781862325687 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13034,7 +12998,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -13043,7 +13007,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -13057,7 +13021,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388870826483 105.781862325687 0 21.0389522112552 105.781865762707 0 21.0389522112552 105.781865762707 8 21.0388870826483 105.781862325687 8 21.0388870826483 105.781862325687 0</gml:posList>
+<gml:posList>21.0388870826483 105.781862325687 0 21.0389522112552 105.781865762707 0 21.0389522112552 105.781865762707 15 21.0388870826483 105.781862325687 15 21.0388870826483 105.781862325687 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13069,7 +13033,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -13078,7 +13042,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -13092,7 +13056,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389522112552 105.781865762707 0 21.0389516011661 105.781899822133 0 21.0389516011661 105.781899822133 8 21.0389522112552 105.781865762707 8 21.0389522112552 105.781865762707 0</gml:posList>
+<gml:posList>21.0389522112552 105.781865762707 0 21.0389516011661 105.781899822133 0 21.0389516011661 105.781899822133 15 21.0389522112552 105.781865762707 15 21.0389522112552 105.781865762707 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13104,7 +13068,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -13113,7 +13077,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -13127,7 +13091,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389522112552 105.781865762707 0 21.0389516011661 105.781899822133 0 21.0389516011661 105.781899822133 8 21.0389522112552 105.781865762707 8 21.0389522112552 105.781865762707 0</gml:posList>
+<gml:posList>21.0389522112552 105.781865762707 0 21.0389516011661 105.781899822133 0 21.0389516011661 105.781899822133 15 21.0389522112552 105.781865762707 15 21.0389522112552 105.781865762707 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13139,7 +13103,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -13148,7 +13112,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -13162,7 +13126,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389516011661 105.781899822133 0 21.0389948347657 105.781902941785 0 21.0389948347657 105.781902941785 8 21.0389516011661 105.781899822133 8 21.0389516011661 105.781899822133 0</gml:posList>
+<gml:posList>21.0389516011661 105.781899822133 0 21.0389948347657 105.781902941785 0 21.0389948347657 105.781902941785 15 21.0389516011661 105.781899822133 15 21.0389516011661 105.781899822133 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13174,7 +13138,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -13183,7 +13147,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -13197,7 +13161,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389516011661 105.781899822133 0 21.0389948347657 105.781902941785 0 21.0389948347657 105.781902941785 8 21.0389516011661 105.781899822133 8 21.0389516011661 105.781899822133 0</gml:posList>
+<gml:posList>21.0389516011661 105.781899822133 0 21.0389948347657 105.781902941785 0 21.0389948347657 105.781902941785 15 21.0389516011661 105.781899822133 15 21.0389516011661 105.781899822133 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13209,7 +13173,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -13218,7 +13182,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -13232,7 +13196,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389948347657 105.781902941785 0 21.0389948347657 105.78193868093 0 21.0389948347657 105.78193868093 8 21.0389948347657 105.781902941785 8 21.0389948347657 105.781902941785 0</gml:posList>
+<gml:posList>21.0389948347657 105.781902941785 0 21.0389948347657 105.78193868093 0 21.0389948347657 105.78193868093 15 21.0389948347657 105.781902941785 15 21.0389948347657 105.781902941785 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13244,7 +13208,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -13253,7 +13217,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -13267,7 +13231,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389948347657 105.781902941785 0 21.0389948347657 105.78193868093 0 21.0389948347657 105.78193868093 8 21.0389948347657 105.781902941785 8 21.0389948347657 105.781902941785 0</gml:posList>
+<gml:posList>21.0389948347657 105.781902941785 0 21.0389948347657 105.78193868093 0 21.0389948347657 105.78193868093 15 21.0389948347657 105.781902941785 15 21.0389948347657 105.781902941785 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13279,7 +13243,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -13288,7 +13252,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -13307,7 +13271,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389948347657 105.78193868093 0 21.0389948347657 105.781902941785 0 21.0389948347657 105.781902941785 8 21.0389948347657 105.78193868093 8 21.0389948347657 105.78193868093 0</gml:posList>
+<gml:posList>21.0389948347657 105.78193868093 0 21.0389948347657 105.781902941785 0 21.0389948347657 105.781902941785 15 21.0389948347657 105.78193868093 15 21.0389948347657 105.78193868093 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13316,7 +13280,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389948347657 105.781902941785 0 21.0389516011661 105.781899822133 0 21.0389516011661 105.781899822133 8 21.0389948347657 105.781902941785 8 21.0389948347657 105.781902941785 0</gml:posList>
+<gml:posList>21.0389948347657 105.781902941785 0 21.0389516011661 105.781899822133 0 21.0389516011661 105.781899822133 15 21.0389948347657 105.781902941785 15 21.0389948347657 105.781902941785 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13325,7 +13289,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389516011661 105.781899822133 0 21.0389522112552 105.781865762707 0 21.0389522112552 105.781865762707 8 21.0389516011661 105.781899822133 8 21.0389516011661 105.781899822133 0</gml:posList>
+<gml:posList>21.0389516011661 105.781899822133 0 21.0389522112552 105.781865762707 0 21.0389522112552 105.781865762707 15 21.0389516011661 105.781899822133 15 21.0389516011661 105.781899822133 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13334,7 +13298,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389522112552 105.781865762707 0 21.0388870826483 105.781862325687 0 21.0388870826483 105.781862325687 8 21.0389522112552 105.781865762707 8 21.0389522112552 105.781865762707 0</gml:posList>
+<gml:posList>21.0389522112552 105.781865762707 0 21.0388870826483 105.781862325687 0 21.0388870826483 105.781862325687 15 21.0389522112552 105.781865762707 15 21.0389522112552 105.781865762707 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13343,7 +13307,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388870826483 105.781862325687 0 21.0388833883421 105.78199964868 0 21.0388833883421 105.78199964868 8 21.0388870826483 105.781862325687 8 21.0388870826483 105.781862325687 0</gml:posList>
+<gml:posList>21.0388870826483 105.781862325687 0 21.0388833883421 105.78199964868 0 21.0388833883421 105.78199964868 15 21.0388870826483 105.781862325687 15 21.0388870826483 105.781862325687 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13352,7 +13316,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388833883421 105.78199964868 0 21.0388404290523 105.781998264418 0 21.0388404290523 105.781998264418 8 21.0388833883421 105.78199964868 8 21.0388833883421 105.78199964868 0</gml:posList>
+<gml:posList>21.0388833883421 105.78199964868 0 21.0388404290523 105.781998264418 0 21.0388404290523 105.781998264418 15 21.0388833883421 105.78199964868 15 21.0388833883421 105.78199964868 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13361,7 +13325,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388404290523 105.781998264418 0 21.0388404290523 105.781928318584 0 21.0388404290523 105.781928318584 8 21.0388404290523 105.781998264418 8 21.0388404290523 105.781998264418 0</gml:posList>
+<gml:posList>21.0388404290523 105.781998264418 0 21.0388404290523 105.781928318584 0 21.0388404290523 105.781928318584 15 21.0388404290523 105.781998264418 15 21.0388404290523 105.781998264418 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13370,7 +13334,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388404290523 105.781928318584 0 21.038698375796 105.781920546825 0 21.038698375796 105.781920546825 8 21.0388404290523 105.781928318584 8 21.0388404290523 105.781928318584 0</gml:posList>
+<gml:posList>21.0388404290523 105.781928318584 0 21.038698375796 105.781920546825 0 21.038698375796 105.781920546825 15 21.0388404290523 105.781928318584 15 21.0388404290523 105.781928318584 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13379,7 +13343,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038698375796 105.781920546825 0 21.0386942583103 105.782070800838 0 21.0386942583103 105.782070800838 8 21.038698375796 105.781920546825 8 21.038698375796 105.781920546825 0</gml:posList>
+<gml:posList>21.038698375796 105.781920546825 0 21.0386942583103 105.782070800838 0 21.0386942583103 105.782070800838 15 21.038698375796 105.781920546825 15 21.038698375796 105.781920546825 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13388,7 +13352,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386942583103 105.782070800838 0 21.038763490254 105.782073668112 0 21.038763490254 105.782073668112 8 21.0386942583103 105.782070800838 8 21.0386942583103 105.782070800838 0</gml:posList>
+<gml:posList>21.0386942583103 105.782070800838 0 21.038763490254 105.782073668112 0 21.038763490254 105.782073668112 15 21.0386942583103 105.782070800838 15 21.0386942583103 105.782070800838 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13397,7 +13361,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038763490254 105.782073668112 0 21.0387621968243 105.782179605467 0 21.0387621968243 105.782179605467 8 21.038763490254 105.782073668112 8 21.038763490254 105.782073668112 0</gml:posList>
+<gml:posList>21.038763490254 105.782073668112 0 21.0387621968243 105.782179605467 0 21.0387621968243 105.782179605467 15 21.038763490254 105.782073668112 15 21.038763490254 105.782073668112 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13406,7 +13370,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387621968243 105.782179605467 0 21.0388692514522 105.782174424295 0 21.0388692514522 105.782174424295 8 21.0387621968243 105.782179605467 8 21.0387621968243 105.782179605467 0</gml:posList>
+<gml:posList>21.0387621968243 105.782179605467 0 21.0388692514522 105.782174424295 0 21.0388692514522 105.782174424295 15 21.0387621968243 105.782179605467 15 21.0387621968243 105.782179605467 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13415,7 +13379,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388692514522 105.782174424295 0 21.0388692514522 105.782107069047 0 21.0388692514522 105.782107069047 8 21.0388692514522 105.782174424295 8 21.0388692514522 105.782174424295 0</gml:posList>
+<gml:posList>21.0388692514522 105.782174424295 0 21.0388692514522 105.782107069047 0 21.0388692514522 105.782107069047 15 21.0388692514522 105.782174424295 15 21.0388692514522 105.782174424295 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13424,7 +13388,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388692514522 105.782107069047 0 21.0389186612804 105.782107069047 0 21.0389186612804 105.782107069047 8 21.0388692514522 105.782107069047 8 21.0388692514522 105.782107069047 0</gml:posList>
+<gml:posList>21.0388692514522 105.782107069047 0 21.0389186612804 105.782107069047 0 21.0389186612804 105.782107069047 15 21.0388692514522 105.782107069047 15 21.0388692514522 105.782107069047 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13433,7 +13397,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389186612804 105.782107069047 0 21.0389208023699 105.782174616745 0 21.0389208023699 105.782174616745 8 21.0389186612804 105.782107069047 8 21.0389186612804 105.782107069047 0</gml:posList>
+<gml:posList>21.0389186612804 105.782107069047 0 21.0389208023699 105.782174616745 0 21.0389208023699 105.782174616745 15 21.0389186612804 105.782107069047 15 21.0389186612804 105.782107069047 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13442,7 +13406,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389208023699 105.782174616745 0 21.0390228515037 105.782173308041 0 21.0390228515037 105.782173308041 8 21.0389208023699 105.782174616745 8 21.0389208023699 105.782174616745 0</gml:posList>
+<gml:posList>21.0389208023699 105.782174616745 0 21.0390228515037 105.782173308041 0 21.0390228515037 105.782173308041 15 21.0389208023699 105.782174616745 15 21.0389208023699 105.782174616745 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13451,7 +13415,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0390228515037 105.782173308041 0 21.0390257159085 105.782081163183 0 21.0390257159085 105.782081163183 8 21.0390228515037 105.782173308041 8 21.0390228515037 105.782173308041 0</gml:posList>
+<gml:posList>21.0390228515037 105.782173308041 0 21.0390257159085 105.782081163183 0 21.0390257159085 105.782081163183 15 21.0390228515037 105.782173308041 15 21.0390228515037 105.782173308041 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13460,7 +13424,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0390257159085 105.782081163183 0 21.0390668907655 105.78208375377 0 21.0390668907655 105.78208375377 8 21.0390257159085 105.782081163183 8 21.0390257159085 105.782081163183 0</gml:posList>
+<gml:posList>21.0390257159085 105.782081163183 0 21.0390668907655 105.78208375377 0 21.0390668907655 105.78208375377 15 21.0390257159085 105.782081163183 15 21.0390257159085 105.782081163183 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13469,7 +13433,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0390668907655 105.78208375377 0 21.0390731473607 105.781940120863 0 21.0390731473607 105.781940120863 8 21.0390668907655 105.78208375377 8 21.0390668907655 105.78208375377 0</gml:posList>
+<gml:posList>21.0390668907655 105.78208375377 0 21.0390731473607 105.781940120863 0 21.0390731473607 105.781940120863 15 21.0390668907655 105.78208375377 15 21.0390668907655 105.78208375377 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13478,7 +13442,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0390731473607 105.781940120863 0 21.0389948347657 105.78193868093 0 21.0389948347657 105.78193868093 8 21.0390731473607 105.781940120863 8 21.0390731473607 105.781940120863 0</gml:posList>
+<gml:posList>21.0390731473607 105.781940120863 0 21.0389948347657 105.78193868093 0 21.0389948347657 105.78193868093 15 21.0390731473607 105.781940120863 15 21.0390731473607 105.781940120863 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13487,7 +13451,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389948347657 105.78193868093 8 21.0389948347657 105.781902941785 8 21.0389516011661 105.781899822133 8 21.0389522112552 105.781865762707 8 21.0388870826483 105.781862325687 8 21.0388833883421 105.78199964868 8 21.0388404290523 105.781998264418 8 21.0388404290523 105.781928318584 8 21.038698375796 105.781920546825 8 21.0386942583103 105.782070800838 8 21.038763490254 105.782073668112 8 21.0387621968243 105.782179605467 8 21.0388692514522 105.782174424295 8 21.0388692514522 105.782107069047 8 21.0389186612804 105.782107069047 8 21.0389208023699 105.782174616745 8 21.0390228515037 105.782173308041 8 21.0390257159085 105.782081163183 8 21.0390668907655 105.78208375377 8 21.0390731473607 105.781940120863 8 21.0389948347657 105.78193868093 8</gml:posList>
+<gml:posList>21.0389948347657 105.78193868093 15 21.0389948347657 105.781902941785 15 21.0389516011661 105.781899822133 15 21.0389522112552 105.781865762707 15 21.0388870826483 105.781862325687 15 21.0388833883421 105.78199964868 15 21.0388404290523 105.781998264418 15 21.0388404290523 105.781928318584 15 21.038698375796 105.781920546825 15 21.0386942583103 105.782070800838 15 21.038763490254 105.782073668112 15 21.0387621968243 105.782179605467 15 21.0388692514522 105.782174424295 15 21.0388692514522 105.782107069047 15 21.0389186612804 105.782107069047 15 21.0389208023699 105.782174616745 15 21.0390228515037 105.782173308041 15 21.0390257159085 105.782081163183 15 21.0390668907655 105.78208375377 15 21.0390731473607 105.781940120863 15 21.0389948347657 105.78193868093 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13501,7 +13465,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -13510,7 +13474,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d83c1cfb-94ee-4c60-bc0b-05c2bbfe53e6</gen:value>
+<gen:value>b560e5a9-caba-45d5-83c1-f7481083f3b9</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -13529,7 +13493,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389948347657 105.78193868093 0 21.0389948347657 105.781902941785 0 21.0389948347657 105.781902941785 8 21.0389948347657 105.78193868093 8 21.0389948347657 105.78193868093 0</gml:posList>
+<gml:posList>21.0389948347657 105.78193868093 0 21.0389948347657 105.781902941785 0 21.0389948347657 105.781902941785 15 21.0389948347657 105.78193868093 15 21.0389948347657 105.78193868093 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13538,7 +13502,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389948347657 105.781902941785 0 21.0389516011661 105.781899822133 0 21.0389516011661 105.781899822133 8 21.0389948347657 105.781902941785 8 21.0389948347657 105.781902941785 0</gml:posList>
+<gml:posList>21.0389948347657 105.781902941785 0 21.0389516011661 105.781899822133 0 21.0389516011661 105.781899822133 15 21.0389948347657 105.781902941785 15 21.0389948347657 105.781902941785 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13547,7 +13511,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389516011661 105.781899822133 0 21.0389522112552 105.781865762707 0 21.0389522112552 105.781865762707 8 21.0389516011661 105.781899822133 8 21.0389516011661 105.781899822133 0</gml:posList>
+<gml:posList>21.0389516011661 105.781899822133 0 21.0389522112552 105.781865762707 0 21.0389522112552 105.781865762707 15 21.0389516011661 105.781899822133 15 21.0389516011661 105.781899822133 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13556,7 +13520,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389522112552 105.781865762707 0 21.0388870826483 105.781862325687 0 21.0388870826483 105.781862325687 8 21.0389522112552 105.781865762707 8 21.0389522112552 105.781865762707 0</gml:posList>
+<gml:posList>21.0389522112552 105.781865762707 0 21.0388870826483 105.781862325687 0 21.0388870826483 105.781862325687 15 21.0389522112552 105.781865762707 15 21.0389522112552 105.781865762707 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13565,7 +13529,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388870826483 105.781862325687 0 21.0388833883421 105.78199964868 0 21.0388833883421 105.78199964868 8 21.0388870826483 105.781862325687 8 21.0388870826483 105.781862325687 0</gml:posList>
+<gml:posList>21.0388870826483 105.781862325687 0 21.0388833883421 105.78199964868 0 21.0388833883421 105.78199964868 15 21.0388870826483 105.781862325687 15 21.0388870826483 105.781862325687 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13574,7 +13538,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388833883421 105.78199964868 0 21.0388404290523 105.781998264418 0 21.0388404290523 105.781998264418 8 21.0388833883421 105.78199964868 8 21.0388833883421 105.78199964868 0</gml:posList>
+<gml:posList>21.0388833883421 105.78199964868 0 21.0388404290523 105.781998264418 0 21.0388404290523 105.781998264418 15 21.0388833883421 105.78199964868 15 21.0388833883421 105.78199964868 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13583,7 +13547,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388404290523 105.781998264418 0 21.0388404290523 105.781928318584 0 21.0388404290523 105.781928318584 8 21.0388404290523 105.781998264418 8 21.0388404290523 105.781998264418 0</gml:posList>
+<gml:posList>21.0388404290523 105.781998264418 0 21.0388404290523 105.781928318584 0 21.0388404290523 105.781928318584 15 21.0388404290523 105.781998264418 15 21.0388404290523 105.781998264418 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13592,7 +13556,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388404290523 105.781928318584 0 21.038698375796 105.781920546825 0 21.038698375796 105.781920546825 8 21.0388404290523 105.781928318584 8 21.0388404290523 105.781928318584 0</gml:posList>
+<gml:posList>21.0388404290523 105.781928318584 0 21.038698375796 105.781920546825 0 21.038698375796 105.781920546825 15 21.0388404290523 105.781928318584 15 21.0388404290523 105.781928318584 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13601,7 +13565,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038698375796 105.781920546825 0 21.0386942583103 105.782070800838 0 21.0386942583103 105.782070800838 8 21.038698375796 105.781920546825 8 21.038698375796 105.781920546825 0</gml:posList>
+<gml:posList>21.038698375796 105.781920546825 0 21.0386942583103 105.782070800838 0 21.0386942583103 105.782070800838 15 21.038698375796 105.781920546825 15 21.038698375796 105.781920546825 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13610,7 +13574,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386942583103 105.782070800838 0 21.038763490254 105.782073668112 0 21.038763490254 105.782073668112 8 21.0386942583103 105.782070800838 8 21.0386942583103 105.782070800838 0</gml:posList>
+<gml:posList>21.0386942583103 105.782070800838 0 21.038763490254 105.782073668112 0 21.038763490254 105.782073668112 15 21.0386942583103 105.782070800838 15 21.0386942583103 105.782070800838 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13619,7 +13583,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038763490254 105.782073668112 0 21.0387621968243 105.782179605467 0 21.0387621968243 105.782179605467 8 21.038763490254 105.782073668112 8 21.038763490254 105.782073668112 0</gml:posList>
+<gml:posList>21.038763490254 105.782073668112 0 21.0387621968243 105.782179605467 0 21.0387621968243 105.782179605467 15 21.038763490254 105.782073668112 15 21.038763490254 105.782073668112 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13628,7 +13592,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387621968243 105.782179605467 0 21.0388692514522 105.782174424295 0 21.0388692514522 105.782174424295 8 21.0387621968243 105.782179605467 8 21.0387621968243 105.782179605467 0</gml:posList>
+<gml:posList>21.0387621968243 105.782179605467 0 21.0388692514522 105.782174424295 0 21.0388692514522 105.782174424295 15 21.0387621968243 105.782179605467 15 21.0387621968243 105.782179605467 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13637,7 +13601,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388692514522 105.782174424295 0 21.0388692514522 105.782107069047 0 21.0388692514522 105.782107069047 8 21.0388692514522 105.782174424295 8 21.0388692514522 105.782174424295 0</gml:posList>
+<gml:posList>21.0388692514522 105.782174424295 0 21.0388692514522 105.782107069047 0 21.0388692514522 105.782107069047 15 21.0388692514522 105.782174424295 15 21.0388692514522 105.782174424295 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13646,7 +13610,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0388692514522 105.782107069047 0 21.0389186612804 105.782107069047 0 21.0389186612804 105.782107069047 8 21.0388692514522 105.782107069047 8 21.0388692514522 105.782107069047 0</gml:posList>
+<gml:posList>21.0388692514522 105.782107069047 0 21.0389186612804 105.782107069047 0 21.0389186612804 105.782107069047 15 21.0388692514522 105.782107069047 15 21.0388692514522 105.782107069047 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13655,7 +13619,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389186612804 105.782107069047 0 21.0389208023699 105.782174616745 0 21.0389208023699 105.782174616745 8 21.0389186612804 105.782107069047 8 21.0389186612804 105.782107069047 0</gml:posList>
+<gml:posList>21.0389186612804 105.782107069047 0 21.0389208023699 105.782174616745 0 21.0389208023699 105.782174616745 15 21.0389186612804 105.782107069047 15 21.0389186612804 105.782107069047 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13664,7 +13628,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389208023699 105.782174616745 0 21.0390228515037 105.782173308041 0 21.0390228515037 105.782173308041 8 21.0389208023699 105.782174616745 8 21.0389208023699 105.782174616745 0</gml:posList>
+<gml:posList>21.0389208023699 105.782174616745 0 21.0390228515037 105.782173308041 0 21.0390228515037 105.782173308041 15 21.0389208023699 105.782174616745 15 21.0389208023699 105.782174616745 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13673,7 +13637,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0390228515037 105.782173308041 0 21.0390257159085 105.782081163183 0 21.0390257159085 105.782081163183 8 21.0390228515037 105.782173308041 8 21.0390228515037 105.782173308041 0</gml:posList>
+<gml:posList>21.0390228515037 105.782173308041 0 21.0390257159085 105.782081163183 0 21.0390257159085 105.782081163183 15 21.0390228515037 105.782173308041 15 21.0390228515037 105.782173308041 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13682,7 +13646,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0390257159085 105.782081163183 0 21.0390668907655 105.78208375377 0 21.0390668907655 105.78208375377 8 21.0390257159085 105.782081163183 8 21.0390257159085 105.782081163183 0</gml:posList>
+<gml:posList>21.0390257159085 105.782081163183 0 21.0390668907655 105.78208375377 0 21.0390668907655 105.78208375377 15 21.0390257159085 105.782081163183 15 21.0390257159085 105.782081163183 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13691,7 +13655,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0390668907655 105.78208375377 0 21.0390731473607 105.781940120863 0 21.0390731473607 105.781940120863 8 21.0390668907655 105.78208375377 8 21.0390668907655 105.78208375377 0</gml:posList>
+<gml:posList>21.0390668907655 105.78208375377 0 21.0390731473607 105.781940120863 0 21.0390731473607 105.781940120863 15 21.0390668907655 105.78208375377 15 21.0390668907655 105.78208375377 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13700,7 +13664,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0390731473607 105.781940120863 0 21.0389948347657 105.78193868093 0 21.0389948347657 105.78193868093 8 21.0390731473607 105.781940120863 8 21.0390731473607 105.781940120863 0</gml:posList>
+<gml:posList>21.0390731473607 105.781940120863 0 21.0389948347657 105.78193868093 0 21.0389948347657 105.78193868093 15 21.0390731473607 105.781940120863 15 21.0390731473607 105.781940120863 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13709,7 +13673,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0389948347657 105.78193868093 8 21.0389948347657 105.781902941785 8 21.0389516011661 105.781899822133 8 21.0389522112552 105.781865762707 8 21.0388870826483 105.781862325687 8 21.0388833883421 105.78199964868 8 21.0388404290523 105.781998264418 8 21.0388404290523 105.781928318584 8 21.038698375796 105.781920546825 8 21.0386942583103 105.782070800838 8 21.038763490254 105.782073668112 8 21.0387621968243 105.782179605467 8 21.0388692514522 105.782174424295 8 21.0388692514522 105.782107069047 8 21.0389186612804 105.782107069047 8 21.0389208023699 105.782174616745 8 21.0390228515037 105.782173308041 8 21.0390257159085 105.782081163183 8 21.0390668907655 105.78208375377 8 21.0390731473607 105.781940120863 8 21.0389948347657 105.78193868093 8</gml:posList>
+<gml:posList>21.0389948347657 105.78193868093 15 21.0389948347657 105.781902941785 15 21.0389516011661 105.781899822133 15 21.0389522112552 105.781865762707 15 21.0388870826483 105.781862325687 15 21.0388833883421 105.78199964868 15 21.0388404290523 105.781998264418 15 21.0388404290523 105.781928318584 15 21.038698375796 105.781920546825 15 21.0386942583103 105.782070800838 15 21.038763490254 105.782073668112 15 21.0387621968243 105.782179605467 15 21.0388692514522 105.782174424295 15 21.0388692514522 105.782107069047 15 21.0389186612804 105.782107069047 15 21.0389208023699 105.782174616745 15 21.0390228515037 105.782173308041 15 21.0390257159085 105.782081163183 15 21.0390668907655 105.78208375377 15 21.0390731473607 105.781940120863 15 21.0389948347657 105.78193868093 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13723,9 +13687,9 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="a96028dd-a73a-4815-ace4-8f6548f60a09">
+<bldg:Building gml:id="0d35eeaa-0623-4b4b-9c39-49324276b68e">
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -13734,12 +13698,12 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -13748,7 +13712,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -13762,7 +13726,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385954386537 105.782132974912 0 21.0387025582064 105.782133832783 0 21.0387025582064 105.782133832783 12 21.0385954386537 105.782132974912 12 21.0385954386537 105.782132974912 0</gml:posList>
+<gml:posList>21.0385954386537 105.782132974912 0 21.0387025582064 105.782133832783 0 21.0387025582064 105.782133832783 15 21.0385954386537 105.782132974912 15 21.0385954386537 105.782132974912 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13774,7 +13738,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -13783,7 +13747,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -13797,7 +13761,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385954386537 105.782132974912 0 21.0387025582064 105.782133832783 0 21.0387025582064 105.782133832783 12 21.0385954386537 105.782132974912 12 21.0385954386537 105.782132974912 0</gml:posList>
+<gml:posList>21.0385954386537 105.782132974912 0 21.0387025582064 105.782133832783 0 21.0387025582064 105.782133832783 15 21.0385954386537 105.782132974912 15 21.0385954386537 105.782132974912 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13809,7 +13773,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -13818,7 +13782,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -13832,7 +13796,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387025582064 105.782133832783 0 21.0387024947771 105.782216514947 0 21.0387024947771 105.782216514947 12 21.0387025582064 105.782133832783 12 21.0387025582064 105.782133832783 0</gml:posList>
+<gml:posList>21.0387025582064 105.782133832783 0 21.0387024947771 105.782216514947 0 21.0387024947771 105.782216514947 15 21.0387025582064 105.782133832783 15 21.0387025582064 105.782133832783 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13844,7 +13808,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -13853,7 +13817,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -13867,7 +13831,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387025582064 105.782133832783 0 21.0387024947771 105.782216514947 0 21.0387024947771 105.782216514947 12 21.0387025582064 105.782133832783 12 21.0387025582064 105.782133832783 0</gml:posList>
+<gml:posList>21.0387025582064 105.782133832783 0 21.0387024947771 105.782216514947 0 21.0387024947771 105.782216514947 15 21.0387025582064 105.782133832783 15 21.0387025582064 105.782133832783 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13879,7 +13843,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -13888,7 +13852,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -13902,7 +13866,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387024947771 105.782216514947 0 21.0387403321498 105.782217113919 0 21.0387403321498 105.782217113919 12 21.0387024947771 105.782216514947 12 21.0387024947771 105.782216514947 0</gml:posList>
+<gml:posList>21.0387024947771 105.782216514947 0 21.0387403321498 105.782217113919 0 21.0387403321498 105.782217113919 15 21.0387024947771 105.782216514947 15 21.0387024947771 105.782216514947 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13914,7 +13878,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -13923,7 +13887,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -13937,7 +13901,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387024947771 105.782216514947 0 21.0387403321498 105.782217113919 0 21.0387403321498 105.782217113919 12 21.0387024947771 105.782216514947 12 21.0387024947771 105.782216514947 0</gml:posList>
+<gml:posList>21.0387024947771 105.782216514947 0 21.0387403321498 105.782217113919 0 21.0387403321498 105.782217113919 15 21.0387024947771 105.782216514947 15 21.0387024947771 105.782216514947 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13949,7 +13913,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -13958,7 +13922,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -13972,7 +13936,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387403321498 105.782217113919 0 21.038739550653 105.782337631239 0 21.038739550653 105.782337631239 12 21.0387403321498 105.782217113919 12 21.0387403321498 105.782217113919 0</gml:posList>
+<gml:posList>21.0387403321498 105.782217113919 0 21.038739550653 105.782337631239 0 21.038739550653 105.782337631239 15 21.0387403321498 105.782217113919 15 21.0387403321498 105.782217113919 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -13984,7 +13948,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -13993,7 +13957,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -14007,7 +13971,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387403321498 105.782217113919 0 21.038739550653 105.782337631239 0 21.038739550653 105.782337631239 12 21.0387403321498 105.782217113919 12 21.0387403321498 105.782217113919 0</gml:posList>
+<gml:posList>21.0387403321498 105.782217113919 0 21.038739550653 105.782337631239 0 21.038739550653 105.782337631239 15 21.0387403321498 105.782217113919 15 21.0387403321498 105.782217113919 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14019,7 +13983,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -14028,7 +13992,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -14042,7 +14006,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038739550653 105.782337631239 0 21.0386645128891 105.782335666826 0 21.0386645128891 105.782335666826 12 21.038739550653 105.782337631239 12 21.038739550653 105.782337631239 0</gml:posList>
+<gml:posList>21.038739550653 105.782337631239 0 21.0386645128891 105.782335666826 0 21.0386645128891 105.782335666826 15 21.038739550653 105.782337631239 15 21.038739550653 105.782337631239 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14054,7 +14018,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -14063,7 +14027,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -14077,7 +14041,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038739550653 105.782337631239 0 21.0386645128891 105.782335666826 0 21.0386645128891 105.782335666826 12 21.038739550653 105.782337631239 12 21.038739550653 105.782337631239 0</gml:posList>
+<gml:posList>21.038739550653 105.782337631239 0 21.0386645128891 105.782335666826 0 21.0386645128891 105.782335666826 15 21.038739550653 105.782337631239 15 21.038739550653 105.782337631239 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14089,7 +14053,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -14098,7 +14062,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -14112,7 +14076,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386645128891 105.782335666826 0 21.0386653196416 105.782356252901 0 21.0386653196416 105.782356252901 12 21.0386645128891 105.782335666826 12 21.0386645128891 105.782335666826 0</gml:posList>
+<gml:posList>21.0386645128891 105.782335666826 0 21.0386653196416 105.782356252901 0 21.0386653196416 105.782356252901 15 21.0386645128891 105.782335666826 15 21.0386645128891 105.782335666826 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14124,7 +14088,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -14133,7 +14097,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -14147,7 +14111,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386645128891 105.782335666826 0 21.0386653196416 105.782356252901 0 21.0386653196416 105.782356252901 12 21.0386645128891 105.782335666826 12 21.0386645128891 105.782335666826 0</gml:posList>
+<gml:posList>21.0386645128891 105.782335666826 0 21.0386653196416 105.782356252901 0 21.0386653196416 105.782356252901 15 21.0386645128891 105.782335666826 15 21.0386645128891 105.782335666826 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14159,7 +14123,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -14168,7 +14132,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -14182,7 +14146,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386653196416 105.782356252901 0 21.0385643628495 105.782358277271 0 21.0385643628495 105.782358277271 12 21.0386653196416 105.782356252901 12 21.0386653196416 105.782356252901 0</gml:posList>
+<gml:posList>21.0386653196416 105.782356252901 0 21.0385643628495 105.782358277271 0 21.0385643628495 105.782358277271 15 21.0386653196416 105.782356252901 15 21.0386653196416 105.782356252901 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14194,7 +14158,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -14203,7 +14167,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -14217,7 +14181,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386653196416 105.782356252901 0 21.0385643628495 105.782358277271 0 21.0385643628495 105.782358277271 12 21.0386653196416 105.782356252901 12 21.0386653196416 105.782356252901 0</gml:posList>
+<gml:posList>21.0386653196416 105.782356252901 0 21.0385643628495 105.782358277271 0 21.0385643628495 105.782358277271 15 21.0386653196416 105.782356252901 15 21.0386653196416 105.782356252901 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14229,7 +14193,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -14238,7 +14202,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -14252,7 +14216,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385643628495 105.782358277271 0 21.038564190647 105.782292282436 0 21.038564190647 105.782292282436 12 21.0385643628495 105.782358277271 12 21.0385643628495 105.782358277271 0</gml:posList>
+<gml:posList>21.0385643628495 105.782358277271 0 21.038564190647 105.782292282436 0 21.038564190647 105.782292282436 15 21.0385643628495 105.782358277271 15 21.0385643628495 105.782358277271 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14264,7 +14228,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -14273,7 +14237,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -14287,7 +14251,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385643628495 105.782358277271 0 21.038564190647 105.782292282436 0 21.038564190647 105.782292282436 12 21.0385643628495 105.782358277271 12 21.0385643628495 105.782358277271 0</gml:posList>
+<gml:posList>21.0385643628495 105.782358277271 0 21.038564190647 105.782292282436 0 21.038564190647 105.782292282436 15 21.0385643628495 105.782358277271 15 21.0385643628495 105.782358277271 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14299,7 +14263,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -14308,7 +14272,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -14322,7 +14286,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038564190647 105.782292282436 0 21.0385275001398 105.782291000684 0 21.0385275001398 105.782291000684 12 21.038564190647 105.782292282436 12 21.038564190647 105.782292282436 0</gml:posList>
+<gml:posList>21.038564190647 105.782292282436 0 21.0385275001398 105.782291000684 0 21.0385275001398 105.782291000684 15 21.038564190647 105.782292282436 15 21.038564190647 105.782292282436 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14334,7 +14298,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -14343,7 +14307,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -14357,7 +14321,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038564190647 105.782292282436 0 21.0385275001398 105.782291000684 0 21.0385275001398 105.782291000684 12 21.038564190647 105.782292282436 12 21.038564190647 105.782292282436 0</gml:posList>
+<gml:posList>21.038564190647 105.782292282436 0 21.0385275001398 105.782291000684 0 21.0385275001398 105.782291000684 15 21.038564190647 105.782292282436 15 21.038564190647 105.782292282436 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14369,7 +14333,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -14378,7 +14342,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -14392,7 +14356,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385275001398 105.782291000684 0 21.0385316176254 105.782169243122 0 21.0385316176254 105.782169243122 12 21.0385275001398 105.782291000684 12 21.0385275001398 105.782291000684 0</gml:posList>
+<gml:posList>21.0385275001398 105.782291000684 0 21.0385316176254 105.782169243122 0 21.0385316176254 105.782169243122 15 21.0385275001398 105.782291000684 15 21.0385275001398 105.782291000684 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14404,7 +14368,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -14413,7 +14377,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -14427,7 +14391,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385275001398 105.782291000684 0 21.0385316176254 105.782169243122 0 21.0385316176254 105.782169243122 12 21.0385275001398 105.782291000684 12 21.0385275001398 105.782291000684 0</gml:posList>
+<gml:posList>21.0385275001398 105.782291000684 0 21.0385316176254 105.782169243122 0 21.0385316176254 105.782169243122 15 21.0385275001398 105.782291000684 15 21.0385275001398 105.782291000684 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14439,7 +14403,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -14448,7 +14412,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -14462,7 +14426,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385316176254 105.782169243122 0 21.0385942927305 105.782171309294 0 21.0385942927305 105.782171309294 12 21.0385316176254 105.782169243122 12 21.0385316176254 105.782169243122 0</gml:posList>
+<gml:posList>21.0385316176254 105.782169243122 0 21.0385942927305 105.782171309294 0 21.0385942927305 105.782171309294 15 21.0385316176254 105.782169243122 15 21.0385316176254 105.782169243122 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14474,7 +14438,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -14483,7 +14447,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -14497,7 +14461,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385316176254 105.782169243122 0 21.0385942927305 105.782171309294 0 21.0385942927305 105.782171309294 12 21.0385316176254 105.782169243122 12 21.0385316176254 105.782169243122 0</gml:posList>
+<gml:posList>21.0385316176254 105.782169243122 0 21.0385942927305 105.782171309294 0 21.0385942927305 105.782171309294 15 21.0385316176254 105.782169243122 15 21.0385316176254 105.782169243122 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14509,7 +14473,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -14518,7 +14482,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -14532,7 +14496,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385942927305 105.782171309294 0 21.0385954386537 105.782132974912 0 21.0385954386537 105.782132974912 12 21.0385942927305 105.782171309294 12 21.0385942927305 105.782171309294 0</gml:posList>
+<gml:posList>21.0385942927305 105.782171309294 0 21.0385954386537 105.782132974912 0 21.0385954386537 105.782132974912 15 21.0385942927305 105.782171309294 15 21.0385942927305 105.782171309294 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14544,7 +14508,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -14553,7 +14517,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -14567,7 +14531,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385942927305 105.782171309294 0 21.0385954386537 105.782132974912 0 21.0385954386537 105.782132974912 12 21.0385942927305 105.782171309294 12 21.0385942927305 105.782171309294 0</gml:posList>
+<gml:posList>21.0385942927305 105.782171309294 0 21.0385954386537 105.782132974912 0 21.0385954386537 105.782132974912 15 21.0385942927305 105.782171309294 15 21.0385942927305 105.782171309294 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14579,7 +14543,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>12</gen:value>
+<gen:value>15</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -14588,7 +14552,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -14607,7 +14571,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385954386537 105.782132974912 0 21.0385942927305 105.782171309294 0 21.0385942927305 105.782171309294 12 21.0385954386537 105.782132974912 12 21.0385954386537 105.782132974912 0</gml:posList>
+<gml:posList>21.0385954386537 105.782132974912 0 21.0385942927305 105.782171309294 0 21.0385942927305 105.782171309294 15 21.0385954386537 105.782132974912 15 21.0385954386537 105.782132974912 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14616,7 +14580,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385942927305 105.782171309294 0 21.0385316176254 105.782169243122 0 21.0385316176254 105.782169243122 12 21.0385942927305 105.782171309294 12 21.0385942927305 105.782171309294 0</gml:posList>
+<gml:posList>21.0385942927305 105.782171309294 0 21.0385316176254 105.782169243122 0 21.0385316176254 105.782169243122 15 21.0385942927305 105.782171309294 15 21.0385942927305 105.782171309294 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14625,7 +14589,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385316176254 105.782169243122 0 21.0385275001398 105.782291000684 0 21.0385275001398 105.782291000684 12 21.0385316176254 105.782169243122 12 21.0385316176254 105.782169243122 0</gml:posList>
+<gml:posList>21.0385316176254 105.782169243122 0 21.0385275001398 105.782291000684 0 21.0385275001398 105.782291000684 15 21.0385316176254 105.782169243122 15 21.0385316176254 105.782169243122 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14634,7 +14598,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385275001398 105.782291000684 0 21.038564190647 105.782292282436 0 21.038564190647 105.782292282436 12 21.0385275001398 105.782291000684 12 21.0385275001398 105.782291000684 0</gml:posList>
+<gml:posList>21.0385275001398 105.782291000684 0 21.038564190647 105.782292282436 0 21.038564190647 105.782292282436 15 21.0385275001398 105.782291000684 15 21.0385275001398 105.782291000684 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14643,7 +14607,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038564190647 105.782292282436 0 21.0385643628495 105.782358277271 0 21.0385643628495 105.782358277271 12 21.038564190647 105.782292282436 12 21.038564190647 105.782292282436 0</gml:posList>
+<gml:posList>21.038564190647 105.782292282436 0 21.0385643628495 105.782358277271 0 21.0385643628495 105.782358277271 15 21.038564190647 105.782292282436 15 21.038564190647 105.782292282436 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14652,7 +14616,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385643628495 105.782358277271 0 21.0386653196416 105.782356252901 0 21.0386653196416 105.782356252901 12 21.0385643628495 105.782358277271 12 21.0385643628495 105.782358277271 0</gml:posList>
+<gml:posList>21.0385643628495 105.782358277271 0 21.0386653196416 105.782356252901 0 21.0386653196416 105.782356252901 15 21.0385643628495 105.782358277271 15 21.0385643628495 105.782358277271 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14661,7 +14625,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386653196416 105.782356252901 0 21.0386645128891 105.782335666826 0 21.0386645128891 105.782335666826 12 21.0386653196416 105.782356252901 12 21.0386653196416 105.782356252901 0</gml:posList>
+<gml:posList>21.0386653196416 105.782356252901 0 21.0386645128891 105.782335666826 0 21.0386645128891 105.782335666826 15 21.0386653196416 105.782356252901 15 21.0386653196416 105.782356252901 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14670,7 +14634,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386645128891 105.782335666826 0 21.038739550653 105.782337631239 0 21.038739550653 105.782337631239 12 21.0386645128891 105.782335666826 12 21.0386645128891 105.782335666826 0</gml:posList>
+<gml:posList>21.0386645128891 105.782335666826 0 21.038739550653 105.782337631239 0 21.038739550653 105.782337631239 15 21.0386645128891 105.782335666826 15 21.0386645128891 105.782335666826 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14679,7 +14643,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038739550653 105.782337631239 0 21.0387403321498 105.782217113919 0 21.0387403321498 105.782217113919 12 21.038739550653 105.782337631239 12 21.038739550653 105.782337631239 0</gml:posList>
+<gml:posList>21.038739550653 105.782337631239 0 21.0387403321498 105.782217113919 0 21.0387403321498 105.782217113919 15 21.038739550653 105.782337631239 15 21.038739550653 105.782337631239 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14688,7 +14652,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387403321498 105.782217113919 0 21.0387024947771 105.782216514947 0 21.0387024947771 105.782216514947 12 21.0387403321498 105.782217113919 12 21.0387403321498 105.782217113919 0</gml:posList>
+<gml:posList>21.0387403321498 105.782217113919 0 21.0387024947771 105.782216514947 0 21.0387024947771 105.782216514947 15 21.0387403321498 105.782217113919 15 21.0387403321498 105.782217113919 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14697,7 +14661,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387024947771 105.782216514947 0 21.0387025582064 105.782133832783 0 21.0387025582064 105.782133832783 12 21.0387024947771 105.782216514947 12 21.0387024947771 105.782216514947 0</gml:posList>
+<gml:posList>21.0387024947771 105.782216514947 0 21.0387025582064 105.782133832783 0 21.0387025582064 105.782133832783 15 21.0387024947771 105.782216514947 15 21.0387024947771 105.782216514947 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14706,7 +14670,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387025582064 105.782133832783 0 21.0385954386537 105.782132974912 0 21.0385954386537 105.782132974912 12 21.0387025582064 105.782133832783 12 21.0387025582064 105.782133832783 0</gml:posList>
+<gml:posList>21.0387025582064 105.782133832783 0 21.0385954386537 105.782132974912 0 21.0385954386537 105.782132974912 15 21.0387025582064 105.782133832783 15 21.0387025582064 105.782133832783 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14715,7 +14679,1163 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385954386537 105.782132974912 12 21.0385942927305 105.782171309294 12 21.0385316176254 105.782169243122 12 21.0385275001398 105.782291000684 12 21.038564190647 105.782292282436 12 21.0385643628495 105.782358277271 12 21.0386653196416 105.782356252901 12 21.0386645128891 105.782335666826 12 21.038739550653 105.782337631239 12 21.0387403321498 105.782217113919 12 21.0387024947771 105.782216514947 12 21.0387025582064 105.782133832783 12 21.0385954386537 105.782132974912 12</gml:posList>
+<gml:posList>21.0385954386537 105.782132974912 15 21.0385942927305 105.782171309294 15 21.0385316176254 105.782169243122 15 21.0385275001398 105.782291000684 15 21.038564190647 105.782292282436 15 21.0385643628495 105.782358277271 15 21.0386653196416 105.782356252901 15 21.0386645128891 105.782335666826 15 21.038739550653 105.782337631239 15 21.0387403321498 105.782217113919 15 21.0387024947771 105.782216514947 15 21.0387025582064 105.782133832783 15 21.0385954386537 105.782132974912 15</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:CompositeSurface>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:FloorSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:intAttribute name="height">
+<gen:value>15</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>0d35eeaa-0623-4b4b-9c39-49324276b68e</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:CompositeSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0385954386537 105.782132974912 0 21.0387025582064 105.782133832783 0 21.0387024947771 105.782216514947 0 21.0387403321498 105.782217113919 0 21.038739550653 105.782337631239 0 21.0386645128891 105.782335666826 0 21.0386653196416 105.782356252901 0 21.0385643628495 105.782358277271 0 21.038564190647 105.782292282436 0 21.0385275001398 105.782291000684 0 21.0385316176254 105.782169243122 0 21.0385942927305 105.782171309294 0 21.0385954386537 105.782132974912 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0385954386537 105.782132974912 0 21.0385942927305 105.782171309294 0 21.0385942927305 105.782171309294 15 21.0385954386537 105.782132974912 15 21.0385954386537 105.782132974912 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0385942927305 105.782171309294 0 21.0385316176254 105.782169243122 0 21.0385316176254 105.782169243122 15 21.0385942927305 105.782171309294 15 21.0385942927305 105.782171309294 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0385316176254 105.782169243122 0 21.0385275001398 105.782291000684 0 21.0385275001398 105.782291000684 15 21.0385316176254 105.782169243122 15 21.0385316176254 105.782169243122 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0385275001398 105.782291000684 0 21.038564190647 105.782292282436 0 21.038564190647 105.782292282436 15 21.0385275001398 105.782291000684 15 21.0385275001398 105.782291000684 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.038564190647 105.782292282436 0 21.0385643628495 105.782358277271 0 21.0385643628495 105.782358277271 15 21.038564190647 105.782292282436 15 21.038564190647 105.782292282436 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0385643628495 105.782358277271 0 21.0386653196416 105.782356252901 0 21.0386653196416 105.782356252901 15 21.0385643628495 105.782358277271 15 21.0385643628495 105.782358277271 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0386653196416 105.782356252901 0 21.0386645128891 105.782335666826 0 21.0386645128891 105.782335666826 15 21.0386653196416 105.782356252901 15 21.0386653196416 105.782356252901 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0386645128891 105.782335666826 0 21.038739550653 105.782337631239 0 21.038739550653 105.782337631239 15 21.0386645128891 105.782335666826 15 21.0386645128891 105.782335666826 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.038739550653 105.782337631239 0 21.0387403321498 105.782217113919 0 21.0387403321498 105.782217113919 15 21.038739550653 105.782337631239 15 21.038739550653 105.782337631239 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0387403321498 105.782217113919 0 21.0387024947771 105.782216514947 0 21.0387024947771 105.782216514947 15 21.0387403321498 105.782217113919 15 21.0387403321498 105.782217113919 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0387024947771 105.782216514947 0 21.0387025582064 105.782133832783 0 21.0387025582064 105.782133832783 15 21.0387024947771 105.782216514947 15 21.0387024947771 105.782216514947 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0387025582064 105.782133832783 0 21.0385954386537 105.782132974912 0 21.0385954386537 105.782132974912 15 21.0387025582064 105.782133832783 15 21.0387025582064 105.782133832783 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0385954386537 105.782132974912 15 21.0385942927305 105.782171309294 15 21.0385316176254 105.782169243122 15 21.0385275001398 105.782291000684 15 21.038564190647 105.782292282436 15 21.0385643628495 105.782358277271 15 21.0386653196416 105.782356252901 15 21.0386645128891 105.782335666826 15 21.038739550653 105.782337631239 15 21.0387403321498 105.782217113919 15 21.0387024947771 105.782216514947 15 21.0387025582064 105.782133832783 15 21.0385954386537 105.782132974912 15</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:CompositeSurface>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+</bldg:Building>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:Building gml:id="b409352c-73ff-432b-9605-493830ba03d5">
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<bldg:boundedBy>
+<bldg:FloorSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0393031944745 105.782152967537 0 21.0392995287071 105.782252141887 0 21.0392995287071 105.782252141887 12 21.0393031944745 105.782152967537 12 21.0393031944745 105.782152967537 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:FloorSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0393031944745 105.782152967537 0 21.0392995287071 105.782252141887 0 21.0392995287071 105.782252141887 12 21.0393031944745 105.782152967537 12 21.0393031944745 105.782152967537 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:FloorSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0392995287071 105.782252141887 0 21.0392665888214 105.782252141887 0 21.0392665888214 105.782252141887 12 21.0392995287071 105.782252141887 12 21.0392995287071 105.782252141887 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:FloorSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0392995287071 105.782252141887 0 21.0392665888214 105.782252141887 0 21.0392665888214 105.782252141887 12 21.0392995287071 105.782252141887 12 21.0392995287071 105.782252141887 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:FloorSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0392665888214 105.782252141887 0 21.0392668652298 105.782340048771 0 21.0392668652298 105.782340048771 12 21.0392665888214 105.782252141887 12 21.0392665888214 105.782252141887 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:FloorSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0392665888214 105.782252141887 0 21.0392668652298 105.782340048771 0 21.0392668652298 105.782340048771 12 21.0392665888214 105.782252141887 12 21.0392665888214 105.782252141887 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:FloorSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0392668652298 105.782340048771 0 21.0391543167242 105.782340286718 0 21.0391543167242 105.782340286718 12 21.0392668652298 105.782340048771 12 21.0392668652298 105.782340048771 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:FloorSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0392668652298 105.782340048771 0 21.0391543167242 105.782340286718 0 21.0391543167242 105.782340286718 12 21.0392668652298 105.782340048771 12 21.0392668652298 105.782340048771 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:FloorSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0391543167242 105.782340286718 0 21.0391554167078 105.782296181857 0 21.0391554167078 105.782296181857 12 21.0391543167242 105.782340286718 12 21.0391543167242 105.782340286718 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:FloorSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0391543167242 105.782340286718 0 21.0391554167078 105.782296181857 0 21.0391554167078 105.782296181857 12 21.0391543167242 105.782340286718 12 21.0391543167242 105.782340286718 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:FloorSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0391554167078 105.782296181857 0 21.0390874781939 105.782296181857 0 21.0390874781939 105.782296181857 12 21.0391554167078 105.782296181857 12 21.0391554167078 105.782296181857 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:FloorSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0391554167078 105.782296181857 0 21.0390874781939 105.782296181857 0 21.0390874781939 105.782296181857 12 21.0391554167078 105.782296181857 12 21.0391554167078 105.782296181857 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:FloorSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0390874781939 105.782296181857 0 21.0390874781939 105.782151109017 0 21.0390874781939 105.782151109017 12 21.0390874781939 105.782296181857 12 21.0390874781939 105.782296181857 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:FloorSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0390874781939 105.782296181857 0 21.0390874781939 105.782151109017 0 21.0390874781939 105.782151109017 12 21.0390874781939 105.782296181857 12 21.0390874781939 105.782296181857 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:FloorSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0390874781939 105.782151109017 0 21.0391245355652 105.782151109017 0 21.0391245355652 105.782151109017 12 21.0390874781939 105.782151109017 12 21.0390874781939 105.782151109017 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:FloorSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0390874781939 105.782151109017 0 21.0391245355652 105.782151109017 0 21.0391245355652 105.782151109017 12 21.0390874781939 105.782151109017 12 21.0390874781939 105.782151109017 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:FloorSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0391245355652 105.782151109017 0 21.0391283805993 105.78210519597 0 21.0391283805993 105.78210519597 12 21.0391245355652 105.782151109017 12 21.0391245355652 105.782151109017 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:FloorSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0391245355652 105.782151109017 0 21.0391283805993 105.78210519597 0 21.0391283805993 105.78210519597 12 21.0391245355652 105.782151109017 12 21.0391245355652 105.782151109017 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:FloorSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0391283805993 105.78210519597 0 21.0392259336896 105.782107002425 0 21.0392259336896 105.782107002425 12 21.0391283805993 105.78210519597 12 21.0391283805993 105.78210519597 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:FloorSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0391283805993 105.78210519597 0 21.0392259336896 105.782107002425 0 21.0392259336896 105.782107002425 12 21.0391283805993 105.78210519597 12 21.0391283805993 105.78210519597 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:FloorSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0392259336896 105.782107002425 0 21.0392254626084 105.782152309298 0 21.0392254626084 105.782152309298 12 21.0392259336896 105.782107002425 12 21.0392259336896 105.782107002425 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:FloorSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0392259336896 105.782107002425 0 21.0392254626084 105.782152309298 0 21.0392254626084 105.782152309298 12 21.0392259336896 105.782107002425 12 21.0392259336896 105.782107002425 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:FloorSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0392254626084 105.782152309298 0 21.0393031944745 105.782152967537 0 21.0393031944745 105.782152967537 12 21.0392254626084 105.782152309298 12 21.0392254626084 105.782152309298 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:FloorSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:WallSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0392254626084 105.782152309298 0 21.0393031944745 105.782152967537 0 21.0393031944745 105.782152967537 12 21.0392254626084 105.782152309298 12 21.0392254626084 105.782152309298 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:WallSurface>
+</bldg:boundedBy>
+<bldg:boundedBy>
+<bldg:FloorSurface>
+<gen:intAttribute name="height">
+<gen:value>12</gen:value>
+</gen:intAttribute>
+<gen:intAttribute name="roof_heigh">
+<gen:value>0</gen:value>
+</gen:intAttribute>
+<gen:stringAttribute name="roof_type">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_uuid">
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:CompositeSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0393031944745 105.782152967537 0 21.0392995287071 105.782252141887 0 21.0392665888214 105.782252141887 0 21.0392668652298 105.782340048771 0 21.0391543167242 105.782340286718 0 21.0391554167078 105.782296181857 0 21.0390874781939 105.782296181857 0 21.0390874781939 105.782151109017 0 21.0391245355652 105.782151109017 0 21.0391283805993 105.78210519597 0 21.0392259336896 105.782107002425 0 21.0392254626084 105.782152309298 0 21.0393031944745 105.782152967537 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0393031944745 105.782152967537 0 21.0392254626084 105.782152309298 0 21.0392254626084 105.782152309298 12 21.0393031944745 105.782152967537 12 21.0393031944745 105.782152967537 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0392254626084 105.782152309298 0 21.0392259336896 105.782107002425 0 21.0392259336896 105.782107002425 12 21.0392254626084 105.782152309298 12 21.0392254626084 105.782152309298 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0392259336896 105.782107002425 0 21.0391283805993 105.78210519597 0 21.0391283805993 105.78210519597 12 21.0392259336896 105.782107002425 12 21.0392259336896 105.782107002425 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0391283805993 105.78210519597 0 21.0391245355652 105.782151109017 0 21.0391245355652 105.782151109017 12 21.0391283805993 105.78210519597 12 21.0391283805993 105.78210519597 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0391245355652 105.782151109017 0 21.0390874781939 105.782151109017 0 21.0390874781939 105.782151109017 12 21.0391245355652 105.782151109017 12 21.0391245355652 105.782151109017 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0390874781939 105.782151109017 0 21.0390874781939 105.782296181857 0 21.0390874781939 105.782296181857 12 21.0390874781939 105.782151109017 12 21.0390874781939 105.782151109017 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0390874781939 105.782296181857 0 21.0391554167078 105.782296181857 0 21.0391554167078 105.782296181857 12 21.0390874781939 105.782296181857 12 21.0390874781939 105.782296181857 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0391554167078 105.782296181857 0 21.0391543167242 105.782340286718 0 21.0391543167242 105.782340286718 12 21.0391554167078 105.782296181857 12 21.0391554167078 105.782296181857 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0391543167242 105.782340286718 0 21.0392668652298 105.782340048771 0 21.0392668652298 105.782340048771 12 21.0391543167242 105.782340286718 12 21.0391543167242 105.782340286718 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0392668652298 105.782340048771 0 21.0392665888214 105.782252141887 0 21.0392665888214 105.782252141887 12 21.0392668652298 105.782340048771 12 21.0392668652298 105.782340048771 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0392665888214 105.782252141887 0 21.0392995287071 105.782252141887 0 21.0392995287071 105.782252141887 12 21.0392665888214 105.782252141887 12 21.0392665888214 105.782252141887 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0392995287071 105.782252141887 0 21.0393031944745 105.782152967537 0 21.0393031944745 105.782152967537 12 21.0392995287071 105.782252141887 12 21.0392995287071 105.782252141887 0</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0393031944745 105.782152967537 12 21.0392254626084 105.782152309298 12 21.0392259336896 105.782107002425 12 21.0391283805993 105.78210519597 12 21.0391245355652 105.782151109017 12 21.0390874781939 105.782151109017 12 21.0390874781939 105.782296181857 12 21.0391554167078 105.782296181857 12 21.0391543167242 105.782340286718 12 21.0392668652298 105.782340048771 12 21.0392665888214 105.782252141887 12 21.0392995287071 105.782252141887 12 21.0393031944745 105.782152967537 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -14738,1013 +15858,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>a96028dd-a73a-4815-ace4-8f6548f60a09</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:CompositeSurface>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0385954386537 105.782132974912 0 21.0387025582064 105.782133832783 0 21.0387024947771 105.782216514947 0 21.0387403321498 105.782217113919 0 21.038739550653 105.782337631239 0 21.0386645128891 105.782335666826 0 21.0386653196416 105.782356252901 0 21.0385643628495 105.782358277271 0 21.038564190647 105.782292282436 0 21.0385275001398 105.782291000684 0 21.0385316176254 105.782169243122 0 21.0385942927305 105.782171309294 0 21.0385954386537 105.782132974912 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0385954386537 105.782132974912 0 21.0385942927305 105.782171309294 0 21.0385942927305 105.782171309294 12 21.0385954386537 105.782132974912 12 21.0385954386537 105.782132974912 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0385942927305 105.782171309294 0 21.0385316176254 105.782169243122 0 21.0385316176254 105.782169243122 12 21.0385942927305 105.782171309294 12 21.0385942927305 105.782171309294 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0385316176254 105.782169243122 0 21.0385275001398 105.782291000684 0 21.0385275001398 105.782291000684 12 21.0385316176254 105.782169243122 12 21.0385316176254 105.782169243122 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0385275001398 105.782291000684 0 21.038564190647 105.782292282436 0 21.038564190647 105.782292282436 12 21.0385275001398 105.782291000684 12 21.0385275001398 105.782291000684 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.038564190647 105.782292282436 0 21.0385643628495 105.782358277271 0 21.0385643628495 105.782358277271 12 21.038564190647 105.782292282436 12 21.038564190647 105.782292282436 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0385643628495 105.782358277271 0 21.0386653196416 105.782356252901 0 21.0386653196416 105.782356252901 12 21.0385643628495 105.782358277271 12 21.0385643628495 105.782358277271 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0386653196416 105.782356252901 0 21.0386645128891 105.782335666826 0 21.0386645128891 105.782335666826 12 21.0386653196416 105.782356252901 12 21.0386653196416 105.782356252901 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0386645128891 105.782335666826 0 21.038739550653 105.782337631239 0 21.038739550653 105.782337631239 12 21.0386645128891 105.782335666826 12 21.0386645128891 105.782335666826 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.038739550653 105.782337631239 0 21.0387403321498 105.782217113919 0 21.0387403321498 105.782217113919 12 21.038739550653 105.782337631239 12 21.038739550653 105.782337631239 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0387403321498 105.782217113919 0 21.0387024947771 105.782216514947 0 21.0387024947771 105.782216514947 12 21.0387403321498 105.782217113919 12 21.0387403321498 105.782217113919 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0387024947771 105.782216514947 0 21.0387025582064 105.782133832783 0 21.0387025582064 105.782133832783 12 21.0387024947771 105.782216514947 12 21.0387024947771 105.782216514947 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0387025582064 105.782133832783 0 21.0385954386537 105.782132974912 0 21.0385954386537 105.782132974912 12 21.0387025582064 105.782133832783 12 21.0387025582064 105.782133832783 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0385954386537 105.782132974912 12 21.0385942927305 105.782171309294 12 21.0385316176254 105.782169243122 12 21.0385275001398 105.782291000684 12 21.038564190647 105.782292282436 12 21.0385643628495 105.782358277271 12 21.0386653196416 105.782356252901 12 21.0386645128891 105.782335666826 12 21.038739550653 105.782337631239 12 21.0387403321498 105.782217113919 12 21.0387024947771 105.782216514947 12 21.0387025582064 105.782133832783 12 21.0385954386537 105.782132974912 12</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:CompositeSurface>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:WallSurface>
-</bldg:boundedBy>
-</bldg:Building>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:Building gml:id="b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338">
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<bldg:boundedBy>
-<bldg:FloorSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0393031944745 105.782152967537 0 21.0392995287071 105.782252141887 0 21.0392995287071 105.782252141887 4 21.0393031944745 105.782152967537 4 21.0393031944745 105.782152967537 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:FloorSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:WallSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0393031944745 105.782152967537 0 21.0392995287071 105.782252141887 0 21.0392995287071 105.782252141887 4 21.0393031944745 105.782152967537 4 21.0393031944745 105.782152967537 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:WallSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:FloorSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0392995287071 105.782252141887 0 21.0392665888214 105.782252141887 0 21.0392665888214 105.782252141887 4 21.0392995287071 105.782252141887 4 21.0392995287071 105.782252141887 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:FloorSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:WallSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0392995287071 105.782252141887 0 21.0392665888214 105.782252141887 0 21.0392665888214 105.782252141887 4 21.0392995287071 105.782252141887 4 21.0392995287071 105.782252141887 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:WallSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:FloorSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0392665888214 105.782252141887 0 21.0392668652298 105.782340048771 0 21.0392668652298 105.782340048771 4 21.0392665888214 105.782252141887 4 21.0392665888214 105.782252141887 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:FloorSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:WallSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0392665888214 105.782252141887 0 21.0392668652298 105.782340048771 0 21.0392668652298 105.782340048771 4 21.0392665888214 105.782252141887 4 21.0392665888214 105.782252141887 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:WallSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:FloorSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0392668652298 105.782340048771 0 21.0391543167242 105.782340286718 0 21.0391543167242 105.782340286718 4 21.0392668652298 105.782340048771 4 21.0392668652298 105.782340048771 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:FloorSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:WallSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0392668652298 105.782340048771 0 21.0391543167242 105.782340286718 0 21.0391543167242 105.782340286718 4 21.0392668652298 105.782340048771 4 21.0392668652298 105.782340048771 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:WallSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:FloorSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0391543167242 105.782340286718 0 21.0391554167078 105.782296181857 0 21.0391554167078 105.782296181857 4 21.0391543167242 105.782340286718 4 21.0391543167242 105.782340286718 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:FloorSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:WallSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0391543167242 105.782340286718 0 21.0391554167078 105.782296181857 0 21.0391554167078 105.782296181857 4 21.0391543167242 105.782340286718 4 21.0391543167242 105.782340286718 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:WallSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:FloorSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0391554167078 105.782296181857 0 21.0390874781939 105.782296181857 0 21.0390874781939 105.782296181857 4 21.0391554167078 105.782296181857 4 21.0391554167078 105.782296181857 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:FloorSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:WallSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0391554167078 105.782296181857 0 21.0390874781939 105.782296181857 0 21.0390874781939 105.782296181857 4 21.0391554167078 105.782296181857 4 21.0391554167078 105.782296181857 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:WallSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:FloorSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0390874781939 105.782296181857 0 21.0390874781939 105.782151109017 0 21.0390874781939 105.782151109017 4 21.0390874781939 105.782296181857 4 21.0390874781939 105.782296181857 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:FloorSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:WallSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0390874781939 105.782296181857 0 21.0390874781939 105.782151109017 0 21.0390874781939 105.782151109017 4 21.0390874781939 105.782296181857 4 21.0390874781939 105.782296181857 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:WallSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:FloorSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0390874781939 105.782151109017 0 21.0391245355652 105.782151109017 0 21.0391245355652 105.782151109017 4 21.0390874781939 105.782151109017 4 21.0390874781939 105.782151109017 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:FloorSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:WallSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0390874781939 105.782151109017 0 21.0391245355652 105.782151109017 0 21.0391245355652 105.782151109017 4 21.0390874781939 105.782151109017 4 21.0390874781939 105.782151109017 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:WallSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:FloorSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0391245355652 105.782151109017 0 21.0391283805993 105.78210519597 0 21.0391283805993 105.78210519597 4 21.0391245355652 105.782151109017 4 21.0391245355652 105.782151109017 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:FloorSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:WallSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0391245355652 105.782151109017 0 21.0391283805993 105.78210519597 0 21.0391283805993 105.78210519597 4 21.0391245355652 105.782151109017 4 21.0391245355652 105.782151109017 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:WallSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:FloorSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0391283805993 105.78210519597 0 21.0392259336896 105.782107002425 0 21.0392259336896 105.782107002425 4 21.0391283805993 105.78210519597 4 21.0391283805993 105.78210519597 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:FloorSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:WallSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0391283805993 105.78210519597 0 21.0392259336896 105.782107002425 0 21.0392259336896 105.782107002425 4 21.0391283805993 105.78210519597 4 21.0391283805993 105.78210519597 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:WallSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:FloorSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0392259336896 105.782107002425 0 21.0392254626084 105.782152309298 0 21.0392254626084 105.782152309298 4 21.0392259336896 105.782107002425 4 21.0392259336896 105.782107002425 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:FloorSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:WallSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0392259336896 105.782107002425 0 21.0392254626084 105.782152309298 0 21.0392254626084 105.782152309298 4 21.0392259336896 105.782107002425 4 21.0392259336896 105.782107002425 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:WallSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:FloorSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0392254626084 105.782152309298 0 21.0393031944745 105.782152967537 0 21.0393031944745 105.782152967537 4 21.0392254626084 105.782152309298 4 21.0392254626084 105.782152309298 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:FloorSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:WallSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0392254626084 105.782152309298 0 21.0393031944745 105.782152967537 0 21.0393031944745 105.782152967537 4 21.0392254626084 105.782152309298 4 21.0392254626084 105.782152309298 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:WallSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:FloorSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
+<gen:value>b409352c-73ff-432b-9605-493830ba03d5</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -15763,7 +15877,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0393031944745 105.782152967537 0 21.0392254626084 105.782152309298 0 21.0392254626084 105.782152309298 4 21.0393031944745 105.782152967537 4 21.0393031944745 105.782152967537 0</gml:posList>
+<gml:posList>21.0393031944745 105.782152967537 0 21.0392254626084 105.782152309298 0 21.0392254626084 105.782152309298 12 21.0393031944745 105.782152967537 12 21.0393031944745 105.782152967537 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -15772,7 +15886,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392254626084 105.782152309298 0 21.0392259336896 105.782107002425 0 21.0392259336896 105.782107002425 4 21.0392254626084 105.782152309298 4 21.0392254626084 105.782152309298 0</gml:posList>
+<gml:posList>21.0392254626084 105.782152309298 0 21.0392259336896 105.782107002425 0 21.0392259336896 105.782107002425 12 21.0392254626084 105.782152309298 12 21.0392254626084 105.782152309298 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -15781,7 +15895,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392259336896 105.782107002425 0 21.0391283805993 105.78210519597 0 21.0391283805993 105.78210519597 4 21.0392259336896 105.782107002425 4 21.0392259336896 105.782107002425 0</gml:posList>
+<gml:posList>21.0392259336896 105.782107002425 0 21.0391283805993 105.78210519597 0 21.0391283805993 105.78210519597 12 21.0392259336896 105.782107002425 12 21.0392259336896 105.782107002425 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -15790,7 +15904,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391283805993 105.78210519597 0 21.0391245355652 105.782151109017 0 21.0391245355652 105.782151109017 4 21.0391283805993 105.78210519597 4 21.0391283805993 105.78210519597 0</gml:posList>
+<gml:posList>21.0391283805993 105.78210519597 0 21.0391245355652 105.782151109017 0 21.0391245355652 105.782151109017 12 21.0391283805993 105.78210519597 12 21.0391283805993 105.78210519597 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -15799,7 +15913,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391245355652 105.782151109017 0 21.0390874781939 105.782151109017 0 21.0390874781939 105.782151109017 4 21.0391245355652 105.782151109017 4 21.0391245355652 105.782151109017 0</gml:posList>
+<gml:posList>21.0391245355652 105.782151109017 0 21.0390874781939 105.782151109017 0 21.0390874781939 105.782151109017 12 21.0391245355652 105.782151109017 12 21.0391245355652 105.782151109017 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -15808,7 +15922,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0390874781939 105.782151109017 0 21.0390874781939 105.782296181857 0 21.0390874781939 105.782296181857 4 21.0390874781939 105.782151109017 4 21.0390874781939 105.782151109017 0</gml:posList>
+<gml:posList>21.0390874781939 105.782151109017 0 21.0390874781939 105.782296181857 0 21.0390874781939 105.782296181857 12 21.0390874781939 105.782151109017 12 21.0390874781939 105.782151109017 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -15817,7 +15931,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0390874781939 105.782296181857 0 21.0391554167078 105.782296181857 0 21.0391554167078 105.782296181857 4 21.0390874781939 105.782296181857 4 21.0390874781939 105.782296181857 0</gml:posList>
+<gml:posList>21.0390874781939 105.782296181857 0 21.0391554167078 105.782296181857 0 21.0391554167078 105.782296181857 12 21.0390874781939 105.782296181857 12 21.0390874781939 105.782296181857 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -15826,7 +15940,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391554167078 105.782296181857 0 21.0391543167242 105.782340286718 0 21.0391543167242 105.782340286718 4 21.0391554167078 105.782296181857 4 21.0391554167078 105.782296181857 0</gml:posList>
+<gml:posList>21.0391554167078 105.782296181857 0 21.0391543167242 105.782340286718 0 21.0391543167242 105.782340286718 12 21.0391554167078 105.782296181857 12 21.0391554167078 105.782296181857 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -15835,7 +15949,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391543167242 105.782340286718 0 21.0392668652298 105.782340048771 0 21.0392668652298 105.782340048771 4 21.0391543167242 105.782340286718 4 21.0391543167242 105.782340286718 0</gml:posList>
+<gml:posList>21.0391543167242 105.782340286718 0 21.0392668652298 105.782340048771 0 21.0392668652298 105.782340048771 12 21.0391543167242 105.782340286718 12 21.0391543167242 105.782340286718 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -15844,7 +15958,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392668652298 105.782340048771 0 21.0392665888214 105.782252141887 0 21.0392665888214 105.782252141887 4 21.0392668652298 105.782340048771 4 21.0392668652298 105.782340048771 0</gml:posList>
+<gml:posList>21.0392668652298 105.782340048771 0 21.0392665888214 105.782252141887 0 21.0392665888214 105.782252141887 12 21.0392668652298 105.782340048771 12 21.0392668652298 105.782340048771 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -15853,7 +15967,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392665888214 105.782252141887 0 21.0392995287071 105.782252141887 0 21.0392995287071 105.782252141887 4 21.0392665888214 105.782252141887 4 21.0392665888214 105.782252141887 0</gml:posList>
+<gml:posList>21.0392665888214 105.782252141887 0 21.0392995287071 105.782252141887 0 21.0392995287071 105.782252141887 12 21.0392665888214 105.782252141887 12 21.0392665888214 105.782252141887 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -15862,7 +15976,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392995287071 105.782252141887 0 21.0393031944745 105.782152967537 0 21.0393031944745 105.782152967537 4 21.0392995287071 105.782252141887 4 21.0392995287071 105.782252141887 0</gml:posList>
+<gml:posList>21.0392995287071 105.782252141887 0 21.0393031944745 105.782152967537 0 21.0393031944745 105.782152967537 12 21.0392995287071 105.782252141887 12 21.0392995287071 105.782252141887 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -15871,157 +15985,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0393031944745 105.782152967537 4 21.0392254626084 105.782152309298 4 21.0392259336896 105.782107002425 4 21.0391283805993 105.78210519597 4 21.0391245355652 105.782151109017 4 21.0390874781939 105.782151109017 4 21.0390874781939 105.782296181857 4 21.0391554167078 105.782296181857 4 21.0391543167242 105.782340286718 4 21.0392668652298 105.782340048771 4 21.0392665888214 105.782252141887 4 21.0392995287071 105.782252141887 4 21.0393031944745 105.782152967537 4</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:CompositeSurface>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:FloorSurface>
-</bldg:boundedBy>
-<bldg:boundedBy>
-<bldg:WallSurface>
-<gen:intAttribute name="height">
-<gen:value>4</gen:value>
-</gen:intAttribute>
-<gen:intAttribute name="roof_heigh">
-<gen:value>0</gen:value>
-</gen:intAttribute>
-<gen:stringAttribute name="roof_type">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_uuid">
-<gen:value>b7f1bbc5-26d7-4ee3-a5c0-c600ab8d3338</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:CompositeSurface>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0393031944745 105.782152967537 0 21.0392995287071 105.782252141887 0 21.0392665888214 105.782252141887 0 21.0392668652298 105.782340048771 0 21.0391543167242 105.782340286718 0 21.0391554167078 105.782296181857 0 21.0390874781939 105.782296181857 0 21.0390874781939 105.782151109017 0 21.0391245355652 105.782151109017 0 21.0391283805993 105.78210519597 0 21.0392259336896 105.782107002425 0 21.0392254626084 105.782152309298 0 21.0393031944745 105.782152967537 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0393031944745 105.782152967537 0 21.0392254626084 105.782152309298 0 21.0392254626084 105.782152309298 4 21.0393031944745 105.782152967537 4 21.0393031944745 105.782152967537 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0392254626084 105.782152309298 0 21.0392259336896 105.782107002425 0 21.0392259336896 105.782107002425 4 21.0392254626084 105.782152309298 4 21.0392254626084 105.782152309298 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0392259336896 105.782107002425 0 21.0391283805993 105.78210519597 0 21.0391283805993 105.78210519597 4 21.0392259336896 105.782107002425 4 21.0392259336896 105.782107002425 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0391283805993 105.78210519597 0 21.0391245355652 105.782151109017 0 21.0391245355652 105.782151109017 4 21.0391283805993 105.78210519597 4 21.0391283805993 105.78210519597 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0391245355652 105.782151109017 0 21.0390874781939 105.782151109017 0 21.0390874781939 105.782151109017 4 21.0391245355652 105.782151109017 4 21.0391245355652 105.782151109017 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0390874781939 105.782151109017 0 21.0390874781939 105.782296181857 0 21.0390874781939 105.782296181857 4 21.0390874781939 105.782151109017 4 21.0390874781939 105.782151109017 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0390874781939 105.782296181857 0 21.0391554167078 105.782296181857 0 21.0391554167078 105.782296181857 4 21.0390874781939 105.782296181857 4 21.0390874781939 105.782296181857 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0391554167078 105.782296181857 0 21.0391543167242 105.782340286718 0 21.0391543167242 105.782340286718 4 21.0391554167078 105.782296181857 4 21.0391554167078 105.782296181857 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0391543167242 105.782340286718 0 21.0392668652298 105.782340048771 0 21.0392668652298 105.782340048771 4 21.0391543167242 105.782340286718 4 21.0391543167242 105.782340286718 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0392668652298 105.782340048771 0 21.0392665888214 105.782252141887 0 21.0392665888214 105.782252141887 4 21.0392668652298 105.782340048771 4 21.0392668652298 105.782340048771 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0392665888214 105.782252141887 0 21.0392995287071 105.782252141887 0 21.0392995287071 105.782252141887 4 21.0392665888214 105.782252141887 4 21.0392665888214 105.782252141887 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0392995287071 105.782252141887 0 21.0393031944745 105.782152967537 0 21.0393031944745 105.782152967537 4 21.0392995287071 105.782252141887 4 21.0392995287071 105.782252141887 0</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0393031944745 105.782152967537 4 21.0392254626084 105.782152309298 4 21.0392259336896 105.782107002425 4 21.0391283805993 105.78210519597 4 21.0391245355652 105.782151109017 4 21.0390874781939 105.782151109017 4 21.0390874781939 105.782296181857 4 21.0391554167078 105.782296181857 4 21.0391543167242 105.782340286718 4 21.0392668652298 105.782340048771 4 21.0392665888214 105.782252141887 4 21.0392995287071 105.782252141887 4 21.0393031944745 105.782152967537 4</gml:posList>
+<gml:posList>21.0393031944745 105.782152967537 12 21.0392254626084 105.782152309298 12 21.0392259336896 105.782107002425 12 21.0391283805993 105.78210519597 12 21.0391245355652 105.782151109017 12 21.0390874781939 105.782151109017 12 21.0390874781939 105.782296181857 12 21.0391554167078 105.782296181857 12 21.0391543167242 105.782340286718 12 21.0392668652298 105.782340048771 12 21.0392665888214 105.782252141887 12 21.0392995287071 105.782252141887 12 21.0393031944745 105.782152967537 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -16035,7 +15999,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="bbaa174f-0243-4690-87a9-b3696c3d547c">
+<bldg:Building gml:id="711687a7-9370-49bf-b7e9-4958a109327c">
 <gen:intAttribute name="height">
 <gen:value>8</gen:value>
 </gen:intAttribute>
@@ -16046,7 +16010,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -16060,7 +16024,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16095,7 +16059,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16130,7 +16094,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16165,7 +16129,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16200,7 +16164,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16235,7 +16199,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16270,7 +16234,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16305,7 +16269,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16340,7 +16304,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16375,7 +16339,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16410,7 +16374,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16445,7 +16409,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16480,7 +16444,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16515,7 +16479,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16550,7 +16514,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16585,7 +16549,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16620,7 +16584,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16655,7 +16619,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16690,7 +16654,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16725,7 +16689,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16760,7 +16724,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16795,7 +16759,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16830,7 +16794,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16865,7 +16829,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -16900,7 +16864,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -17050,7 +17014,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>bbaa174f-0243-4690-87a9-b3696c3d547c</gen:value>
+<gen:value>711687a7-9370-49bf-b7e9-4958a109327c</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -17191,7 +17155,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="d2f9cd10-c7f7-46cd-9b53-1f28f6b36db4">
+<bldg:Building gml:id="a0461b0d-8e3f-488e-ba21-18a81a40ad24">
 <gen:intAttribute name="height">
 <gen:value>32</gen:value>
 </gen:intAttribute>
@@ -17202,7 +17166,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d2f9cd10-c7f7-46cd-9b53-1f28f6b36db4</gen:value>
+<gen:value>a0461b0d-8e3f-488e-ba21-18a81a40ad24</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -17216,7 +17180,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d2f9cd10-c7f7-46cd-9b53-1f28f6b36db4</gen:value>
+<gen:value>a0461b0d-8e3f-488e-ba21-18a81a40ad24</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -17251,7 +17215,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d2f9cd10-c7f7-46cd-9b53-1f28f6b36db4</gen:value>
+<gen:value>a0461b0d-8e3f-488e-ba21-18a81a40ad24</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -17286,7 +17250,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d2f9cd10-c7f7-46cd-9b53-1f28f6b36db4</gen:value>
+<gen:value>a0461b0d-8e3f-488e-ba21-18a81a40ad24</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -17321,7 +17285,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d2f9cd10-c7f7-46cd-9b53-1f28f6b36db4</gen:value>
+<gen:value>a0461b0d-8e3f-488e-ba21-18a81a40ad24</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -17356,7 +17320,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d2f9cd10-c7f7-46cd-9b53-1f28f6b36db4</gen:value>
+<gen:value>a0461b0d-8e3f-488e-ba21-18a81a40ad24</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -17391,7 +17355,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d2f9cd10-c7f7-46cd-9b53-1f28f6b36db4</gen:value>
+<gen:value>a0461b0d-8e3f-488e-ba21-18a81a40ad24</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -17426,7 +17390,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d2f9cd10-c7f7-46cd-9b53-1f28f6b36db4</gen:value>
+<gen:value>a0461b0d-8e3f-488e-ba21-18a81a40ad24</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -17461,7 +17425,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d2f9cd10-c7f7-46cd-9b53-1f28f6b36db4</gen:value>
+<gen:value>a0461b0d-8e3f-488e-ba21-18a81a40ad24</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -17496,7 +17460,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d2f9cd10-c7f7-46cd-9b53-1f28f6b36db4</gen:value>
+<gen:value>a0461b0d-8e3f-488e-ba21-18a81a40ad24</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -17531,7 +17495,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d2f9cd10-c7f7-46cd-9b53-1f28f6b36db4</gen:value>
+<gen:value>a0461b0d-8e3f-488e-ba21-18a81a40ad24</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -17566,7 +17530,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d2f9cd10-c7f7-46cd-9b53-1f28f6b36db4</gen:value>
+<gen:value>a0461b0d-8e3f-488e-ba21-18a81a40ad24</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -17601,7 +17565,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d2f9cd10-c7f7-46cd-9b53-1f28f6b36db4</gen:value>
+<gen:value>a0461b0d-8e3f-488e-ba21-18a81a40ad24</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -17636,7 +17600,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d2f9cd10-c7f7-46cd-9b53-1f28f6b36db4</gen:value>
+<gen:value>a0461b0d-8e3f-488e-ba21-18a81a40ad24</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -17671,7 +17635,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d2f9cd10-c7f7-46cd-9b53-1f28f6b36db4</gen:value>
+<gen:value>a0461b0d-8e3f-488e-ba21-18a81a40ad24</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -17706,7 +17670,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d2f9cd10-c7f7-46cd-9b53-1f28f6b36db4</gen:value>
+<gen:value>a0461b0d-8e3f-488e-ba21-18a81a40ad24</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -17811,7 +17775,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>d2f9cd10-c7f7-46cd-9b53-1f28f6b36db4</gen:value>
+<gen:value>a0461b0d-8e3f-488e-ba21-18a81a40ad24</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -17909,7 +17873,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>0442ee84-1af5-467e-877d-90e7b5523c30</gen:value>
+<gen:value>746a1984-67d9-4db0-b8da-5a67620da63f</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -17955,7 +17919,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0384097065146 105.783245703926 17 21.0384430916831 105.783213249451 10 21.0383003205932 105.78324172861 17 21.0384097065146 105.783245703926 17</gml:posList>
+<gml:posList>21.0383003205932 105.78324172861 17 21.0384097065146 105.783245703926 17 21.0384430916831 105.783213249451 10 21.0383003205932 105.78324172861 17</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -17964,7 +17928,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0384430916831 105.783213249451 10 21.0382675120447 105.783208284556 10 21.0383003205932 105.78324172861 17 21.0384430916831 105.783213249451 10</gml:posList>
+<gml:posList>21.0383003205932 105.78324172861 17 21.0384430916831 105.783213249451 10 21.0382675120447 105.783208284556 10 21.0383003205932 105.78324172861 17</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -17976,7 +17940,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="fef00270-431e-4848-bc9a-69eec7368b11">
+<bldg:Building gml:id="7552388a-793e-4f60-a441-5e9136a4164e">
 <gen:intAttribute name="height">
 <gen:value>12</gen:value>
 </gen:intAttribute>
@@ -17987,7 +17951,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>fef00270-431e-4848-bc9a-69eec7368b11</gen:value>
+<gen:value>7552388a-793e-4f60-a441-5e9136a4164e</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -18001,7 +17965,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>fef00270-431e-4848-bc9a-69eec7368b11</gen:value>
+<gen:value>7552388a-793e-4f60-a441-5e9136a4164e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -18036,7 +18000,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>fef00270-431e-4848-bc9a-69eec7368b11</gen:value>
+<gen:value>7552388a-793e-4f60-a441-5e9136a4164e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -18071,7 +18035,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>fef00270-431e-4848-bc9a-69eec7368b11</gen:value>
+<gen:value>7552388a-793e-4f60-a441-5e9136a4164e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -18106,7 +18070,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>fef00270-431e-4848-bc9a-69eec7368b11</gen:value>
+<gen:value>7552388a-793e-4f60-a441-5e9136a4164e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -18141,7 +18105,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>fef00270-431e-4848-bc9a-69eec7368b11</gen:value>
+<gen:value>7552388a-793e-4f60-a441-5e9136a4164e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -18176,7 +18140,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>fef00270-431e-4848-bc9a-69eec7368b11</gen:value>
+<gen:value>7552388a-793e-4f60-a441-5e9136a4164e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -18211,7 +18175,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>fef00270-431e-4848-bc9a-69eec7368b11</gen:value>
+<gen:value>7552388a-793e-4f60-a441-5e9136a4164e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -18246,7 +18210,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>fef00270-431e-4848-bc9a-69eec7368b11</gen:value>
+<gen:value>7552388a-793e-4f60-a441-5e9136a4164e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -18281,7 +18245,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>fef00270-431e-4848-bc9a-69eec7368b11</gen:value>
+<gen:value>7552388a-793e-4f60-a441-5e9136a4164e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -18316,7 +18280,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>fef00270-431e-4848-bc9a-69eec7368b11</gen:value>
+<gen:value>7552388a-793e-4f60-a441-5e9136a4164e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -18351,7 +18315,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>fef00270-431e-4848-bc9a-69eec7368b11</gen:value>
+<gen:value>7552388a-793e-4f60-a441-5e9136a4164e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -18386,7 +18350,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>fef00270-431e-4848-bc9a-69eec7368b11</gen:value>
+<gen:value>7552388a-793e-4f60-a441-5e9136a4164e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -18421,7 +18385,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>fef00270-431e-4848-bc9a-69eec7368b11</gen:value>
+<gen:value>7552388a-793e-4f60-a441-5e9136a4164e</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -18517,7 +18481,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>fef00270-431e-4848-bc9a-69eec7368b11</gen:value>
+<gen:value>7552388a-793e-4f60-a441-5e9136a4164e</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -18604,7 +18568,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="b50b68f5-e50b-49c9-ad92-38fc9d85ce86">
+<bldg:Building gml:id="ae06b464-8770-4d01-b43f-b7b0ebdbb7e1">
 <gen:intAttribute name="height">
 <gen:value>30</gen:value>
 </gen:intAttribute>
@@ -18615,7 +18579,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b50b68f5-e50b-49c9-ad92-38fc9d85ce86</gen:value>
+<gen:value>ae06b464-8770-4d01-b43f-b7b0ebdbb7e1</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -18629,7 +18593,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b50b68f5-e50b-49c9-ad92-38fc9d85ce86</gen:value>
+<gen:value>ae06b464-8770-4d01-b43f-b7b0ebdbb7e1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -18664,7 +18628,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b50b68f5-e50b-49c9-ad92-38fc9d85ce86</gen:value>
+<gen:value>ae06b464-8770-4d01-b43f-b7b0ebdbb7e1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -18699,7 +18663,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b50b68f5-e50b-49c9-ad92-38fc9d85ce86</gen:value>
+<gen:value>ae06b464-8770-4d01-b43f-b7b0ebdbb7e1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -18734,7 +18698,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b50b68f5-e50b-49c9-ad92-38fc9d85ce86</gen:value>
+<gen:value>ae06b464-8770-4d01-b43f-b7b0ebdbb7e1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -18769,7 +18733,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b50b68f5-e50b-49c9-ad92-38fc9d85ce86</gen:value>
+<gen:value>ae06b464-8770-4d01-b43f-b7b0ebdbb7e1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -18804,7 +18768,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b50b68f5-e50b-49c9-ad92-38fc9d85ce86</gen:value>
+<gen:value>ae06b464-8770-4d01-b43f-b7b0ebdbb7e1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -18839,7 +18803,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b50b68f5-e50b-49c9-ad92-38fc9d85ce86</gen:value>
+<gen:value>ae06b464-8770-4d01-b43f-b7b0ebdbb7e1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -18874,7 +18838,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b50b68f5-e50b-49c9-ad92-38fc9d85ce86</gen:value>
+<gen:value>ae06b464-8770-4d01-b43f-b7b0ebdbb7e1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -18909,7 +18873,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b50b68f5-e50b-49c9-ad92-38fc9d85ce86</gen:value>
+<gen:value>ae06b464-8770-4d01-b43f-b7b0ebdbb7e1</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -18987,7 +18951,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b50b68f5-e50b-49c9-ad92-38fc9d85ce86</gen:value>
+<gen:value>ae06b464-8770-4d01-b43f-b7b0ebdbb7e1</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -19056,7 +19020,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="eb27580d-3bde-4d8e-9a7a-e9b6d4e69b27">
+<bldg:Building gml:id="963deb53-032b-431c-9841-4880cbca100c">
 <gen:intAttribute name="height">
 <gen:value>8</gen:value>
 </gen:intAttribute>
@@ -19067,7 +19031,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>eb27580d-3bde-4d8e-9a7a-e9b6d4e69b27</gen:value>
+<gen:value>963deb53-032b-431c-9841-4880cbca100c</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -19081,7 +19045,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>eb27580d-3bde-4d8e-9a7a-e9b6d4e69b27</gen:value>
+<gen:value>963deb53-032b-431c-9841-4880cbca100c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -19116,7 +19080,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>eb27580d-3bde-4d8e-9a7a-e9b6d4e69b27</gen:value>
+<gen:value>963deb53-032b-431c-9841-4880cbca100c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -19151,7 +19115,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>eb27580d-3bde-4d8e-9a7a-e9b6d4e69b27</gen:value>
+<gen:value>963deb53-032b-431c-9841-4880cbca100c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -19186,7 +19150,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>eb27580d-3bde-4d8e-9a7a-e9b6d4e69b27</gen:value>
+<gen:value>963deb53-032b-431c-9841-4880cbca100c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -19221,7 +19185,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>eb27580d-3bde-4d8e-9a7a-e9b6d4e69b27</gen:value>
+<gen:value>963deb53-032b-431c-9841-4880cbca100c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -19256,7 +19220,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>eb27580d-3bde-4d8e-9a7a-e9b6d4e69b27</gen:value>
+<gen:value>963deb53-032b-431c-9841-4880cbca100c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -19291,7 +19255,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>eb27580d-3bde-4d8e-9a7a-e9b6d4e69b27</gen:value>
+<gen:value>963deb53-032b-431c-9841-4880cbca100c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -19326,7 +19290,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>eb27580d-3bde-4d8e-9a7a-e9b6d4e69b27</gen:value>
+<gen:value>963deb53-032b-431c-9841-4880cbca100c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -19361,7 +19325,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>eb27580d-3bde-4d8e-9a7a-e9b6d4e69b27</gen:value>
+<gen:value>963deb53-032b-431c-9841-4880cbca100c</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -19439,7 +19403,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>eb27580d-3bde-4d8e-9a7a-e9b6d4e69b27</gen:value>
+<gen:value>963deb53-032b-431c-9841-4880cbca100c</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -19510,7 +19474,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>d2f9cd10-c7f7-46cd-9b53-1f28f6b36db4</gen:value>
+<gen:value>a0461b0d-8e3f-488e-ba21-18a81a40ad24</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -19565,7 +19529,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392271038851 105.783153345893 36 21.0392768825358 105.783153665963 32 21.0392290979411 105.782947573088 36 21.0392271038851 105.783153345893 36</gml:posList>
+<gml:posList>21.0392271038851 105.783153345893 36 21.0392768825358 105.783153665963 32 21.0392192377361 105.782937519911 36 21.0392271038851 105.783153345893 36</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -19574,7 +19538,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392271038851 105.783153345893 36 21.0392290979411 105.782947573088 36 21.0391821803647 105.782899788494 32 21.0392271038851 105.783153345893 36</gml:posList>
+<gml:posList>21.0392271038851 105.783153345893 36 21.0392192377361 105.782937519911 36 21.0391821803647 105.782899788494 32 21.0392271038851 105.783153345893 36</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -19583,7 +19547,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392768825358 105.783153665963 32 21.0392768825358 105.782899788494 32 21.0392290979411 105.782947573088 36 21.0392768825358 105.783153665963 32</gml:posList>
+<gml:posList>21.0392768825358 105.783153665963 32 21.0392768825358 105.782899788494 32 21.0392192377361 105.782937519911 36 21.0392768825358 105.783153665963 32</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -19592,7 +19556,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392768825358 105.782899788494 32 21.0392192377361 105.782899788494 32 21.0392290979411 105.782947573088 36 21.0392768825358 105.782899788494 32</gml:posList>
+<gml:posList>21.0392768825358 105.782899788494 32 21.0392192377361 105.782899788494 32 21.0392192377361 105.782937519911 36 21.0392768825358 105.782899788494 32</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -19601,7 +19565,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392192377361 105.782899788494 32 21.0391821803647 105.782899788494 32 21.0392290979411 105.782947573088 36 21.0392192377361 105.782899788494 32</gml:posList>
+<gml:posList>21.0392192377361 105.782899788494 32 21.0391821803647 105.782899788494 32 21.0392192377361 105.782937519911 36 21.0392192377361 105.782899788494 32</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -19613,7 +19577,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="c797f73f-7265-4c76-be29-54a86b89e9b3">
+<bldg:Building gml:id="6555e508-73c8-4cdb-8101-a677a93c1722">
 <gen:intAttribute name="height">
 <gen:value>8</gen:value>
 </gen:intAttribute>
@@ -19624,7 +19588,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c797f73f-7265-4c76-be29-54a86b89e9b3</gen:value>
+<gen:value>6555e508-73c8-4cdb-8101-a677a93c1722</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -19638,7 +19602,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c797f73f-7265-4c76-be29-54a86b89e9b3</gen:value>
+<gen:value>6555e508-73c8-4cdb-8101-a677a93c1722</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -19673,7 +19637,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c797f73f-7265-4c76-be29-54a86b89e9b3</gen:value>
+<gen:value>6555e508-73c8-4cdb-8101-a677a93c1722</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -19708,7 +19672,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c797f73f-7265-4c76-be29-54a86b89e9b3</gen:value>
+<gen:value>6555e508-73c8-4cdb-8101-a677a93c1722</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -19743,7 +19707,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c797f73f-7265-4c76-be29-54a86b89e9b3</gen:value>
+<gen:value>6555e508-73c8-4cdb-8101-a677a93c1722</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -19778,7 +19742,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c797f73f-7265-4c76-be29-54a86b89e9b3</gen:value>
+<gen:value>6555e508-73c8-4cdb-8101-a677a93c1722</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -19813,7 +19777,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c797f73f-7265-4c76-be29-54a86b89e9b3</gen:value>
+<gen:value>6555e508-73c8-4cdb-8101-a677a93c1722</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -19848,7 +19812,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c797f73f-7265-4c76-be29-54a86b89e9b3</gen:value>
+<gen:value>6555e508-73c8-4cdb-8101-a677a93c1722</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -19883,7 +19847,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c797f73f-7265-4c76-be29-54a86b89e9b3</gen:value>
+<gen:value>6555e508-73c8-4cdb-8101-a677a93c1722</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -19918,7 +19882,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c797f73f-7265-4c76-be29-54a86b89e9b3</gen:value>
+<gen:value>6555e508-73c8-4cdb-8101-a677a93c1722</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -19996,7 +19960,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c797f73f-7265-4c76-be29-54a86b89e9b3</gen:value>
+<gen:value>6555e508-73c8-4cdb-8101-a677a93c1722</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -20067,7 +20031,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>eb27580d-3bde-4d8e-9a7a-e9b6d4e69b27</gen:value>
+<gen:value>963deb53-032b-431c-9841-4880cbca100c</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -20113,7 +20077,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0397609944605 105.782930178825 13 21.0397256884761 105.783166618895 8 21.0397562349084 105.783137813316 13 21.0397609944605 105.782930178825 13</gml:posList>
+<gml:posList>21.0397562349084 105.783137813316 13 21.0397609944605 105.782930178825 13 21.0397256884761 105.783166618895 8 21.0397562349084 105.783137813316 13</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -20122,7 +20086,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0397609944605 105.782930178825 13 21.0397298059618 105.782897197907 8 21.0397256884761 105.783166618895 8 21.0397609944605 105.782930178825 13</gml:posList>
+<gml:posList>21.0397298059618 105.782897197907 8 21.0397256884761 105.783166618895 8 21.0397609944605 105.782930178825 13 21.0397298059618 105.782897197907 8</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -20134,7 +20098,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="e3a3cd01-f4d2-4920-8078-a829d498c21d">
+<bldg:Building gml:id="d36fff13-97f8-4c41-9d14-edc228742059">
 <gen:intAttribute name="height">
 <gen:value>16</gen:value>
 </gen:intAttribute>
@@ -20145,7 +20109,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e3a3cd01-f4d2-4920-8078-a829d498c21d</gen:value>
+<gen:value>d36fff13-97f8-4c41-9d14-edc228742059</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -20159,7 +20123,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e3a3cd01-f4d2-4920-8078-a829d498c21d</gen:value>
+<gen:value>d36fff13-97f8-4c41-9d14-edc228742059</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -20194,7 +20158,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e3a3cd01-f4d2-4920-8078-a829d498c21d</gen:value>
+<gen:value>d36fff13-97f8-4c41-9d14-edc228742059</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -20229,7 +20193,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e3a3cd01-f4d2-4920-8078-a829d498c21d</gen:value>
+<gen:value>d36fff13-97f8-4c41-9d14-edc228742059</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -20264,7 +20228,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e3a3cd01-f4d2-4920-8078-a829d498c21d</gen:value>
+<gen:value>d36fff13-97f8-4c41-9d14-edc228742059</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -20299,7 +20263,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e3a3cd01-f4d2-4920-8078-a829d498c21d</gen:value>
+<gen:value>d36fff13-97f8-4c41-9d14-edc228742059</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -20334,7 +20298,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e3a3cd01-f4d2-4920-8078-a829d498c21d</gen:value>
+<gen:value>d36fff13-97f8-4c41-9d14-edc228742059</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -20369,7 +20333,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e3a3cd01-f4d2-4920-8078-a829d498c21d</gen:value>
+<gen:value>d36fff13-97f8-4c41-9d14-edc228742059</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -20404,7 +20368,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e3a3cd01-f4d2-4920-8078-a829d498c21d</gen:value>
+<gen:value>d36fff13-97f8-4c41-9d14-edc228742059</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -20439,7 +20403,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e3a3cd01-f4d2-4920-8078-a829d498c21d</gen:value>
+<gen:value>d36fff13-97f8-4c41-9d14-edc228742059</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -20474,7 +20438,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e3a3cd01-f4d2-4920-8078-a829d498c21d</gen:value>
+<gen:value>d36fff13-97f8-4c41-9d14-edc228742059</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -20509,7 +20473,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e3a3cd01-f4d2-4920-8078-a829d498c21d</gen:value>
+<gen:value>d36fff13-97f8-4c41-9d14-edc228742059</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -20544,7 +20508,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e3a3cd01-f4d2-4920-8078-a829d498c21d</gen:value>
+<gen:value>d36fff13-97f8-4c41-9d14-edc228742059</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -20579,7 +20543,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e3a3cd01-f4d2-4920-8078-a829d498c21d</gen:value>
+<gen:value>d36fff13-97f8-4c41-9d14-edc228742059</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -20675,7 +20639,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e3a3cd01-f4d2-4920-8078-a829d498c21d</gen:value>
+<gen:value>d36fff13-97f8-4c41-9d14-edc228742059</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -20764,7 +20728,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>c797f73f-7265-4c76-be29-54a86b89e9b3</gen:value>
+<gen:value>6555e508-73c8-4cdb-8101-a677a93c1722</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -20810,7 +20774,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0395746626054 105.782842516636 13 21.0395189260475 105.782788192063 8 21.0395218729344 105.782897197907 8 21.0395746626054 105.782842516636 13</gml:posList>
+<gml:posList>21.0397847852763 105.782841802218 13 21.0395746626054 105.782842516636 13 21.0395218729344 105.782897197907 8 21.0397847852763 105.782841802218 13</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -20819,7 +20783,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0395746626054 105.782842516636 13 21.0395218729344 105.782897197907 8 21.0397847852763 105.782841802218 13 21.0395746626054 105.782842516636 13</gml:posList>
+<gml:posList>21.0395189260475 105.782788192063 8 21.0395218729344 105.782897197907 8 21.0395746626054 105.782842516636 13 21.0395189260475 105.782788192063 8</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -20831,7 +20795,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="b8de5b8e-49c4-4d33-81ca-82784ddf9a5d">
+<bldg:Building gml:id="ab57fa98-9d73-46ce-95de-94264d90b02e">
 <gen:intAttribute name="height">
 <gen:value>13</gen:value>
 </gen:intAttribute>
@@ -20842,7 +20806,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -20856,7 +20820,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -20891,7 +20855,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -20926,7 +20890,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -20961,7 +20925,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -20996,7 +20960,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -21031,7 +20995,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -21066,7 +21030,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -21101,7 +21065,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -21136,7 +21100,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -21171,7 +21135,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -21206,7 +21170,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -21241,7 +21205,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -21276,7 +21240,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -21311,7 +21275,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -21346,7 +21310,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -21381,7 +21345,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -21416,7 +21380,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -21451,7 +21415,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -21486,7 +21450,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -21521,7 +21485,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -21556,7 +21520,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -21591,7 +21555,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -21626,7 +21590,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -21661,7 +21625,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -21696,7 +21660,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -21846,7 +21810,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>b8de5b8e-49c4-4d33-81ca-82784ddf9a5d</gen:value>
+<gen:value>ab57fa98-9d73-46ce-95de-94264d90b02e</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -21987,7 +21951,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="6651a9c8-cd22-4274-a342-c0b23dd285cc">
+<bldg:Building gml:id="61d5637d-27cb-49d5-87e1-ac475c70103b">
 <gen:intAttribute name="height">
 <gen:value>15</gen:value>
 </gen:intAttribute>
@@ -21998,7 +21962,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6651a9c8-cd22-4274-a342-c0b23dd285cc</gen:value>
+<gen:value>61d5637d-27cb-49d5-87e1-ac475c70103b</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -22012,7 +21976,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6651a9c8-cd22-4274-a342-c0b23dd285cc</gen:value>
+<gen:value>61d5637d-27cb-49d5-87e1-ac475c70103b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -22047,7 +22011,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6651a9c8-cd22-4274-a342-c0b23dd285cc</gen:value>
+<gen:value>61d5637d-27cb-49d5-87e1-ac475c70103b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -22082,7 +22046,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6651a9c8-cd22-4274-a342-c0b23dd285cc</gen:value>
+<gen:value>61d5637d-27cb-49d5-87e1-ac475c70103b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -22117,7 +22081,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6651a9c8-cd22-4274-a342-c0b23dd285cc</gen:value>
+<gen:value>61d5637d-27cb-49d5-87e1-ac475c70103b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -22152,7 +22116,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6651a9c8-cd22-4274-a342-c0b23dd285cc</gen:value>
+<gen:value>61d5637d-27cb-49d5-87e1-ac475c70103b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -22187,7 +22151,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6651a9c8-cd22-4274-a342-c0b23dd285cc</gen:value>
+<gen:value>61d5637d-27cb-49d5-87e1-ac475c70103b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -22222,7 +22186,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6651a9c8-cd22-4274-a342-c0b23dd285cc</gen:value>
+<gen:value>61d5637d-27cb-49d5-87e1-ac475c70103b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -22257,7 +22221,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6651a9c8-cd22-4274-a342-c0b23dd285cc</gen:value>
+<gen:value>61d5637d-27cb-49d5-87e1-ac475c70103b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -22292,7 +22256,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6651a9c8-cd22-4274-a342-c0b23dd285cc</gen:value>
+<gen:value>61d5637d-27cb-49d5-87e1-ac475c70103b</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -22370,7 +22334,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6651a9c8-cd22-4274-a342-c0b23dd285cc</gen:value>
+<gen:value>61d5637d-27cb-49d5-87e1-ac475c70103b</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -22441,7 +22405,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>e3a3cd01-f4d2-4920-8078-a829d498c21d</gen:value>
+<gen:value>d36fff13-97f8-4c41-9d14-edc228742059</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -22505,7 +22469,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.04036337558 105.783243729306 22 21.0403267632677 105.783244319371 22 21.0404215435582 105.78330132939 16 21.04036337558 105.783243729306 22</gml:posList>
+<gml:posList>21.0400140227705 105.783250079609 22 21.0400486820207 105.783249501558 22 21.0400468523602 105.783197705933 16 21.0400140227705 105.783250079609 22</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -22514,7 +22478,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0400468523602 105.783197705933 16 21.0400140227705 105.783250079609 22 21.0400486820207 105.783249501558 22 21.0400468523602 105.783197705933 16</gml:posList>
+<gml:posList>21.0400140227705 105.783250079609 22 21.0400468523602 105.783197705933 16 21.039961042641 105.783200569019 16 21.0400140227705 105.783250079609 22</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -22523,7 +22487,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0400468523602 105.783197705933 16 21.039961042641 105.783200569019 16 21.0400140227705 105.783250079609 22 21.0400468523602 105.783197705933 16</gml:posList>
+<gml:posList>21.0400140227705 105.783250079609 22 21.039961042641 105.783200569019 16 21.0399645026465 105.78330132939 16 21.0400140227705 105.783250079609 22</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -22532,7 +22496,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.039961042641 105.783200569019 16 21.0399645026465 105.78330132939 16 21.0400140227705 105.783250079609 22 21.039961042641 105.783200569019 16</gml:posList>
+<gml:posList>21.0400140227705 105.783250079609 22 21.0399645026465 105.78330132939 16 21.0400486820207 105.783249501558 22 21.0400140227705 105.783250079609 22</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -22550,7 +22514,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0399645026465 105.78330132939 16 21.0400486820207 105.783249501558 22 21.0400140227705 105.783250079609 22 21.0399645026465 105.78330132939 16</gml:posList>
+<gml:posList>21.0404215435582 105.78330132939 16 21.04036337558 105.783243729306 22 21.0403267632677 105.783244319371 22 21.0404215435582 105.78330132939 16</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -22571,7 +22535,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="c880b1ad-869b-4992-ae82-c2a55090f32a">
+<bldg:Building gml:id="4a48c0d7-ac7a-4c7a-af48-91ccf44780de">
 <gen:intAttribute name="height">
 <gen:value>17</gen:value>
 </gen:intAttribute>
@@ -22582,7 +22546,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c880b1ad-869b-4992-ae82-c2a55090f32a</gen:value>
+<gen:value>4a48c0d7-ac7a-4c7a-af48-91ccf44780de</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -22596,7 +22560,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c880b1ad-869b-4992-ae82-c2a55090f32a</gen:value>
+<gen:value>4a48c0d7-ac7a-4c7a-af48-91ccf44780de</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -22631,7 +22595,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c880b1ad-869b-4992-ae82-c2a55090f32a</gen:value>
+<gen:value>4a48c0d7-ac7a-4c7a-af48-91ccf44780de</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -22666,7 +22630,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c880b1ad-869b-4992-ae82-c2a55090f32a</gen:value>
+<gen:value>4a48c0d7-ac7a-4c7a-af48-91ccf44780de</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -22701,7 +22665,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c880b1ad-869b-4992-ae82-c2a55090f32a</gen:value>
+<gen:value>4a48c0d7-ac7a-4c7a-af48-91ccf44780de</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -22736,7 +22700,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c880b1ad-869b-4992-ae82-c2a55090f32a</gen:value>
+<gen:value>4a48c0d7-ac7a-4c7a-af48-91ccf44780de</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -22771,7 +22735,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c880b1ad-869b-4992-ae82-c2a55090f32a</gen:value>
+<gen:value>4a48c0d7-ac7a-4c7a-af48-91ccf44780de</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -22806,7 +22770,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c880b1ad-869b-4992-ae82-c2a55090f32a</gen:value>
+<gen:value>4a48c0d7-ac7a-4c7a-af48-91ccf44780de</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -22841,7 +22805,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c880b1ad-869b-4992-ae82-c2a55090f32a</gen:value>
+<gen:value>4a48c0d7-ac7a-4c7a-af48-91ccf44780de</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -22876,7 +22840,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c880b1ad-869b-4992-ae82-c2a55090f32a</gen:value>
+<gen:value>4a48c0d7-ac7a-4c7a-af48-91ccf44780de</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -22954,7 +22918,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c880b1ad-869b-4992-ae82-c2a55090f32a</gen:value>
+<gen:value>4a48c0d7-ac7a-4c7a-af48-91ccf44780de</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -23025,7 +22989,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>6651a9c8-cd22-4274-a342-c0b23dd285cc</gen:value>
+<gen:value>61d5637d-27cb-49d5-87e1-ac475c70103b</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -23071,7 +23035,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0406665122931 105.782438067098 20 21.0407241787564 105.782381671209 15 21.0406109478999 105.782381671209 15 21.0406665122931 105.782438067098 20</gml:posList>
+<gml:posList>21.0406634483963 105.782603080745 20 21.0406665122931 105.782438067098 20 21.0406109478999 105.782381671209 15 21.0406634483963 105.782603080745 20</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -23080,7 +23044,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0406665122931 105.782438067098 20 21.0406109478999 105.782381671209 15 21.0406634483963 105.782603080745 20 21.0406665122931 105.782438067098 20</gml:posList>
+<gml:posList>21.0407241787564 105.782381671209 15 21.0406109478999 105.782381671209 15 21.0406665122931 105.782438067098 20 21.0407241787564 105.782381671209 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -23092,7 +23056,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="ddfab266-af2b-4119-9219-0c8a277e8136">
+<bldg:Building gml:id="5e4ba860-e449-491f-a29a-efebc4827b63">
 <gen:intAttribute name="height">
 <gen:value>17</gen:value>
 </gen:intAttribute>
@@ -23103,7 +23067,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ddfab266-af2b-4119-9219-0c8a277e8136</gen:value>
+<gen:value>5e4ba860-e449-491f-a29a-efebc4827b63</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -23117,7 +23081,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ddfab266-af2b-4119-9219-0c8a277e8136</gen:value>
+<gen:value>5e4ba860-e449-491f-a29a-efebc4827b63</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -23152,7 +23116,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ddfab266-af2b-4119-9219-0c8a277e8136</gen:value>
+<gen:value>5e4ba860-e449-491f-a29a-efebc4827b63</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -23187,7 +23151,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ddfab266-af2b-4119-9219-0c8a277e8136</gen:value>
+<gen:value>5e4ba860-e449-491f-a29a-efebc4827b63</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -23222,7 +23186,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ddfab266-af2b-4119-9219-0c8a277e8136</gen:value>
+<gen:value>5e4ba860-e449-491f-a29a-efebc4827b63</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -23257,7 +23221,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ddfab266-af2b-4119-9219-0c8a277e8136</gen:value>
+<gen:value>5e4ba860-e449-491f-a29a-efebc4827b63</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -23292,7 +23256,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ddfab266-af2b-4119-9219-0c8a277e8136</gen:value>
+<gen:value>5e4ba860-e449-491f-a29a-efebc4827b63</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -23327,7 +23291,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ddfab266-af2b-4119-9219-0c8a277e8136</gen:value>
+<gen:value>5e4ba860-e449-491f-a29a-efebc4827b63</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -23362,7 +23326,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ddfab266-af2b-4119-9219-0c8a277e8136</gen:value>
+<gen:value>5e4ba860-e449-491f-a29a-efebc4827b63</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -23397,7 +23361,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ddfab266-af2b-4119-9219-0c8a277e8136</gen:value>
+<gen:value>5e4ba860-e449-491f-a29a-efebc4827b63</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -23475,7 +23439,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ddfab266-af2b-4119-9219-0c8a277e8136</gen:value>
+<gen:value>5e4ba860-e449-491f-a29a-efebc4827b63</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -23546,7 +23510,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>c880b1ad-869b-4992-ae82-c2a55090f32a</gen:value>
+<gen:value>4a48c0d7-ac7a-4c7a-af48-91ccf44780de</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -23592,7 +23556,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0406294510196 105.782324395342 22 21.0406367279627 105.781897982106 22 21.0405800667572 105.781840238646 17 21.0406294510196 105.782324395342 22</gml:posList>
+<gml:posList>21.0406367279627 105.781897982106 22 21.0405800667572 105.781840238646 17 21.0406294510196 105.782324395342 22 21.0406367279627 105.781897982106 22</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -23601,7 +23565,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0406294510196 105.782324395342 22 21.0405800667572 105.781840238646 17 21.0405697730429 105.782384261795 17 21.0406294510196 105.782324395342 22</gml:posList>
+<gml:posList>21.0405800667572 105.781840238646 17 21.0405697730429 105.782384261795 17 21.0406294510196 105.782324395342 22 21.0405800667572 105.781840238646 17</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -23613,7 +23577,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="51e86c05-e3cf-4655-a17a-b4f530f62c17">
+<bldg:Building gml:id="c035961f-bc38-4eb4-b6ab-73dd4eaf1f64">
 <gen:intAttribute name="height">
 <gen:value>20</gen:value>
 </gen:intAttribute>
@@ -23624,7 +23588,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>51e86c05-e3cf-4655-a17a-b4f530f62c17</gen:value>
+<gen:value>c035961f-bc38-4eb4-b6ab-73dd4eaf1f64</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -23638,7 +23602,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>51e86c05-e3cf-4655-a17a-b4f530f62c17</gen:value>
+<gen:value>c035961f-bc38-4eb4-b6ab-73dd4eaf1f64</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -23673,7 +23637,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>51e86c05-e3cf-4655-a17a-b4f530f62c17</gen:value>
+<gen:value>c035961f-bc38-4eb4-b6ab-73dd4eaf1f64</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -23708,7 +23672,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>51e86c05-e3cf-4655-a17a-b4f530f62c17</gen:value>
+<gen:value>c035961f-bc38-4eb4-b6ab-73dd4eaf1f64</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -23743,7 +23707,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>51e86c05-e3cf-4655-a17a-b4f530f62c17</gen:value>
+<gen:value>c035961f-bc38-4eb4-b6ab-73dd4eaf1f64</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -23778,7 +23742,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>51e86c05-e3cf-4655-a17a-b4f530f62c17</gen:value>
+<gen:value>c035961f-bc38-4eb4-b6ab-73dd4eaf1f64</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -23813,7 +23777,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>51e86c05-e3cf-4655-a17a-b4f530f62c17</gen:value>
+<gen:value>c035961f-bc38-4eb4-b6ab-73dd4eaf1f64</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -23848,7 +23812,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>51e86c05-e3cf-4655-a17a-b4f530f62c17</gen:value>
+<gen:value>c035961f-bc38-4eb4-b6ab-73dd4eaf1f64</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -23883,7 +23847,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>51e86c05-e3cf-4655-a17a-b4f530f62c17</gen:value>
+<gen:value>c035961f-bc38-4eb4-b6ab-73dd4eaf1f64</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -23918,7 +23882,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>51e86c05-e3cf-4655-a17a-b4f530f62c17</gen:value>
+<gen:value>c035961f-bc38-4eb4-b6ab-73dd4eaf1f64</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -23996,7 +23960,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>51e86c05-e3cf-4655-a17a-b4f530f62c17</gen:value>
+<gen:value>c035961f-bc38-4eb4-b6ab-73dd4eaf1f64</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -24067,7 +24031,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>ddfab266-af2b-4119-9219-0c8a277e8136</gen:value>
+<gen:value>5e4ba860-e449-491f-a29a-efebc4827b63</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -24113,7 +24077,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0403031141578 105.781901149313 22 21.0403004482674 105.782315884112 22 21.0403577225298 105.782373899449 17 21.0403031141578 105.781901149313 22</gml:posList>
+<gml:posList>21.0403004482674 105.782315884112 22 21.0402424329304 105.782373899449 17 21.0403577225298 105.782373899449 17 21.0403004482674 105.782315884112 22</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -24122,7 +24086,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0402424329304 105.782373899449 17 21.0403577225298 105.782373899449 17 21.0403004482674 105.782315884112 22 21.0402424329304 105.782373899449 17</gml:posList>
+<gml:posList>21.0403004482674 105.782315884112 22 21.0403577225298 105.782373899449 17 21.0403031141578 105.781901149313 22 21.0403004482674 105.782315884112 22</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -24134,7 +24098,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="23c39a72-1378-4d1b-87ed-788835be6e35">
+<bldg:Building gml:id="41a363ad-f4bf-4571-97d1-2dc4f761a0fc">
 <gen:intAttribute name="height">
 <gen:value>16</gen:value>
 </gen:intAttribute>
@@ -24145,7 +24109,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>23c39a72-1378-4d1b-87ed-788835be6e35</gen:value>
+<gen:value>41a363ad-f4bf-4571-97d1-2dc4f761a0fc</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -24159,7 +24123,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>23c39a72-1378-4d1b-87ed-788835be6e35</gen:value>
+<gen:value>41a363ad-f4bf-4571-97d1-2dc4f761a0fc</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -24194,7 +24158,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>23c39a72-1378-4d1b-87ed-788835be6e35</gen:value>
+<gen:value>41a363ad-f4bf-4571-97d1-2dc4f761a0fc</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -24229,7 +24193,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>23c39a72-1378-4d1b-87ed-788835be6e35</gen:value>
+<gen:value>41a363ad-f4bf-4571-97d1-2dc4f761a0fc</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -24264,7 +24228,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>23c39a72-1378-4d1b-87ed-788835be6e35</gen:value>
+<gen:value>41a363ad-f4bf-4571-97d1-2dc4f761a0fc</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -24299,7 +24263,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>23c39a72-1378-4d1b-87ed-788835be6e35</gen:value>
+<gen:value>41a363ad-f4bf-4571-97d1-2dc4f761a0fc</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -24334,7 +24298,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>23c39a72-1378-4d1b-87ed-788835be6e35</gen:value>
+<gen:value>41a363ad-f4bf-4571-97d1-2dc4f761a0fc</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -24369,7 +24333,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>23c39a72-1378-4d1b-87ed-788835be6e35</gen:value>
+<gen:value>41a363ad-f4bf-4571-97d1-2dc4f761a0fc</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -24404,7 +24368,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>23c39a72-1378-4d1b-87ed-788835be6e35</gen:value>
+<gen:value>41a363ad-f4bf-4571-97d1-2dc4f761a0fc</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -24439,7 +24403,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>23c39a72-1378-4d1b-87ed-788835be6e35</gen:value>
+<gen:value>41a363ad-f4bf-4571-97d1-2dc4f761a0fc</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -24517,7 +24481,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>23c39a72-1378-4d1b-87ed-788835be6e35</gen:value>
+<gen:value>41a363ad-f4bf-4571-97d1-2dc4f761a0fc</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -24588,7 +24552,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>51e86c05-e3cf-4655-a17a-b4f530f62c17</gen:value>
+<gen:value>c035961f-bc38-4eb4-b6ab-73dd4eaf1f64</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -24634,7 +24598,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0407447941883 105.781628191215 25 21.0407478117794 105.781783437184 25 21.0408024109845 105.781835057473 20 21.0407447941883 105.781628191215 25</gml:posList>
+<gml:posList>21.0407478117794 105.781783437184 25 21.0408024109845 105.781835057473 20 21.0407447941883 105.781628191215 25 21.0407478117794 105.781783437184 25</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -24643,7 +24607,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0407447941883 105.781628191215 25 21.0408024109845 105.781835057473 20 21.0408003522417 105.781568227071 20 21.0407447941883 105.781628191215 25</gml:posList>
+<gml:posList>21.0408024109845 105.781835057473 20 21.0408003522417 105.781568227071 20 21.0407447941883 105.781628191215 25 21.0408024109845 105.781835057473 20</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -24655,7 +24619,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="3546ca5d-d916-433b-81e7-3060b6600a1d">
+<bldg:Building gml:id="a8cdd14c-a90c-407d-b90c-41cd4ba36f88">
 <gen:intAttribute name="height">
 <gen:value>20</gen:value>
 </gen:intAttribute>
@@ -24666,7 +24630,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3546ca5d-d916-433b-81e7-3060b6600a1d</gen:value>
+<gen:value>a8cdd14c-a90c-407d-b90c-41cd4ba36f88</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -24680,7 +24644,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3546ca5d-d916-433b-81e7-3060b6600a1d</gen:value>
+<gen:value>a8cdd14c-a90c-407d-b90c-41cd4ba36f88</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -24715,7 +24679,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3546ca5d-d916-433b-81e7-3060b6600a1d</gen:value>
+<gen:value>a8cdd14c-a90c-407d-b90c-41cd4ba36f88</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -24750,7 +24714,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3546ca5d-d916-433b-81e7-3060b6600a1d</gen:value>
+<gen:value>a8cdd14c-a90c-407d-b90c-41cd4ba36f88</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -24785,7 +24749,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3546ca5d-d916-433b-81e7-3060b6600a1d</gen:value>
+<gen:value>a8cdd14c-a90c-407d-b90c-41cd4ba36f88</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -24820,7 +24784,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3546ca5d-d916-433b-81e7-3060b6600a1d</gen:value>
+<gen:value>a8cdd14c-a90c-407d-b90c-41cd4ba36f88</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -24855,7 +24819,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3546ca5d-d916-433b-81e7-3060b6600a1d</gen:value>
+<gen:value>a8cdd14c-a90c-407d-b90c-41cd4ba36f88</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -24890,7 +24854,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3546ca5d-d916-433b-81e7-3060b6600a1d</gen:value>
+<gen:value>a8cdd14c-a90c-407d-b90c-41cd4ba36f88</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -24925,7 +24889,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3546ca5d-d916-433b-81e7-3060b6600a1d</gen:value>
+<gen:value>a8cdd14c-a90c-407d-b90c-41cd4ba36f88</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -24960,7 +24924,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3546ca5d-d916-433b-81e7-3060b6600a1d</gen:value>
+<gen:value>a8cdd14c-a90c-407d-b90c-41cd4ba36f88</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -25038,7 +25002,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3546ca5d-d916-433b-81e7-3060b6600a1d</gen:value>
+<gen:value>a8cdd14c-a90c-407d-b90c-41cd4ba36f88</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -25109,7 +25073,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>23c39a72-1378-4d1b-87ed-788835be6e35</gen:value>
+<gen:value>41a363ad-f4bf-4571-97d1-2dc4f761a0fc</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -25155,7 +25119,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0407103274534 105.781477657995 21 21.0407080152249 105.78151554972 21 21.0407612361276 105.781570817657 16 21.0407103274534 105.781477657995 21</gml:posList>
+<gml:posList>21.0407080152249 105.78151554972 21 21.0406480052711 105.78157599883 16 21.0407612361276 105.781570817657 16 21.0407080152249 105.78151554972 21</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -25164,7 +25128,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0406480052711 105.78157599883 16 21.0407612361276 105.781570817657 16 21.0407080152249 105.78151554972 21 21.0406480052711 105.78157599883 16</gml:posList>
+<gml:posList>21.0407080152249 105.78151554972 21 21.0407612361276 105.781570817657 16 21.0407103274534 105.781477657995 21 21.0407080152249 105.78151554972 21</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -25176,7 +25140,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="0c69598e-3f4f-41b8-b546-7bcb1a5f543a">
+<bldg:Building gml:id="92e842ba-7f9d-4711-bbc9-4e3d68fbd90a">
 <gen:intAttribute name="height">
 <gen:value>30</gen:value>
 </gen:intAttribute>
@@ -25187,7 +25151,7 @@
 <gen:value>arch</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0c69598e-3f4f-41b8-b546-7bcb1a5f543a</gen:value>
+<gen:value>92e842ba-7f9d-4711-bbc9-4e3d68fbd90a</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -25201,7 +25165,7 @@
 <gen:value>arch</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0c69598e-3f4f-41b8-b546-7bcb1a5f543a</gen:value>
+<gen:value>92e842ba-7f9d-4711-bbc9-4e3d68fbd90a</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -25236,7 +25200,7 @@
 <gen:value>arch</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0c69598e-3f4f-41b8-b546-7bcb1a5f543a</gen:value>
+<gen:value>92e842ba-7f9d-4711-bbc9-4e3d68fbd90a</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -25271,7 +25235,7 @@
 <gen:value>arch</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0c69598e-3f4f-41b8-b546-7bcb1a5f543a</gen:value>
+<gen:value>92e842ba-7f9d-4711-bbc9-4e3d68fbd90a</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -25306,7 +25270,7 @@
 <gen:value>arch</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0c69598e-3f4f-41b8-b546-7bcb1a5f543a</gen:value>
+<gen:value>92e842ba-7f9d-4711-bbc9-4e3d68fbd90a</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -25341,7 +25305,7 @@
 <gen:value>arch</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0c69598e-3f4f-41b8-b546-7bcb1a5f543a</gen:value>
+<gen:value>92e842ba-7f9d-4711-bbc9-4e3d68fbd90a</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -25376,7 +25340,7 @@
 <gen:value>arch</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0c69598e-3f4f-41b8-b546-7bcb1a5f543a</gen:value>
+<gen:value>92e842ba-7f9d-4711-bbc9-4e3d68fbd90a</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -25411,7 +25375,7 @@
 <gen:value>arch</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0c69598e-3f4f-41b8-b546-7bcb1a5f543a</gen:value>
+<gen:value>92e842ba-7f9d-4711-bbc9-4e3d68fbd90a</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -25446,7 +25410,7 @@
 <gen:value>arch</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0c69598e-3f4f-41b8-b546-7bcb1a5f543a</gen:value>
+<gen:value>92e842ba-7f9d-4711-bbc9-4e3d68fbd90a</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -25481,7 +25445,7 @@
 <gen:value>arch</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0c69598e-3f4f-41b8-b546-7bcb1a5f543a</gen:value>
+<gen:value>92e842ba-7f9d-4711-bbc9-4e3d68fbd90a</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -25559,7 +25523,7 @@
 <gen:value>arch</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0c69598e-3f4f-41b8-b546-7bcb1a5f543a</gen:value>
+<gen:value>92e842ba-7f9d-4711-bbc9-4e3d68fbd90a</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -25630,7 +25594,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>0c69598e-3f4f-41b8-b546-7bcb1a5f543a</gen:value>
+<gen:value>92e842ba-7f9d-4711-bbc9-4e3d68fbd90a</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="height">
 <gen:value>30</gen:value>
@@ -25657,7 +25621,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="981178c8-c6a5-42dd-8db7-7e1d2a78f769">
+<bldg:Building gml:id="a9c049ff-c130-4367-9aeb-41b565b8e410">
 <gen:intAttribute name="height">
 <gen:value>20</gen:value>
 </gen:intAttribute>
@@ -25668,7 +25632,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>981178c8-c6a5-42dd-8db7-7e1d2a78f769</gen:value>
+<gen:value>a9c049ff-c130-4367-9aeb-41b565b8e410</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -25682,7 +25646,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>981178c8-c6a5-42dd-8db7-7e1d2a78f769</gen:value>
+<gen:value>a9c049ff-c130-4367-9aeb-41b565b8e410</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -25717,7 +25681,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>981178c8-c6a5-42dd-8db7-7e1d2a78f769</gen:value>
+<gen:value>a9c049ff-c130-4367-9aeb-41b565b8e410</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -25752,7 +25716,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>981178c8-c6a5-42dd-8db7-7e1d2a78f769</gen:value>
+<gen:value>a9c049ff-c130-4367-9aeb-41b565b8e410</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -25787,7 +25751,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>981178c8-c6a5-42dd-8db7-7e1d2a78f769</gen:value>
+<gen:value>a9c049ff-c130-4367-9aeb-41b565b8e410</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -25822,7 +25786,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>981178c8-c6a5-42dd-8db7-7e1d2a78f769</gen:value>
+<gen:value>a9c049ff-c130-4367-9aeb-41b565b8e410</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -25857,7 +25821,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>981178c8-c6a5-42dd-8db7-7e1d2a78f769</gen:value>
+<gen:value>a9c049ff-c130-4367-9aeb-41b565b8e410</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -25892,7 +25856,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>981178c8-c6a5-42dd-8db7-7e1d2a78f769</gen:value>
+<gen:value>a9c049ff-c130-4367-9aeb-41b565b8e410</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -25927,7 +25891,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>981178c8-c6a5-42dd-8db7-7e1d2a78f769</gen:value>
+<gen:value>a9c049ff-c130-4367-9aeb-41b565b8e410</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -25962,7 +25926,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>981178c8-c6a5-42dd-8db7-7e1d2a78f769</gen:value>
+<gen:value>a9c049ff-c130-4367-9aeb-41b565b8e410</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -26040,7 +26004,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>981178c8-c6a5-42dd-8db7-7e1d2a78f769</gen:value>
+<gen:value>a9c049ff-c130-4367-9aeb-41b565b8e410</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -26111,7 +26075,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>3546ca5d-d916-433b-81e7-3060b6600a1d</gen:value>
+<gen:value>a8cdd14c-a90c-407d-b90c-41cd4ba36f88</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -26157,7 +26121,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0403244095012 105.781464559812 25 21.0405884662821 105.781475061607 25 21.0402650791017 105.781397248367 20 21.0403244095012 105.781464559812 25</gml:posList>
+<gml:posList>21.0405884662821 105.781475061607 25 21.0402650791017 105.781397248367 20 21.0403244095012 105.781464559812 25 21.0405884662821 105.781475061607 25</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -26166,7 +26130,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0403244095012 105.781464559812 25 21.0402650791017 105.781397248367 20 21.0402547853875 105.781526777688 20 21.0403244095012 105.781464559812 25</gml:posList>
+<gml:posList>21.0402650791017 105.781397248367 20 21.0402547853875 105.781526777688 20 21.0403244095012 105.781464559812 25 21.0402650791017 105.781397248367 20</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -26178,7 +26142,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="704c3b18-8179-4417-99e8-1aaad8caa310">
+<bldg:Building gml:id="539d7d7e-ddec-40f3-bc6a-9f3a3b1d866b">
 <gen:intAttribute name="height">
 <gen:value>15</gen:value>
 </gen:intAttribute>
@@ -26189,7 +26153,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>704c3b18-8179-4417-99e8-1aaad8caa310</gen:value>
+<gen:value>539d7d7e-ddec-40f3-bc6a-9f3a3b1d866b</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -26203,7 +26167,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>704c3b18-8179-4417-99e8-1aaad8caa310</gen:value>
+<gen:value>539d7d7e-ddec-40f3-bc6a-9f3a3b1d866b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -26238,7 +26202,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>704c3b18-8179-4417-99e8-1aaad8caa310</gen:value>
+<gen:value>539d7d7e-ddec-40f3-bc6a-9f3a3b1d866b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -26273,7 +26237,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>704c3b18-8179-4417-99e8-1aaad8caa310</gen:value>
+<gen:value>539d7d7e-ddec-40f3-bc6a-9f3a3b1d866b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -26308,7 +26272,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>704c3b18-8179-4417-99e8-1aaad8caa310</gen:value>
+<gen:value>539d7d7e-ddec-40f3-bc6a-9f3a3b1d866b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -26343,7 +26307,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>704c3b18-8179-4417-99e8-1aaad8caa310</gen:value>
+<gen:value>539d7d7e-ddec-40f3-bc6a-9f3a3b1d866b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -26378,7 +26342,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>704c3b18-8179-4417-99e8-1aaad8caa310</gen:value>
+<gen:value>539d7d7e-ddec-40f3-bc6a-9f3a3b1d866b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -26413,7 +26377,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>704c3b18-8179-4417-99e8-1aaad8caa310</gen:value>
+<gen:value>539d7d7e-ddec-40f3-bc6a-9f3a3b1d866b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -26448,7 +26412,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>704c3b18-8179-4417-99e8-1aaad8caa310</gen:value>
+<gen:value>539d7d7e-ddec-40f3-bc6a-9f3a3b1d866b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -26483,7 +26447,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>704c3b18-8179-4417-99e8-1aaad8caa310</gen:value>
+<gen:value>539d7d7e-ddec-40f3-bc6a-9f3a3b1d866b</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -26561,7 +26525,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>704c3b18-8179-4417-99e8-1aaad8caa310</gen:value>
+<gen:value>539d7d7e-ddec-40f3-bc6a-9f3a3b1d866b</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -26632,7 +26596,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>981178c8-c6a5-42dd-8db7-7e1d2a78f769</gen:value>
+<gen:value>a9c049ff-c130-4367-9aeb-41b565b8e410</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -26678,7 +26642,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0402028341937 105.781801605154 24 21.0402321392162 105.781423154231 20 21.0401985583328 105.781455050661 24 21.0402028341937 105.781801605154 24</gml:posList>
+<gml:posList>21.0401985583328 105.781455050661 24 21.0402028341937 105.781801605154 24 21.0402321392162 105.781423154231 20 21.0401985583328 105.781455050661 24</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -26687,7 +26651,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0402321392162 105.781423154231 20 21.0401642007023 105.781417973058 20 21.0401985583328 105.781455050661 24 21.0402321392162 105.781423154231 20</gml:posList>
+<gml:posList>21.0401985583328 105.781455050661 24 21.0402321392162 105.781423154231 20 21.0401642007023 105.781417973058 20 21.0401985583328 105.781455050661 24</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -26699,7 +26663,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="aea00f37-29d9-42b5-9d47-ccf4aa36f965">
+<bldg:Building gml:id="a56e37fe-e246-43b9-8722-f5457802f545">
 <gen:intAttribute name="height">
 <gen:value>30</gen:value>
 </gen:intAttribute>
@@ -26710,7 +26674,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>aea00f37-29d9-42b5-9d47-ccf4aa36f965</gen:value>
+<gen:value>a56e37fe-e246-43b9-8722-f5457802f545</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -26724,7 +26688,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>aea00f37-29d9-42b5-9d47-ccf4aa36f965</gen:value>
+<gen:value>a56e37fe-e246-43b9-8722-f5457802f545</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -26759,7 +26723,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>aea00f37-29d9-42b5-9d47-ccf4aa36f965</gen:value>
+<gen:value>a56e37fe-e246-43b9-8722-f5457802f545</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -26794,7 +26758,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>aea00f37-29d9-42b5-9d47-ccf4aa36f965</gen:value>
+<gen:value>a56e37fe-e246-43b9-8722-f5457802f545</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -26829,7 +26793,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>aea00f37-29d9-42b5-9d47-ccf4aa36f965</gen:value>
+<gen:value>a56e37fe-e246-43b9-8722-f5457802f545</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -26864,7 +26828,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>aea00f37-29d9-42b5-9d47-ccf4aa36f965</gen:value>
+<gen:value>a56e37fe-e246-43b9-8722-f5457802f545</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -26899,7 +26863,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>aea00f37-29d9-42b5-9d47-ccf4aa36f965</gen:value>
+<gen:value>a56e37fe-e246-43b9-8722-f5457802f545</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -26934,7 +26898,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>aea00f37-29d9-42b5-9d47-ccf4aa36f965</gen:value>
+<gen:value>a56e37fe-e246-43b9-8722-f5457802f545</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -26969,7 +26933,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>aea00f37-29d9-42b5-9d47-ccf4aa36f965</gen:value>
+<gen:value>a56e37fe-e246-43b9-8722-f5457802f545</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27004,7 +26968,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>aea00f37-29d9-42b5-9d47-ccf4aa36f965</gen:value>
+<gen:value>a56e37fe-e246-43b9-8722-f5457802f545</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27039,7 +27003,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>aea00f37-29d9-42b5-9d47-ccf4aa36f965</gen:value>
+<gen:value>a56e37fe-e246-43b9-8722-f5457802f545</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27074,7 +27038,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>aea00f37-29d9-42b5-9d47-ccf4aa36f965</gen:value>
+<gen:value>a56e37fe-e246-43b9-8722-f5457802f545</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -27161,7 +27125,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>aea00f37-29d9-42b5-9d47-ccf4aa36f965</gen:value>
+<gen:value>a56e37fe-e246-43b9-8722-f5457802f545</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -27241,7 +27205,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>704c3b18-8179-4417-99e8-1aaad8caa310</gen:value>
+<gen:value>539d7d7e-ddec-40f3-bc6a-9f3a3b1d866b</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -27287,7 +27251,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0403391938442 105.782422563541 20 21.0403865449296 105.782376490036 15 21.0402918427587 105.782373899449 15 21.0403391938442 105.782422563541 20</gml:posList>
+<gml:posList>21.0403391938442 105.782608851471 20 21.0403391938442 105.782422563541 20 21.0402918427587 105.782373899449 15 21.0403391938442 105.782608851471 20</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27296,7 +27260,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0403391938442 105.782422563541 20 21.0402918427587 105.782373899449 15 21.0403391938442 105.782608851471 20 21.0403391938442 105.782422563541 20</gml:posList>
+<gml:posList>21.0403865449296 105.782376490036 15 21.0402918427587 105.782373899449 15 21.0403391938442 105.782422563541 20 21.0403865449296 105.782376490036 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27308,9 +27272,9 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="5b9c8364-99c1-41dc-bda5-b1689c25b1a3">
+<bldg:Building gml:id="ca5d8e27-b654-4095-b692-01092bb3cdc1">
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27319,12 +27283,12 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27333,7 +27297,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27347,7 +27311,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392089440218 105.781428335404 0 21.0392933524785 105.781428335404 0 21.0392933524785 105.781428335404 5 21.0392089440218 105.781428335404 5 21.0392089440218 105.781428335404 0</gml:posList>
+<gml:posList>21.0392089440218 105.781428335404 0 21.0392933524785 105.781428335404 0 21.0392933524785 105.781428335404 30 21.0392089440218 105.781428335404 30 21.0392089440218 105.781428335404 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27359,7 +27323,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27368,7 +27332,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27382,7 +27346,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392089440218 105.781428335404 0 21.0392933524785 105.781428335404 0 21.0392933524785 105.781428335404 5 21.0392089440218 105.781428335404 5 21.0392089440218 105.781428335404 0</gml:posList>
+<gml:posList>21.0392089440218 105.781428335404 0 21.0392933524785 105.781428335404 0 21.0392933524785 105.781428335404 30 21.0392089440218 105.781428335404 30 21.0392089440218 105.781428335404 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27394,7 +27358,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27403,7 +27367,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27417,7 +27381,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392933524785 105.781428335404 0 21.0392933524785 105.78158377059 0 21.0392933524785 105.78158377059 5 21.0392933524785 105.781428335404 5 21.0392933524785 105.781428335404 0</gml:posList>
+<gml:posList>21.0392933524785 105.781428335404 0 21.0392933524785 105.78158377059 0 21.0392933524785 105.78158377059 30 21.0392933524785 105.781428335404 30 21.0392933524785 105.781428335404 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27429,7 +27393,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27438,7 +27402,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27452,7 +27416,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392933524785 105.781428335404 0 21.0392933524785 105.78158377059 0 21.0392933524785 105.78158377059 5 21.0392933524785 105.781428335404 5 21.0392933524785 105.781428335404 0</gml:posList>
+<gml:posList>21.0392933524785 105.781428335404 0 21.0392933524785 105.78158377059 0 21.0392933524785 105.78158377059 30 21.0392933524785 105.781428335404 30 21.0392933524785 105.781428335404 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27464,7 +27428,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27473,7 +27437,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27487,7 +27451,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392933524785 105.78158377059 0 21.0393471922648 105.781582777374 0 21.0393471922648 105.781582777374 5 21.0392933524785 105.78158377059 5 21.0392933524785 105.78158377059 0</gml:posList>
+<gml:posList>21.0392933524785 105.78158377059 0 21.0393471922648 105.781582777374 0 21.0393471922648 105.781582777374 30 21.0392933524785 105.78158377059 30 21.0392933524785 105.78158377059 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27499,7 +27463,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27508,7 +27472,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27522,7 +27486,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392933524785 105.78158377059 0 21.0393471922648 105.781582777374 0 21.0393471922648 105.781582777374 5 21.0392933524785 105.78158377059 5 21.0392933524785 105.78158377059 0</gml:posList>
+<gml:posList>21.0392933524785 105.78158377059 0 21.0393471922648 105.781582777374 0 21.0393471922648 105.781582777374 30 21.0392933524785 105.78158377059 30 21.0392933524785 105.78158377059 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27534,7 +27498,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27543,7 +27507,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27557,7 +27521,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0393471922648 105.781582777374 0 21.0393468797924 105.781835057473 0 21.0393468797924 105.781835057473 5 21.0393471922648 105.781582777374 5 21.0393471922648 105.781582777374 0</gml:posList>
+<gml:posList>21.0393471922648 105.781582777374 0 21.0393468797924 105.781835057473 0 21.0393468797924 105.781835057473 30 21.0393471922648 105.781582777374 30 21.0393471922648 105.781582777374 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27569,7 +27533,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27578,7 +27542,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27592,7 +27556,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0393471922648 105.781582777374 0 21.0393468797924 105.781835057473 0 21.0393468797924 105.781835057473 5 21.0393471922648 105.781582777374 5 21.0393471922648 105.781582777374 0</gml:posList>
+<gml:posList>21.0393471922648 105.781582777374 0 21.0393468797924 105.781835057473 0 21.0393468797924 105.781835057473 30 21.0393471922648 105.781582777374 30 21.0393471922648 105.781582777374 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27604,7 +27568,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27613,7 +27577,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27627,7 +27591,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0393468797924 105.781835057473 0 21.0392957959069 105.781835809257 0 21.0392957959069 105.781835809257 5 21.0393468797924 105.781835057473 5 21.0393468797924 105.781835057473 0</gml:posList>
+<gml:posList>21.0393468797924 105.781835057473 0 21.0392957959069 105.781835809257 0 21.0392957959069 105.781835809257 30 21.0393468797924 105.781835057473 30 21.0393468797924 105.781835057473 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27639,7 +27603,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27648,7 +27612,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27662,7 +27626,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0393468797924 105.781835057473 0 21.0392957959069 105.781835809257 0 21.0392957959069 105.781835809257 5 21.0393468797924 105.781835057473 5 21.0393468797924 105.781835057473 0</gml:posList>
+<gml:posList>21.0393468797924 105.781835057473 0 21.0392957959069 105.781835809257 0 21.0392957959069 105.781835809257 30 21.0393468797924 105.781835057473 30 21.0393468797924 105.781835057473 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27674,7 +27638,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27683,7 +27647,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27697,7 +27661,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392957959069 105.781835809257 0 21.0392933524785 105.78200344559 0 21.0392933524785 105.78200344559 5 21.0392957959069 105.781835809257 5 21.0392957959069 105.781835809257 0</gml:posList>
+<gml:posList>21.0392957959069 105.781835809257 0 21.0392933524785 105.78200344559 0 21.0392933524785 105.78200344559 30 21.0392957959069 105.781835809257 30 21.0392957959069 105.781835809257 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27709,7 +27673,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27718,7 +27682,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27732,7 +27696,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392957959069 105.781835809257 0 21.0392933524785 105.78200344559 0 21.0392933524785 105.78200344559 5 21.0392957959069 105.781835809257 5 21.0392957959069 105.781835809257 0</gml:posList>
+<gml:posList>21.0392957959069 105.781835809257 0 21.0392933524785 105.78200344559 0 21.0392933524785 105.78200344559 30 21.0392957959069 105.781835809257 30 21.0392957959069 105.781835809257 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27744,7 +27708,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27753,7 +27717,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27767,7 +27731,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392933524785 105.78200344559 0 21.0392029069842 105.782001448912 0 21.0392029069842 105.782001448912 5 21.0392933524785 105.78200344559 5 21.0392933524785 105.78200344559 0</gml:posList>
+<gml:posList>21.0392933524785 105.78200344559 0 21.0392029069842 105.782001448912 0 21.0392029069842 105.782001448912 30 21.0392933524785 105.78200344559 30 21.0392933524785 105.78200344559 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27779,7 +27743,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27788,7 +27752,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27802,7 +27766,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392933524785 105.78200344559 0 21.0392029069842 105.782001448912 0 21.0392029069842 105.782001448912 5 21.0392933524785 105.78200344559 5 21.0392933524785 105.78200344559 0</gml:posList>
+<gml:posList>21.0392933524785 105.78200344559 0 21.0392029069842 105.782001448912 0 21.0392029069842 105.782001448912 30 21.0392933524785 105.78200344559 30 21.0392933524785 105.78200344559 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27814,7 +27778,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27823,7 +27787,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27837,7 +27801,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392029069842 105.782001448912 0 21.0392037107659 105.78183319185 0 21.0392037107659 105.78183319185 5 21.0392029069842 105.782001448912 5 21.0392029069842 105.782001448912 0</gml:posList>
+<gml:posList>21.0392029069842 105.782001448912 0 21.0392037107659 105.78183319185 0 21.0392037107659 105.78183319185 30 21.0392029069842 105.782001448912 30 21.0392029069842 105.782001448912 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27849,7 +27813,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27858,7 +27822,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27872,7 +27836,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392029069842 105.782001448912 0 21.0392037107659 105.78183319185 0 21.0392037107659 105.78183319185 5 21.0392029069842 105.782001448912 5 21.0392029069842 105.782001448912 0</gml:posList>
+<gml:posList>21.0392029069842 105.782001448912 0 21.0392037107659 105.78183319185 0 21.0392037107659 105.78183319185 30 21.0392029069842 105.782001448912 30 21.0392029069842 105.782001448912 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27884,7 +27848,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27893,7 +27857,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27907,7 +27871,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392037107659 105.78183319185 0 21.0391265943078 105.781835057473 0 21.0391265943078 105.781835057473 5 21.0392037107659 105.78183319185 5 21.0392037107659 105.78183319185 0</gml:posList>
+<gml:posList>21.0392037107659 105.78183319185 0 21.0391265943078 105.781835057473 0 21.0391265943078 105.781835057473 30 21.0392037107659 105.78183319185 30 21.0392037107659 105.78183319185 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27919,7 +27883,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27928,7 +27892,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27942,7 +27906,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392037107659 105.78183319185 0 21.0391265943078 105.781835057473 0 21.0391265943078 105.781835057473 5 21.0392037107659 105.78183319185 5 21.0392037107659 105.78183319185 0</gml:posList>
+<gml:posList>21.0392037107659 105.78183319185 0 21.0391265943078 105.781835057473 0 21.0391265943078 105.781835057473 30 21.0392037107659 105.78183319185 30 21.0392037107659 105.78183319185 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27954,7 +27918,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27963,7 +27927,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -27977,7 +27941,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391265943078 105.781835057473 0 21.0391281574612 105.78176818052 0 21.0391281574612 105.78176818052 5 21.0391265943078 105.781835057473 5 21.0391265943078 105.781835057473 0</gml:posList>
+<gml:posList>21.0391265943078 105.781835057473 0 21.0391281574612 105.78176818052 0 21.0391281574612 105.78176818052 30 21.0391265943078 105.781835057473 30 21.0391265943078 105.781835057473 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -27989,7 +27953,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -27998,7 +27962,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -28012,7 +27976,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391265943078 105.781835057473 0 21.0391281574612 105.78176818052 0 21.0391281574612 105.78176818052 5 21.0391265943078 105.781835057473 5 21.0391265943078 105.781835057473 0</gml:posList>
+<gml:posList>21.0391265943078 105.781835057473 0 21.0391281574612 105.78176818052 0 21.0391281574612 105.78176818052 30 21.0391265943078 105.781835057473 30 21.0391265943078 105.781835057473 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28024,7 +27988,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -28033,7 +27997,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -28047,7 +28011,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391281574612 105.78176818052 0 21.0392104876467 105.781767102699 0 21.0392104876467 105.781767102699 5 21.0391281574612 105.78176818052 5 21.0391281574612 105.78176818052 0</gml:posList>
+<gml:posList>21.0391281574612 105.78176818052 0 21.0392104876467 105.781767102699 0 21.0392104876467 105.781767102699 30 21.0391281574612 105.78176818052 30 21.0391281574612 105.78176818052 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28059,7 +28023,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -28068,7 +28032,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -28082,7 +28046,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391281574612 105.78176818052 0 21.0392104876467 105.781767102699 0 21.0392104876467 105.781767102699 5 21.0391281574612 105.78176818052 5 21.0391281574612 105.78176818052 0</gml:posList>
+<gml:posList>21.0391281574612 105.78176818052 0 21.0392104876467 105.781767102699 0 21.0392104876467 105.781767102699 30 21.0391281574612 105.78176818052 30 21.0391281574612 105.78176818052 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28094,7 +28058,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -28103,7 +28067,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -28117,7 +28081,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392104876467 105.781767102699 0 21.0392105534362 105.781645198286 0 21.0392105534362 105.781645198286 5 21.0392104876467 105.781767102699 5 21.0392104876467 105.781767102699 0</gml:posList>
+<gml:posList>21.0392104876467 105.781767102699 0 21.0392105534362 105.781645198286 0 21.0392105534362 105.781645198286 30 21.0392104876467 105.781767102699 30 21.0392104876467 105.781767102699 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28129,7 +28093,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -28138,7 +28102,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -28152,7 +28116,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392104876467 105.781767102699 0 21.0392105534362 105.781645198286 0 21.0392105534362 105.781645198286 5 21.0392104876467 105.781767102699 5 21.0392104876467 105.781767102699 0</gml:posList>
+<gml:posList>21.0392104876467 105.781767102699 0 21.0392105534362 105.781645198286 0 21.0392105534362 105.781645198286 30 21.0392104876467 105.781767102699 30 21.0392104876467 105.781767102699 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28164,7 +28128,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -28173,7 +28137,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -28187,7 +28151,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392105534362 105.781645198286 0 21.039128043906 105.78164680867 0 21.039128043906 105.78164680867 5 21.0392105534362 105.781645198286 5 21.0392105534362 105.781645198286 0</gml:posList>
+<gml:posList>21.0392105534362 105.781645198286 0 21.039128043906 105.78164680867 0 21.039128043906 105.78164680867 30 21.0392105534362 105.781645198286 30 21.0392105534362 105.781645198286 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28199,7 +28163,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -28208,7 +28172,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -28222,7 +28186,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392105534362 105.781645198286 0 21.039128043906 105.78164680867 0 21.039128043906 105.78164680867 5 21.0392105534362 105.781645198286 5 21.0392105534362 105.781645198286 0</gml:posList>
+<gml:posList>21.0392105534362 105.781645198286 0 21.039128043906 105.78164680867 0 21.039128043906 105.78164680867 30 21.0392105534362 105.781645198286 30 21.0392105534362 105.781645198286 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28234,7 +28198,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -28243,7 +28207,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -28257,7 +28221,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.039128043906 105.78164680867 0 21.0391259023911 105.781579707869 0 21.0391259023911 105.781579707869 5 21.039128043906 105.78164680867 5 21.039128043906 105.78164680867 0</gml:posList>
+<gml:posList>21.039128043906 105.78164680867 0 21.0391259023911 105.781579707869 0 21.0391259023911 105.781579707869 30 21.039128043906 105.78164680867 30 21.039128043906 105.78164680867 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28269,7 +28233,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -28278,7 +28242,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -28292,7 +28256,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.039128043906 105.78164680867 0 21.0391259023911 105.781579707869 0 21.0391259023911 105.781579707869 5 21.039128043906 105.78164680867 5 21.039128043906 105.78164680867 0</gml:posList>
+<gml:posList>21.039128043906 105.78164680867 0 21.0391259023911 105.781579707869 0 21.0391259023911 105.781579707869 30 21.039128043906 105.78164680867 30 21.039128043906 105.78164680867 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28304,7 +28268,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -28313,7 +28277,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -28327,7 +28291,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391259023911 105.781579707869 0 21.0392087076341 105.781576138678 0 21.0392087076341 105.781576138678 5 21.0391259023911 105.781579707869 5 21.0391259023911 105.781579707869 0</gml:posList>
+<gml:posList>21.0391259023911 105.781579707869 0 21.0392087076341 105.781576138678 0 21.0392087076341 105.781576138678 30 21.0391259023911 105.781579707869 30 21.0391259023911 105.781579707869 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28339,7 +28303,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -28348,7 +28312,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -28362,7 +28326,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391259023911 105.781579707869 0 21.0392087076341 105.781576138678 0 21.0392087076341 105.781576138678 5 21.0391259023911 105.781579707869 5 21.0391259023911 105.781579707869 0</gml:posList>
+<gml:posList>21.0391259023911 105.781579707869 0 21.0392087076341 105.781576138678 0 21.0392087076341 105.781576138678 30 21.0391259023911 105.781579707869 30 21.0391259023911 105.781579707869 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28374,7 +28338,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -28383,7 +28347,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -28397,7 +28361,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392087076341 105.781576138678 0 21.0392089440218 105.781428335404 0 21.0392089440218 105.781428335404 5 21.0392087076341 105.781576138678 5 21.0392087076341 105.781576138678 0</gml:posList>
+<gml:posList>21.0392087076341 105.781576138678 0 21.0392089440218 105.781428335404 0 21.0392089440218 105.781428335404 30 21.0392087076341 105.781576138678 30 21.0392087076341 105.781576138678 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28409,7 +28373,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -28418,7 +28382,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -28432,7 +28396,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392087076341 105.781576138678 0 21.0392089440218 105.781428335404 0 21.0392089440218 105.781428335404 5 21.0392087076341 105.781576138678 5 21.0392087076341 105.781576138678 0</gml:posList>
+<gml:posList>21.0392087076341 105.781576138678 0 21.0392089440218 105.781428335404 0 21.0392089440218 105.781428335404 30 21.0392087076341 105.781576138678 30 21.0392087076341 105.781576138678 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28444,7 +28408,7 @@
 <bldg:boundedBy>
 <bldg:FloorSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -28453,7 +28417,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -28472,7 +28436,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392089440218 105.781428335404 0 21.0392087076341 105.781576138678 0 21.0392087076341 105.781576138678 5 21.0392089440218 105.781428335404 5 21.0392089440218 105.781428335404 0</gml:posList>
+<gml:posList>21.0392089440218 105.781428335404 0 21.0392087076341 105.781576138678 0 21.0392087076341 105.781576138678 30 21.0392089440218 105.781428335404 30 21.0392089440218 105.781428335404 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28481,7 +28445,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392087076341 105.781576138678 0 21.0391259023911 105.781579707869 0 21.0391259023911 105.781579707869 5 21.0392087076341 105.781576138678 5 21.0392087076341 105.781576138678 0</gml:posList>
+<gml:posList>21.0392087076341 105.781576138678 0 21.0391259023911 105.781579707869 0 21.0391259023911 105.781579707869 30 21.0392087076341 105.781576138678 30 21.0392087076341 105.781576138678 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28490,7 +28454,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391259023911 105.781579707869 0 21.039128043906 105.78164680867 0 21.039128043906 105.78164680867 5 21.0391259023911 105.781579707869 5 21.0391259023911 105.781579707869 0</gml:posList>
+<gml:posList>21.0391259023911 105.781579707869 0 21.039128043906 105.78164680867 0 21.039128043906 105.78164680867 30 21.0391259023911 105.781579707869 30 21.0391259023911 105.781579707869 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28499,7 +28463,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.039128043906 105.78164680867 0 21.0392105534362 105.781645198286 0 21.0392105534362 105.781645198286 5 21.039128043906 105.78164680867 5 21.039128043906 105.78164680867 0</gml:posList>
+<gml:posList>21.039128043906 105.78164680867 0 21.0392105534362 105.781645198286 0 21.0392105534362 105.781645198286 30 21.039128043906 105.78164680867 30 21.039128043906 105.78164680867 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28508,7 +28472,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392105534362 105.781645198286 0 21.0392104876467 105.781767102699 0 21.0392104876467 105.781767102699 5 21.0392105534362 105.781645198286 5 21.0392105534362 105.781645198286 0</gml:posList>
+<gml:posList>21.0392105534362 105.781645198286 0 21.0392104876467 105.781767102699 0 21.0392104876467 105.781767102699 30 21.0392105534362 105.781645198286 30 21.0392105534362 105.781645198286 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28517,7 +28481,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392104876467 105.781767102699 0 21.0391281574612 105.78176818052 0 21.0391281574612 105.78176818052 5 21.0392104876467 105.781767102699 5 21.0392104876467 105.781767102699 0</gml:posList>
+<gml:posList>21.0392104876467 105.781767102699 0 21.0391281574612 105.78176818052 0 21.0391281574612 105.78176818052 30 21.0392104876467 105.781767102699 30 21.0392104876467 105.781767102699 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28526,7 +28490,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391281574612 105.78176818052 0 21.0391265943078 105.781835057473 0 21.0391265943078 105.781835057473 5 21.0391281574612 105.78176818052 5 21.0391281574612 105.78176818052 0</gml:posList>
+<gml:posList>21.0391281574612 105.78176818052 0 21.0391265943078 105.781835057473 0 21.0391265943078 105.781835057473 30 21.0391281574612 105.78176818052 30 21.0391281574612 105.78176818052 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28535,7 +28499,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391265943078 105.781835057473 0 21.0392037107659 105.78183319185 0 21.0392037107659 105.78183319185 5 21.0391265943078 105.781835057473 5 21.0391265943078 105.781835057473 0</gml:posList>
+<gml:posList>21.0391265943078 105.781835057473 0 21.0392037107659 105.78183319185 0 21.0392037107659 105.78183319185 30 21.0391265943078 105.781835057473 30 21.0391265943078 105.781835057473 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28544,7 +28508,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392037107659 105.78183319185 0 21.0392029069842 105.782001448912 0 21.0392029069842 105.782001448912 5 21.0392037107659 105.78183319185 5 21.0392037107659 105.78183319185 0</gml:posList>
+<gml:posList>21.0392037107659 105.78183319185 0 21.0392029069842 105.782001448912 0 21.0392029069842 105.782001448912 30 21.0392037107659 105.78183319185 30 21.0392037107659 105.78183319185 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28553,7 +28517,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392029069842 105.782001448912 0 21.0392933524785 105.78200344559 0 21.0392933524785 105.78200344559 5 21.0392029069842 105.782001448912 5 21.0392029069842 105.782001448912 0</gml:posList>
+<gml:posList>21.0392029069842 105.782001448912 0 21.0392933524785 105.78200344559 0 21.0392933524785 105.78200344559 30 21.0392029069842 105.782001448912 30 21.0392029069842 105.782001448912 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28562,7 +28526,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392933524785 105.78200344559 0 21.0392957959069 105.781835809257 0 21.0392957959069 105.781835809257 5 21.0392933524785 105.78200344559 5 21.0392933524785 105.78200344559 0</gml:posList>
+<gml:posList>21.0392933524785 105.78200344559 0 21.0392957959069 105.781835809257 0 21.0392957959069 105.781835809257 30 21.0392933524785 105.78200344559 30 21.0392933524785 105.78200344559 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28571,7 +28535,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392957959069 105.781835809257 0 21.0393468797924 105.781835057473 0 21.0393468797924 105.781835057473 5 21.0392957959069 105.781835809257 5 21.0392957959069 105.781835809257 0</gml:posList>
+<gml:posList>21.0392957959069 105.781835809257 0 21.0393468797924 105.781835057473 0 21.0393468797924 105.781835057473 30 21.0392957959069 105.781835809257 30 21.0392957959069 105.781835809257 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28580,7 +28544,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0393468797924 105.781835057473 0 21.0393471922648 105.781582777374 0 21.0393471922648 105.781582777374 5 21.0393468797924 105.781835057473 5 21.0393468797924 105.781835057473 0</gml:posList>
+<gml:posList>21.0393468797924 105.781835057473 0 21.0393471922648 105.781582777374 0 21.0393471922648 105.781582777374 30 21.0393468797924 105.781835057473 30 21.0393468797924 105.781835057473 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28589,7 +28553,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0393471922648 105.781582777374 0 21.0392933524785 105.78158377059 0 21.0392933524785 105.78158377059 5 21.0393471922648 105.781582777374 5 21.0393471922648 105.781582777374 0</gml:posList>
+<gml:posList>21.0393471922648 105.781582777374 0 21.0392933524785 105.78158377059 0 21.0392933524785 105.78158377059 30 21.0393471922648 105.781582777374 30 21.0393471922648 105.781582777374 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28598,7 +28562,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392933524785 105.78158377059 0 21.0392933524785 105.781428335404 0 21.0392933524785 105.781428335404 5 21.0392933524785 105.78158377059 5 21.0392933524785 105.78158377059 0</gml:posList>
+<gml:posList>21.0392933524785 105.78158377059 0 21.0392933524785 105.781428335404 0 21.0392933524785 105.781428335404 30 21.0392933524785 105.78158377059 30 21.0392933524785 105.78158377059 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28607,7 +28571,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392933524785 105.781428335404 0 21.0392089440218 105.781428335404 0 21.0392089440218 105.781428335404 5 21.0392933524785 105.781428335404 5 21.0392933524785 105.781428335404 0</gml:posList>
+<gml:posList>21.0392933524785 105.781428335404 0 21.0392089440218 105.781428335404 0 21.0392089440218 105.781428335404 30 21.0392933524785 105.781428335404 30 21.0392933524785 105.781428335404 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28616,7 +28580,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392089440218 105.781428335404 5 21.0392087076341 105.781576138678 5 21.0391259023911 105.781579707869 5 21.039128043906 105.78164680867 5 21.0392105534362 105.781645198286 5 21.0392104876467 105.781767102699 5 21.0391281574612 105.78176818052 5 21.0391265943078 105.781835057473 5 21.0392037107659 105.78183319185 5 21.0392029069842 105.782001448912 5 21.0392933524785 105.78200344559 5 21.0392957959069 105.781835809257 5 21.0393468797924 105.781835057473 5 21.0393471922648 105.781582777374 5 21.0392933524785 105.78158377059 5 21.0392933524785 105.781428335404 5 21.0392089440218 105.781428335404 5</gml:posList>
+<gml:posList>21.0392089440218 105.781428335404 30 21.0392087076341 105.781576138678 30 21.0391259023911 105.781579707869 30 21.039128043906 105.78164680867 30 21.0392105534362 105.781645198286 30 21.0392104876467 105.781767102699 30 21.0391281574612 105.78176818052 30 21.0391265943078 105.781835057473 30 21.0392037107659 105.78183319185 30 21.0392029069842 105.782001448912 30 21.0392933524785 105.78200344559 30 21.0392957959069 105.781835809257 30 21.0393468797924 105.781835057473 30 21.0393471922648 105.781582777374 30 21.0392933524785 105.78158377059 30 21.0392933524785 105.781428335404 30 21.0392089440218 105.781428335404 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28630,7 +28594,7 @@
 <bldg:boundedBy>
 <bldg:WallSurface>
 <gen:intAttribute name="height">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:intAttribute>
 <gen:intAttribute name="roof_heigh">
 <gen:value>0</gen:value>
@@ -28639,7 +28603,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5b9c8364-99c1-41dc-bda5-b1689c25b1a3</gen:value>
+<gen:value>ca5d8e27-b654-4095-b692-01092bb3cdc1</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -28658,7 +28622,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392089440218 105.781428335404 0 21.0392087076341 105.781576138678 0 21.0392087076341 105.781576138678 5 21.0392089440218 105.781428335404 5 21.0392089440218 105.781428335404 0</gml:posList>
+<gml:posList>21.0392089440218 105.781428335404 0 21.0392087076341 105.781576138678 0 21.0392087076341 105.781576138678 30 21.0392089440218 105.781428335404 30 21.0392089440218 105.781428335404 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28667,7 +28631,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392087076341 105.781576138678 0 21.0391259023911 105.781579707869 0 21.0391259023911 105.781579707869 5 21.0392087076341 105.781576138678 5 21.0392087076341 105.781576138678 0</gml:posList>
+<gml:posList>21.0392087076341 105.781576138678 0 21.0391259023911 105.781579707869 0 21.0391259023911 105.781579707869 30 21.0392087076341 105.781576138678 30 21.0392087076341 105.781576138678 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28676,7 +28640,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391259023911 105.781579707869 0 21.039128043906 105.78164680867 0 21.039128043906 105.78164680867 5 21.0391259023911 105.781579707869 5 21.0391259023911 105.781579707869 0</gml:posList>
+<gml:posList>21.0391259023911 105.781579707869 0 21.039128043906 105.78164680867 0 21.039128043906 105.78164680867 30 21.0391259023911 105.781579707869 30 21.0391259023911 105.781579707869 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28685,7 +28649,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.039128043906 105.78164680867 0 21.0392105534362 105.781645198286 0 21.0392105534362 105.781645198286 5 21.039128043906 105.78164680867 5 21.039128043906 105.78164680867 0</gml:posList>
+<gml:posList>21.039128043906 105.78164680867 0 21.0392105534362 105.781645198286 0 21.0392105534362 105.781645198286 30 21.039128043906 105.78164680867 30 21.039128043906 105.78164680867 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28694,7 +28658,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392105534362 105.781645198286 0 21.0392104876467 105.781767102699 0 21.0392104876467 105.781767102699 5 21.0392105534362 105.781645198286 5 21.0392105534362 105.781645198286 0</gml:posList>
+<gml:posList>21.0392105534362 105.781645198286 0 21.0392104876467 105.781767102699 0 21.0392104876467 105.781767102699 30 21.0392105534362 105.781645198286 30 21.0392105534362 105.781645198286 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28703,7 +28667,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392104876467 105.781767102699 0 21.0391281574612 105.78176818052 0 21.0391281574612 105.78176818052 5 21.0392104876467 105.781767102699 5 21.0392104876467 105.781767102699 0</gml:posList>
+<gml:posList>21.0392104876467 105.781767102699 0 21.0391281574612 105.78176818052 0 21.0391281574612 105.78176818052 30 21.0392104876467 105.781767102699 30 21.0392104876467 105.781767102699 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28712,7 +28676,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391281574612 105.78176818052 0 21.0391265943078 105.781835057473 0 21.0391265943078 105.781835057473 5 21.0391281574612 105.78176818052 5 21.0391281574612 105.78176818052 0</gml:posList>
+<gml:posList>21.0391281574612 105.78176818052 0 21.0391265943078 105.781835057473 0 21.0391265943078 105.781835057473 30 21.0391281574612 105.78176818052 30 21.0391281574612 105.78176818052 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28721,7 +28685,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391265943078 105.781835057473 0 21.0392037107659 105.78183319185 0 21.0392037107659 105.78183319185 5 21.0391265943078 105.781835057473 5 21.0391265943078 105.781835057473 0</gml:posList>
+<gml:posList>21.0391265943078 105.781835057473 0 21.0392037107659 105.78183319185 0 21.0392037107659 105.78183319185 30 21.0391265943078 105.781835057473 30 21.0391265943078 105.781835057473 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28730,7 +28694,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392037107659 105.78183319185 0 21.0392029069842 105.782001448912 0 21.0392029069842 105.782001448912 5 21.0392037107659 105.78183319185 5 21.0392037107659 105.78183319185 0</gml:posList>
+<gml:posList>21.0392037107659 105.78183319185 0 21.0392029069842 105.782001448912 0 21.0392029069842 105.782001448912 30 21.0392037107659 105.78183319185 30 21.0392037107659 105.78183319185 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28739,7 +28703,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392029069842 105.782001448912 0 21.0392933524785 105.78200344559 0 21.0392933524785 105.78200344559 5 21.0392029069842 105.782001448912 5 21.0392029069842 105.782001448912 0</gml:posList>
+<gml:posList>21.0392029069842 105.782001448912 0 21.0392933524785 105.78200344559 0 21.0392933524785 105.78200344559 30 21.0392029069842 105.782001448912 30 21.0392029069842 105.782001448912 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28748,7 +28712,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392933524785 105.78200344559 0 21.0392957959069 105.781835809257 0 21.0392957959069 105.781835809257 5 21.0392933524785 105.78200344559 5 21.0392933524785 105.78200344559 0</gml:posList>
+<gml:posList>21.0392933524785 105.78200344559 0 21.0392957959069 105.781835809257 0 21.0392957959069 105.781835809257 30 21.0392933524785 105.78200344559 30 21.0392933524785 105.78200344559 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28757,7 +28721,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392957959069 105.781835809257 0 21.0393468797924 105.781835057473 0 21.0393468797924 105.781835057473 5 21.0392957959069 105.781835809257 5 21.0392957959069 105.781835809257 0</gml:posList>
+<gml:posList>21.0392957959069 105.781835809257 0 21.0393468797924 105.781835057473 0 21.0393468797924 105.781835057473 30 21.0392957959069 105.781835809257 30 21.0392957959069 105.781835809257 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28766,7 +28730,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0393468797924 105.781835057473 0 21.0393471922648 105.781582777374 0 21.0393471922648 105.781582777374 5 21.0393468797924 105.781835057473 5 21.0393468797924 105.781835057473 0</gml:posList>
+<gml:posList>21.0393468797924 105.781835057473 0 21.0393471922648 105.781582777374 0 21.0393471922648 105.781582777374 30 21.0393468797924 105.781835057473 30 21.0393468797924 105.781835057473 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28775,7 +28739,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0393471922648 105.781582777374 0 21.0392933524785 105.78158377059 0 21.0392933524785 105.78158377059 5 21.0393471922648 105.781582777374 5 21.0393471922648 105.781582777374 0</gml:posList>
+<gml:posList>21.0393471922648 105.781582777374 0 21.0392933524785 105.78158377059 0 21.0392933524785 105.78158377059 30 21.0393471922648 105.781582777374 30 21.0393471922648 105.781582777374 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28784,7 +28748,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392933524785 105.78158377059 0 21.0392933524785 105.781428335404 0 21.0392933524785 105.781428335404 5 21.0392933524785 105.78158377059 5 21.0392933524785 105.78158377059 0</gml:posList>
+<gml:posList>21.0392933524785 105.78158377059 0 21.0392933524785 105.781428335404 0 21.0392933524785 105.781428335404 30 21.0392933524785 105.78158377059 30 21.0392933524785 105.78158377059 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28793,7 +28757,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392933524785 105.781428335404 0 21.0392089440218 105.781428335404 0 21.0392089440218 105.781428335404 5 21.0392933524785 105.781428335404 5 21.0392933524785 105.781428335404 0</gml:posList>
+<gml:posList>21.0392933524785 105.781428335404 0 21.0392089440218 105.781428335404 0 21.0392089440218 105.781428335404 30 21.0392933524785 105.781428335404 30 21.0392933524785 105.781428335404 0</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28802,7 +28766,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392089440218 105.781428335404 5 21.0392087076341 105.781576138678 5 21.0391259023911 105.781579707869 5 21.039128043906 105.78164680867 5 21.0392105534362 105.781645198286 5 21.0392104876467 105.781767102699 5 21.0391281574612 105.78176818052 5 21.0391265943078 105.781835057473 5 21.0392037107659 105.78183319185 5 21.0392029069842 105.782001448912 5 21.0392933524785 105.78200344559 5 21.0392957959069 105.781835809257 5 21.0393468797924 105.781835057473 5 21.0393471922648 105.781582777374 5 21.0392933524785 105.78158377059 5 21.0392933524785 105.781428335404 5 21.0392089440218 105.781428335404 5</gml:posList>
+<gml:posList>21.0392089440218 105.781428335404 30 21.0392087076341 105.781576138678 30 21.0391259023911 105.781579707869 30 21.039128043906 105.78164680867 30 21.0392105534362 105.781645198286 30 21.0392104876467 105.781767102699 30 21.0391281574612 105.78176818052 30 21.0391265943078 105.781835057473 30 21.0392037107659 105.78183319185 30 21.0392029069842 105.782001448912 30 21.0392933524785 105.78200344559 30 21.0392957959069 105.781835809257 30 21.0393468797924 105.781835057473 30 21.0393471922648 105.781582777374 30 21.0392933524785 105.78158377059 30 21.0392933524785 105.781428335404 30 21.0392089440218 105.781428335404 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -28816,7 +28780,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="7fb5bced-2bad-4cf2-b433-b9c7393fbbef">
+<bldg:Building gml:id="f0a991af-41b4-4a70-b0ff-3b6938b74a25">
 <gen:intAttribute name="height">
 <gen:value>0</gen:value>
 </gen:intAttribute>
@@ -28827,7 +28791,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -28841,7 +28805,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -28876,7 +28840,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -28911,7 +28875,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -28946,7 +28910,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -28981,7 +28945,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -29016,7 +28980,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -29051,7 +29015,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -29086,7 +29050,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -29121,7 +29085,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -29156,7 +29120,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -29191,7 +29155,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -29226,7 +29190,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -29261,7 +29225,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -29296,7 +29260,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -29331,7 +29295,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -29366,7 +29330,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -29401,7 +29365,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -29436,7 +29400,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -29471,7 +29435,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -29506,7 +29470,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -29541,7 +29505,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -29576,7 +29540,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -29611,7 +29575,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -29646,7 +29610,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -29681,7 +29645,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -29831,7 +29795,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>7fb5bced-2bad-4cf2-b433-b9c7393fbbef</gen:value>
+<gen:value>f0a991af-41b4-4a70-b0ff-3b6938b74a25</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -29972,7 +29936,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="8ed41e3a-3991-40f2-be94-81d503f65375">
+<bldg:Building gml:id="e85c1f76-dcdd-4e62-a489-83b46b3cf302">
 <gen:intAttribute name="height">
 <gen:value>0</gen:value>
 </gen:intAttribute>
@@ -29983,7 +29947,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -29997,7 +29961,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30032,7 +29996,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30067,7 +30031,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30102,7 +30066,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30137,7 +30101,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30172,7 +30136,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30207,7 +30171,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30242,7 +30206,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30277,7 +30241,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30312,7 +30276,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30347,7 +30311,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30382,7 +30346,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30417,7 +30381,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30452,7 +30416,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30487,7 +30451,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30522,7 +30486,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30557,7 +30521,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30592,7 +30556,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30627,7 +30591,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30662,7 +30626,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30697,7 +30661,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30732,7 +30696,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30767,7 +30731,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30802,7 +30766,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30837,7 +30801,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30872,7 +30836,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -30907,7 +30871,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -31066,7 +31030,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>8ed41e3a-3991-40f2-be94-81d503f65375</gen:value>
+<gen:value>e85c1f76-dcdd-4e62-a489-83b46b3cf302</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -31216,7 +31180,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="1cb77968-9714-4bf7-abef-b6092726d454">
+<bldg:Building gml:id="503424d8-9a41-4910-8f85-38fdd58fe117">
 <gen:intAttribute name="height">
 <gen:value>0</gen:value>
 </gen:intAttribute>
@@ -31227,7 +31191,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>1cb77968-9714-4bf7-abef-b6092726d454</gen:value>
+<gen:value>503424d8-9a41-4910-8f85-38fdd58fe117</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -31241,7 +31205,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>1cb77968-9714-4bf7-abef-b6092726d454</gen:value>
+<gen:value>503424d8-9a41-4910-8f85-38fdd58fe117</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -31276,7 +31240,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>1cb77968-9714-4bf7-abef-b6092726d454</gen:value>
+<gen:value>503424d8-9a41-4910-8f85-38fdd58fe117</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -31311,7 +31275,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>1cb77968-9714-4bf7-abef-b6092726d454</gen:value>
+<gen:value>503424d8-9a41-4910-8f85-38fdd58fe117</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -31346,7 +31310,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>1cb77968-9714-4bf7-abef-b6092726d454</gen:value>
+<gen:value>503424d8-9a41-4910-8f85-38fdd58fe117</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -31381,7 +31345,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>1cb77968-9714-4bf7-abef-b6092726d454</gen:value>
+<gen:value>503424d8-9a41-4910-8f85-38fdd58fe117</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -31416,7 +31380,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>1cb77968-9714-4bf7-abef-b6092726d454</gen:value>
+<gen:value>503424d8-9a41-4910-8f85-38fdd58fe117</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -31451,7 +31415,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>1cb77968-9714-4bf7-abef-b6092726d454</gen:value>
+<gen:value>503424d8-9a41-4910-8f85-38fdd58fe117</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -31486,7 +31450,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>1cb77968-9714-4bf7-abef-b6092726d454</gen:value>
+<gen:value>503424d8-9a41-4910-8f85-38fdd58fe117</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -31521,7 +31485,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>1cb77968-9714-4bf7-abef-b6092726d454</gen:value>
+<gen:value>503424d8-9a41-4910-8f85-38fdd58fe117</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -31556,7 +31520,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>1cb77968-9714-4bf7-abef-b6092726d454</gen:value>
+<gen:value>503424d8-9a41-4910-8f85-38fdd58fe117</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -31591,7 +31555,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>1cb77968-9714-4bf7-abef-b6092726d454</gen:value>
+<gen:value>503424d8-9a41-4910-8f85-38fdd58fe117</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -31626,7 +31590,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>1cb77968-9714-4bf7-abef-b6092726d454</gen:value>
+<gen:value>503424d8-9a41-4910-8f85-38fdd58fe117</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -31661,7 +31625,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>1cb77968-9714-4bf7-abef-b6092726d454</gen:value>
+<gen:value>503424d8-9a41-4910-8f85-38fdd58fe117</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -31696,7 +31660,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>1cb77968-9714-4bf7-abef-b6092726d454</gen:value>
+<gen:value>503424d8-9a41-4910-8f85-38fdd58fe117</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -31731,7 +31695,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>1cb77968-9714-4bf7-abef-b6092726d454</gen:value>
+<gen:value>503424d8-9a41-4910-8f85-38fdd58fe117</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -31836,7 +31800,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>1cb77968-9714-4bf7-abef-b6092726d454</gen:value>
+<gen:value>503424d8-9a41-4910-8f85-38fdd58fe117</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -31932,7 +31896,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="f270733c-53cb-4ffe-944a-5220ee660902">
+<bldg:Building gml:id="95d6e34a-0c01-4b06-943e-4592ac765323">
 <gen:intAttribute name="height">
 <gen:value>0</gen:value>
 </gen:intAttribute>
@@ -31943,7 +31907,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f270733c-53cb-4ffe-944a-5220ee660902</gen:value>
+<gen:value>95d6e34a-0c01-4b06-943e-4592ac765323</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -31957,7 +31921,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f270733c-53cb-4ffe-944a-5220ee660902</gen:value>
+<gen:value>95d6e34a-0c01-4b06-943e-4592ac765323</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -31992,7 +31956,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f270733c-53cb-4ffe-944a-5220ee660902</gen:value>
+<gen:value>95d6e34a-0c01-4b06-943e-4592ac765323</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -32027,7 +31991,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f270733c-53cb-4ffe-944a-5220ee660902</gen:value>
+<gen:value>95d6e34a-0c01-4b06-943e-4592ac765323</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -32062,7 +32026,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f270733c-53cb-4ffe-944a-5220ee660902</gen:value>
+<gen:value>95d6e34a-0c01-4b06-943e-4592ac765323</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -32097,7 +32061,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f270733c-53cb-4ffe-944a-5220ee660902</gen:value>
+<gen:value>95d6e34a-0c01-4b06-943e-4592ac765323</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -32132,7 +32096,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f270733c-53cb-4ffe-944a-5220ee660902</gen:value>
+<gen:value>95d6e34a-0c01-4b06-943e-4592ac765323</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -32167,7 +32131,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f270733c-53cb-4ffe-944a-5220ee660902</gen:value>
+<gen:value>95d6e34a-0c01-4b06-943e-4592ac765323</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -32202,7 +32166,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f270733c-53cb-4ffe-944a-5220ee660902</gen:value>
+<gen:value>95d6e34a-0c01-4b06-943e-4592ac765323</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -32237,7 +32201,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f270733c-53cb-4ffe-944a-5220ee660902</gen:value>
+<gen:value>95d6e34a-0c01-4b06-943e-4592ac765323</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -32315,7 +32279,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f270733c-53cb-4ffe-944a-5220ee660902</gen:value>
+<gen:value>95d6e34a-0c01-4b06-943e-4592ac765323</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -32384,7 +32348,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="edce6864-5144-46b8-80ec-06937708c776">
+<bldg:Building gml:id="fa31d4da-e80a-4f81-bbf3-f9dfc30c7a18">
 <gen:intAttribute name="height">
 <gen:value>0</gen:value>
 </gen:intAttribute>
@@ -32395,7 +32359,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>edce6864-5144-46b8-80ec-06937708c776</gen:value>
+<gen:value>fa31d4da-e80a-4f81-bbf3-f9dfc30c7a18</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -32409,7 +32373,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>edce6864-5144-46b8-80ec-06937708c776</gen:value>
+<gen:value>fa31d4da-e80a-4f81-bbf3-f9dfc30c7a18</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -32444,7 +32408,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>edce6864-5144-46b8-80ec-06937708c776</gen:value>
+<gen:value>fa31d4da-e80a-4f81-bbf3-f9dfc30c7a18</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -32479,7 +32443,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>edce6864-5144-46b8-80ec-06937708c776</gen:value>
+<gen:value>fa31d4da-e80a-4f81-bbf3-f9dfc30c7a18</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -32514,7 +32478,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>edce6864-5144-46b8-80ec-06937708c776</gen:value>
+<gen:value>fa31d4da-e80a-4f81-bbf3-f9dfc30c7a18</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -32549,7 +32513,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>edce6864-5144-46b8-80ec-06937708c776</gen:value>
+<gen:value>fa31d4da-e80a-4f81-bbf3-f9dfc30c7a18</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -32584,7 +32548,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>edce6864-5144-46b8-80ec-06937708c776</gen:value>
+<gen:value>fa31d4da-e80a-4f81-bbf3-f9dfc30c7a18</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -32619,7 +32583,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>edce6864-5144-46b8-80ec-06937708c776</gen:value>
+<gen:value>fa31d4da-e80a-4f81-bbf3-f9dfc30c7a18</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -32654,7 +32618,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>edce6864-5144-46b8-80ec-06937708c776</gen:value>
+<gen:value>fa31d4da-e80a-4f81-bbf3-f9dfc30c7a18</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -32689,7 +32653,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>edce6864-5144-46b8-80ec-06937708c776</gen:value>
+<gen:value>fa31d4da-e80a-4f81-bbf3-f9dfc30c7a18</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -32767,7 +32731,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>edce6864-5144-46b8-80ec-06937708c776</gen:value>
+<gen:value>fa31d4da-e80a-4f81-bbf3-f9dfc30c7a18</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -32836,7 +32800,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="f61d9622-b81d-481c-8850-1912fa1b51e2">
+<bldg:Building gml:id="088fff67-a9f4-4303-9d58-ba37909dc2a4">
 <gen:intAttribute name="height">
 <gen:value>0</gen:value>
 </gen:intAttribute>
@@ -32847,7 +32811,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f61d9622-b81d-481c-8850-1912fa1b51e2</gen:value>
+<gen:value>088fff67-a9f4-4303-9d58-ba37909dc2a4</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -32861,7 +32825,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f61d9622-b81d-481c-8850-1912fa1b51e2</gen:value>
+<gen:value>088fff67-a9f4-4303-9d58-ba37909dc2a4</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -32896,7 +32860,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f61d9622-b81d-481c-8850-1912fa1b51e2</gen:value>
+<gen:value>088fff67-a9f4-4303-9d58-ba37909dc2a4</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -32931,7 +32895,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f61d9622-b81d-481c-8850-1912fa1b51e2</gen:value>
+<gen:value>088fff67-a9f4-4303-9d58-ba37909dc2a4</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -32966,7 +32930,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f61d9622-b81d-481c-8850-1912fa1b51e2</gen:value>
+<gen:value>088fff67-a9f4-4303-9d58-ba37909dc2a4</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33001,7 +32965,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f61d9622-b81d-481c-8850-1912fa1b51e2</gen:value>
+<gen:value>088fff67-a9f4-4303-9d58-ba37909dc2a4</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33036,7 +33000,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f61d9622-b81d-481c-8850-1912fa1b51e2</gen:value>
+<gen:value>088fff67-a9f4-4303-9d58-ba37909dc2a4</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33071,7 +33035,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f61d9622-b81d-481c-8850-1912fa1b51e2</gen:value>
+<gen:value>088fff67-a9f4-4303-9d58-ba37909dc2a4</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33106,7 +33070,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f61d9622-b81d-481c-8850-1912fa1b51e2</gen:value>
+<gen:value>088fff67-a9f4-4303-9d58-ba37909dc2a4</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33141,7 +33105,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f61d9622-b81d-481c-8850-1912fa1b51e2</gen:value>
+<gen:value>088fff67-a9f4-4303-9d58-ba37909dc2a4</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33176,7 +33140,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f61d9622-b81d-481c-8850-1912fa1b51e2</gen:value>
+<gen:value>088fff67-a9f4-4303-9d58-ba37909dc2a4</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33211,7 +33175,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f61d9622-b81d-481c-8850-1912fa1b51e2</gen:value>
+<gen:value>088fff67-a9f4-4303-9d58-ba37909dc2a4</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -33298,7 +33262,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>f61d9622-b81d-481c-8850-1912fa1b51e2</gen:value>
+<gen:value>088fff67-a9f4-4303-9d58-ba37909dc2a4</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -33376,7 +33340,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="131c6caf-4854-4804-a31a-d27fe03e8106">
+<bldg:Building gml:id="2d474dc6-a092-4857-954f-6981cfc5dad0">
 <gen:intAttribute name="height">
 <gen:value>0</gen:value>
 </gen:intAttribute>
@@ -33387,7 +33351,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -33401,7 +33365,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33436,7 +33400,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33471,7 +33435,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33506,7 +33470,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33541,7 +33505,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33576,7 +33540,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33611,7 +33575,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33646,7 +33610,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33681,7 +33645,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33716,7 +33680,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33751,7 +33715,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33786,7 +33750,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33821,7 +33785,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33856,7 +33820,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33891,7 +33855,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33926,7 +33890,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33961,7 +33925,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -33996,7 +33960,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -34031,7 +33995,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -34066,7 +34030,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -34101,7 +34065,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -34233,7 +34197,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>131c6caf-4854-4804-a31a-d27fe03e8106</gen:value>
+<gen:value>2d474dc6-a092-4857-954f-6981cfc5dad0</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -34356,7 +34320,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="0345a355-66b5-4917-9b91-4245517ca98a">
+<bldg:Building gml:id="4444fa39-b080-41d0-91ef-9fd0c9dec80f">
 <gen:intAttribute name="height">
 <gen:value>0</gen:value>
 </gen:intAttribute>
@@ -34367,7 +34331,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -34381,7 +34345,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -34416,7 +34380,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -34451,7 +34415,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -34486,7 +34450,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -34521,7 +34485,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -34556,7 +34520,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -34591,7 +34555,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -34626,7 +34590,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -34661,7 +34625,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -34696,7 +34660,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -34731,7 +34695,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -34766,7 +34730,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -34801,7 +34765,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -34836,7 +34800,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -34871,7 +34835,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -34906,7 +34870,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -34941,7 +34905,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -34976,7 +34940,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -35011,7 +34975,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -35046,7 +35010,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -35081,7 +35045,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -35116,7 +35080,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -35151,7 +35115,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -35186,7 +35150,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -35221,7 +35185,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -35256,7 +35220,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -35291,7 +35255,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -35326,7 +35290,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -35361,7 +35325,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -35529,7 +35493,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0345a355-66b5-4917-9b91-4245517ca98a</gen:value>
+<gen:value>4444fa39-b080-41d0-91ef-9fd0c9dec80f</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -35688,7 +35652,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="56826722-0f7f-407f-a06d-fd97d6834d54">
+<bldg:Building gml:id="9362dcef-a687-4422-8848-45273c0f231b">
 <gen:intAttribute name="height">
 <gen:value>0</gen:value>
 </gen:intAttribute>
@@ -35699,7 +35663,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>56826722-0f7f-407f-a06d-fd97d6834d54</gen:value>
+<gen:value>9362dcef-a687-4422-8848-45273c0f231b</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -35713,7 +35677,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>56826722-0f7f-407f-a06d-fd97d6834d54</gen:value>
+<gen:value>9362dcef-a687-4422-8848-45273c0f231b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -35748,7 +35712,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>56826722-0f7f-407f-a06d-fd97d6834d54</gen:value>
+<gen:value>9362dcef-a687-4422-8848-45273c0f231b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -35783,7 +35747,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>56826722-0f7f-407f-a06d-fd97d6834d54</gen:value>
+<gen:value>9362dcef-a687-4422-8848-45273c0f231b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -35818,7 +35782,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>56826722-0f7f-407f-a06d-fd97d6834d54</gen:value>
+<gen:value>9362dcef-a687-4422-8848-45273c0f231b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -35853,7 +35817,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>56826722-0f7f-407f-a06d-fd97d6834d54</gen:value>
+<gen:value>9362dcef-a687-4422-8848-45273c0f231b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -35888,7 +35852,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>56826722-0f7f-407f-a06d-fd97d6834d54</gen:value>
+<gen:value>9362dcef-a687-4422-8848-45273c0f231b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -35923,7 +35887,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>56826722-0f7f-407f-a06d-fd97d6834d54</gen:value>
+<gen:value>9362dcef-a687-4422-8848-45273c0f231b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -35958,7 +35922,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>56826722-0f7f-407f-a06d-fd97d6834d54</gen:value>
+<gen:value>9362dcef-a687-4422-8848-45273c0f231b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -35993,7 +35957,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>56826722-0f7f-407f-a06d-fd97d6834d54</gen:value>
+<gen:value>9362dcef-a687-4422-8848-45273c0f231b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -36028,7 +35992,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>56826722-0f7f-407f-a06d-fd97d6834d54</gen:value>
+<gen:value>9362dcef-a687-4422-8848-45273c0f231b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -36063,7 +36027,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>56826722-0f7f-407f-a06d-fd97d6834d54</gen:value>
+<gen:value>9362dcef-a687-4422-8848-45273c0f231b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -36098,7 +36062,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>56826722-0f7f-407f-a06d-fd97d6834d54</gen:value>
+<gen:value>9362dcef-a687-4422-8848-45273c0f231b</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -36133,7 +36097,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>56826722-0f7f-407f-a06d-fd97d6834d54</gen:value>
+<gen:value>9362dcef-a687-4422-8848-45273c0f231b</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -36229,7 +36193,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>56826722-0f7f-407f-a06d-fd97d6834d54</gen:value>
+<gen:value>9362dcef-a687-4422-8848-45273c0f231b</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -36316,7 +36280,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="2253c1fe-7703-4c60-881d-1dafca2a4d44">
+<bldg:Building gml:id="c444cd53-feeb-4acd-b078-62f4a17d58e8">
 <gen:intAttribute name="height">
 <gen:value>0</gen:value>
 </gen:intAttribute>
@@ -36327,7 +36291,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>2253c1fe-7703-4c60-881d-1dafca2a4d44</gen:value>
+<gen:value>c444cd53-feeb-4acd-b078-62f4a17d58e8</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -36341,7 +36305,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>2253c1fe-7703-4c60-881d-1dafca2a4d44</gen:value>
+<gen:value>c444cd53-feeb-4acd-b078-62f4a17d58e8</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -36376,7 +36340,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>2253c1fe-7703-4c60-881d-1dafca2a4d44</gen:value>
+<gen:value>c444cd53-feeb-4acd-b078-62f4a17d58e8</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -36411,7 +36375,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>2253c1fe-7703-4c60-881d-1dafca2a4d44</gen:value>
+<gen:value>c444cd53-feeb-4acd-b078-62f4a17d58e8</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -36446,7 +36410,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>2253c1fe-7703-4c60-881d-1dafca2a4d44</gen:value>
+<gen:value>c444cd53-feeb-4acd-b078-62f4a17d58e8</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -36481,7 +36445,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>2253c1fe-7703-4c60-881d-1dafca2a4d44</gen:value>
+<gen:value>c444cd53-feeb-4acd-b078-62f4a17d58e8</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -36516,7 +36480,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>2253c1fe-7703-4c60-881d-1dafca2a4d44</gen:value>
+<gen:value>c444cd53-feeb-4acd-b078-62f4a17d58e8</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -36551,7 +36515,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>2253c1fe-7703-4c60-881d-1dafca2a4d44</gen:value>
+<gen:value>c444cd53-feeb-4acd-b078-62f4a17d58e8</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -36586,7 +36550,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>2253c1fe-7703-4c60-881d-1dafca2a4d44</gen:value>
+<gen:value>c444cd53-feeb-4acd-b078-62f4a17d58e8</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -36621,7 +36585,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>2253c1fe-7703-4c60-881d-1dafca2a4d44</gen:value>
+<gen:value>c444cd53-feeb-4acd-b078-62f4a17d58e8</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -36699,7 +36663,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>2253c1fe-7703-4c60-881d-1dafca2a4d44</gen:value>
+<gen:value>c444cd53-feeb-4acd-b078-62f4a17d58e8</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -36768,7 +36732,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="12bc6621-1773-4ff1-8061-f6859e987cc7">
+<bldg:Building gml:id="9334ea2d-e36c-4d73-b68d-c2323c405687">
 <gen:intAttribute name="height">
 <gen:value>0</gen:value>
 </gen:intAttribute>
@@ -36779,7 +36743,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -36793,7 +36757,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -36828,7 +36792,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -36863,7 +36827,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -36898,7 +36862,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -36933,7 +36897,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -36968,7 +36932,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -37003,7 +36967,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -37038,7 +37002,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -37073,7 +37037,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -37108,7 +37072,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -37143,7 +37107,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -37178,7 +37142,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -37213,7 +37177,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -37248,7 +37212,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -37283,7 +37247,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -37318,7 +37282,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -37353,7 +37317,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -37388,7 +37352,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -37423,7 +37387,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -37458,7 +37422,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -37493,7 +37457,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -37528,7 +37492,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -37563,7 +37527,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -37598,7 +37562,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -37633,7 +37597,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -37783,7 +37747,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>12bc6621-1773-4ff1-8061-f6859e987cc7</gen:value>
+<gen:value>9334ea2d-e36c-4d73-b68d-c2323c405687</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -37924,7 +37888,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="6909b697-9e61-4b50-b58a-d9398b7e534f">
+<bldg:Building gml:id="835bd02d-89a3-4006-a396-aba3f57020ba">
 <gen:intAttribute name="height">
 <gen:value>0</gen:value>
 </gen:intAttribute>
@@ -37935,7 +37899,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6909b697-9e61-4b50-b58a-d9398b7e534f</gen:value>
+<gen:value>835bd02d-89a3-4006-a396-aba3f57020ba</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -37949,7 +37913,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6909b697-9e61-4b50-b58a-d9398b7e534f</gen:value>
+<gen:value>835bd02d-89a3-4006-a396-aba3f57020ba</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -37984,7 +37948,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6909b697-9e61-4b50-b58a-d9398b7e534f</gen:value>
+<gen:value>835bd02d-89a3-4006-a396-aba3f57020ba</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38019,7 +37983,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6909b697-9e61-4b50-b58a-d9398b7e534f</gen:value>
+<gen:value>835bd02d-89a3-4006-a396-aba3f57020ba</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38054,7 +38018,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6909b697-9e61-4b50-b58a-d9398b7e534f</gen:value>
+<gen:value>835bd02d-89a3-4006-a396-aba3f57020ba</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38089,7 +38053,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6909b697-9e61-4b50-b58a-d9398b7e534f</gen:value>
+<gen:value>835bd02d-89a3-4006-a396-aba3f57020ba</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38124,7 +38088,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6909b697-9e61-4b50-b58a-d9398b7e534f</gen:value>
+<gen:value>835bd02d-89a3-4006-a396-aba3f57020ba</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38159,7 +38123,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6909b697-9e61-4b50-b58a-d9398b7e534f</gen:value>
+<gen:value>835bd02d-89a3-4006-a396-aba3f57020ba</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38194,7 +38158,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6909b697-9e61-4b50-b58a-d9398b7e534f</gen:value>
+<gen:value>835bd02d-89a3-4006-a396-aba3f57020ba</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38229,7 +38193,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6909b697-9e61-4b50-b58a-d9398b7e534f</gen:value>
+<gen:value>835bd02d-89a3-4006-a396-aba3f57020ba</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38264,7 +38228,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6909b697-9e61-4b50-b58a-d9398b7e534f</gen:value>
+<gen:value>835bd02d-89a3-4006-a396-aba3f57020ba</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38299,7 +38263,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6909b697-9e61-4b50-b58a-d9398b7e534f</gen:value>
+<gen:value>835bd02d-89a3-4006-a396-aba3f57020ba</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38334,7 +38298,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6909b697-9e61-4b50-b58a-d9398b7e534f</gen:value>
+<gen:value>835bd02d-89a3-4006-a396-aba3f57020ba</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38369,7 +38333,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6909b697-9e61-4b50-b58a-d9398b7e534f</gen:value>
+<gen:value>835bd02d-89a3-4006-a396-aba3f57020ba</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -38465,7 +38429,7 @@
 <gen:value>no</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>6909b697-9e61-4b50-b58a-d9398b7e534f</gen:value>
+<gen:value>835bd02d-89a3-4006-a396-aba3f57020ba</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -38552,7 +38516,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="ad364c19-25b3-4165-a809-3c806e6ab876">
+<bldg:Building gml:id="a143566a-8875-443c-ae76-4363ccec7543">
 <gen:intAttribute name="height">
 <gen:value>16</gen:value>
 </gen:intAttribute>
@@ -38563,7 +38527,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ad364c19-25b3-4165-a809-3c806e6ab876</gen:value>
+<gen:value>a143566a-8875-443c-ae76-4363ccec7543</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -38577,7 +38541,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ad364c19-25b3-4165-a809-3c806e6ab876</gen:value>
+<gen:value>a143566a-8875-443c-ae76-4363ccec7543</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38612,7 +38576,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ad364c19-25b3-4165-a809-3c806e6ab876</gen:value>
+<gen:value>a143566a-8875-443c-ae76-4363ccec7543</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38647,7 +38611,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ad364c19-25b3-4165-a809-3c806e6ab876</gen:value>
+<gen:value>a143566a-8875-443c-ae76-4363ccec7543</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38682,7 +38646,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ad364c19-25b3-4165-a809-3c806e6ab876</gen:value>
+<gen:value>a143566a-8875-443c-ae76-4363ccec7543</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38717,7 +38681,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ad364c19-25b3-4165-a809-3c806e6ab876</gen:value>
+<gen:value>a143566a-8875-443c-ae76-4363ccec7543</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38752,7 +38716,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ad364c19-25b3-4165-a809-3c806e6ab876</gen:value>
+<gen:value>a143566a-8875-443c-ae76-4363ccec7543</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38787,7 +38751,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ad364c19-25b3-4165-a809-3c806e6ab876</gen:value>
+<gen:value>a143566a-8875-443c-ae76-4363ccec7543</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38822,7 +38786,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ad364c19-25b3-4165-a809-3c806e6ab876</gen:value>
+<gen:value>a143566a-8875-443c-ae76-4363ccec7543</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38857,7 +38821,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ad364c19-25b3-4165-a809-3c806e6ab876</gen:value>
+<gen:value>a143566a-8875-443c-ae76-4363ccec7543</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38892,7 +38856,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ad364c19-25b3-4165-a809-3c806e6ab876</gen:value>
+<gen:value>a143566a-8875-443c-ae76-4363ccec7543</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38927,7 +38891,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ad364c19-25b3-4165-a809-3c806e6ab876</gen:value>
+<gen:value>a143566a-8875-443c-ae76-4363ccec7543</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38962,7 +38926,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ad364c19-25b3-4165-a809-3c806e6ab876</gen:value>
+<gen:value>a143566a-8875-443c-ae76-4363ccec7543</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -38997,7 +38961,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ad364c19-25b3-4165-a809-3c806e6ab876</gen:value>
+<gen:value>a143566a-8875-443c-ae76-4363ccec7543</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -39093,7 +39057,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ad364c19-25b3-4165-a809-3c806e6ab876</gen:value>
+<gen:value>a143566a-8875-443c-ae76-4363ccec7543</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -39182,7 +39146,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>aea00f37-29d9-42b5-9d47-ccf4aa36f965</gen:value>
+<gen:value>a56e37fe-e246-43b9-8722-f5457802f545</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -39237,7 +39201,16 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0382449339756 105.782929678297 34 21.0383035110298 105.782991782852 30 21.0382470647309 105.782869616816 34 21.0382449339756 105.782929678297 34</gml:posList>
+<gml:posList>21.0382610873272 105.782495573692 34 21.0382470647309 105.782869616816 34 21.0383240984582 105.782437397357 30 21.0382610873272 105.782495573692 34</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0382610873272 105.782495573692 34 21.0383240984582 105.782437397357 30 21.0382026326303 105.782432216185 30 21.0382610873272 105.782495573692 34</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -39255,16 +39228,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0383240984582 105.782437397357 30 21.0382026326303 105.782432216185 30 21.0382610873272 105.782495573692 34 21.0383240984582 105.782437397357 30</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0383240984582 105.782437397357 30 21.0382610873272 105.782495573692 34 21.0382470647309 105.782869616816 34 21.0383240984582 105.782437397357 30</gml:posList>
+<gml:posList>21.0383035110298 105.782991782852 30 21.0382470647309 105.782869616816 34 21.0382449339756 105.782929678297 34 21.0383035110298 105.782991782852 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -39276,7 +39240,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="3196efe7-1b1e-4a70-aab4-11613fa5d3a6">
+<bldg:Building gml:id="705d6070-1053-4d1e-aa46-7a50aba26760">
 <gen:intAttribute name="height">
 <gen:value>16</gen:value>
 </gen:intAttribute>
@@ -39287,7 +39251,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3196efe7-1b1e-4a70-aab4-11613fa5d3a6</gen:value>
+<gen:value>705d6070-1053-4d1e-aa46-7a50aba26760</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -39301,7 +39265,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3196efe7-1b1e-4a70-aab4-11613fa5d3a6</gen:value>
+<gen:value>705d6070-1053-4d1e-aa46-7a50aba26760</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -39336,7 +39300,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3196efe7-1b1e-4a70-aab4-11613fa5d3a6</gen:value>
+<gen:value>705d6070-1053-4d1e-aa46-7a50aba26760</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -39371,7 +39335,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3196efe7-1b1e-4a70-aab4-11613fa5d3a6</gen:value>
+<gen:value>705d6070-1053-4d1e-aa46-7a50aba26760</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -39406,7 +39370,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3196efe7-1b1e-4a70-aab4-11613fa5d3a6</gen:value>
+<gen:value>705d6070-1053-4d1e-aa46-7a50aba26760</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -39441,7 +39405,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3196efe7-1b1e-4a70-aab4-11613fa5d3a6</gen:value>
+<gen:value>705d6070-1053-4d1e-aa46-7a50aba26760</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -39476,7 +39440,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3196efe7-1b1e-4a70-aab4-11613fa5d3a6</gen:value>
+<gen:value>705d6070-1053-4d1e-aa46-7a50aba26760</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -39511,7 +39475,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3196efe7-1b1e-4a70-aab4-11613fa5d3a6</gen:value>
+<gen:value>705d6070-1053-4d1e-aa46-7a50aba26760</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -39546,7 +39510,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3196efe7-1b1e-4a70-aab4-11613fa5d3a6</gen:value>
+<gen:value>705d6070-1053-4d1e-aa46-7a50aba26760</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -39581,7 +39545,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3196efe7-1b1e-4a70-aab4-11613fa5d3a6</gen:value>
+<gen:value>705d6070-1053-4d1e-aa46-7a50aba26760</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -39616,7 +39580,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3196efe7-1b1e-4a70-aab4-11613fa5d3a6</gen:value>
+<gen:value>705d6070-1053-4d1e-aa46-7a50aba26760</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -39651,7 +39615,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3196efe7-1b1e-4a70-aab4-11613fa5d3a6</gen:value>
+<gen:value>705d6070-1053-4d1e-aa46-7a50aba26760</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -39686,7 +39650,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3196efe7-1b1e-4a70-aab4-11613fa5d3a6</gen:value>
+<gen:value>705d6070-1053-4d1e-aa46-7a50aba26760</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -39721,7 +39685,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3196efe7-1b1e-4a70-aab4-11613fa5d3a6</gen:value>
+<gen:value>705d6070-1053-4d1e-aa46-7a50aba26760</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -39817,7 +39781,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>3196efe7-1b1e-4a70-aab4-11613fa5d3a6</gen:value>
+<gen:value>705d6070-1053-4d1e-aa46-7a50aba26760</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -39906,7 +39870,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>ad364c19-25b3-4165-a809-3c806e6ab876</gen:value>
+<gen:value>a143566a-8875-443c-ae76-4363ccec7543</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -39970,7 +39934,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0400020471197 105.783159491771 22 21.0400468523601 105.783197705933 16 21.0400386173888 105.783062995439 16 21.0400020471197 105.783159491771 22</gml:posList>
+<gml:posList>21.0399908295651 105.782919734253 22 21.0399927690556 105.782966752922 22 21.0400324411602 105.782964553154 16 21.0399908295651 105.782919734253 22</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -39979,7 +39943,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0400020471197 105.783159491771 22 21.0400386173888 105.783062995439 16 21.039997563054 105.783065538147 22 21.0400020471197 105.783159491771 22</gml:posList>
+<gml:posList>21.0399908295651 105.782919734253 22 21.0400324411602 105.782964553154 16 21.0400283236745 105.782879063802 16 21.0399908295651 105.782919734253 22</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -39989,6 +39953,15 @@
 <gml:exterior>
 <gml:LinearRing>
 <gml:posList>21.0400468523601 105.783197705933 16 21.0400283236745 105.782879063802 16 21.0400386173888 105.783062995439 16 21.0400468523601 105.783197705933 16</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0400468523601 105.783197705933 16 21.0400386173888 105.783062995439 16 21.0400020471197 105.783159491771 22 21.0400468523601 105.783197705933 16</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -40024,16 +39997,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0400324411602 105.782964553154 16 21.0400283236745 105.782879063802 16 21.0399908295651 105.782919734253 22 21.0400324411602 105.782964553154 16</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0400324411602 105.782964553154 16 21.0399908295651 105.782919734253 22 21.0399927690556 105.782966752922 22 21.0400324411602 105.782964553154 16</gml:posList>
+<gml:posList>21.0400386173888 105.783062995439 16 21.039997563054 105.783065538147 22 21.0400020471197 105.783159491771 22 21.0400386173888 105.783062995439 16</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -40045,7 +40009,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="756b120b-0c63-4eee-b8f5-f4a6a18f0649">
+<bldg:Building gml:id="079de241-dff6-415f-b58a-023235a7791e">
 <gen:intAttribute name="height">
 <gen:value>16</gen:value>
 </gen:intAttribute>
@@ -40056,7 +40020,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>756b120b-0c63-4eee-b8f5-f4a6a18f0649</gen:value>
+<gen:value>079de241-dff6-415f-b58a-023235a7791e</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -40070,7 +40034,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>756b120b-0c63-4eee-b8f5-f4a6a18f0649</gen:value>
+<gen:value>079de241-dff6-415f-b58a-023235a7791e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -40105,7 +40069,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>756b120b-0c63-4eee-b8f5-f4a6a18f0649</gen:value>
+<gen:value>079de241-dff6-415f-b58a-023235a7791e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -40140,7 +40104,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>756b120b-0c63-4eee-b8f5-f4a6a18f0649</gen:value>
+<gen:value>079de241-dff6-415f-b58a-023235a7791e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -40175,7 +40139,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>756b120b-0c63-4eee-b8f5-f4a6a18f0649</gen:value>
+<gen:value>079de241-dff6-415f-b58a-023235a7791e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -40210,7 +40174,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>756b120b-0c63-4eee-b8f5-f4a6a18f0649</gen:value>
+<gen:value>079de241-dff6-415f-b58a-023235a7791e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -40245,7 +40209,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>756b120b-0c63-4eee-b8f5-f4a6a18f0649</gen:value>
+<gen:value>079de241-dff6-415f-b58a-023235a7791e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -40280,7 +40244,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>756b120b-0c63-4eee-b8f5-f4a6a18f0649</gen:value>
+<gen:value>079de241-dff6-415f-b58a-023235a7791e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -40315,7 +40279,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>756b120b-0c63-4eee-b8f5-f4a6a18f0649</gen:value>
+<gen:value>079de241-dff6-415f-b58a-023235a7791e</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -40350,7 +40314,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>756b120b-0c63-4eee-b8f5-f4a6a18f0649</gen:value>
+<gen:value>079de241-dff6-415f-b58a-023235a7791e</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -40428,7 +40392,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>756b120b-0c63-4eee-b8f5-f4a6a18f0649</gen:value>
+<gen:value>079de241-dff6-415f-b58a-023235a7791e</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -40499,7 +40463,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>3196efe7-1b1e-4a70-aab4-11613fa5d3a6</gen:value>
+<gen:value>705d6070-1053-4d1e-aa46-7a50aba26760</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -40554,34 +40518,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0403679692394 105.782928721781 22 21.0403687373426 105.782973021147 22 21.0404175234597 105.782879965773 16 21.0403679692394 105.782928721781 22</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0403679692394 105.782928721781 22 21.0404175234597 105.782879965773 16 21.0403166450602 105.782877375186 16 21.0403679692394 105.782928721781 22</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0403679692394 105.782928721781 22 21.0403166450602 105.782877375186 16 21.0403190932025 105.782974356816 16 21.0403679692394 105.782928721781 22</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0403679692394 105.782928721781 22 21.0403190932025 105.782974356816 16 21.0403687373426 105.782973021147 22 21.0403679692394 105.782928721781 22</gml:posList>
+<gml:posList>21.0403717369737 105.783137589213 22 21.0404203949842 105.783184260897 16 21.0403701979046 105.783049893431 22 21.0403717369737 105.783137589213 22</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -40599,7 +40536,16 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0404203949842 105.783184260897 16 21.0403701979046 105.783049893431 22 21.0403717369737 105.783137589213 22 21.0404203949842 105.783184260897 16</gml:posList>
+<gml:posList>21.0404175234597 105.782879965773 16 21.0403166450602 105.782877375186 16 21.0403679692394 105.782928721781 22 21.0404175234597 105.782879965773 16</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0404175234597 105.782879965773 16 21.0403679692394 105.782928721781 22 21.0403687373426 105.782973021147 22 21.0404175234597 105.782879965773 16</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -40617,7 +40563,25 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
+<gml:posList>21.0403166450602 105.782877375186 16 21.0403190932025 105.782974356816 16 21.0403679692394 105.782928721781 22 21.0403166450602 105.782877375186 16</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
 <gml:posList>21.0403190932025 105.782974356816 16 21.0403701979046 105.783049893431 22 21.0403687373426 105.782973021147 22 21.0403190932025 105.782974356816 16</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0403190932025 105.782974356816 16 21.0403687373426 105.782973021147 22 21.0403679692394 105.782928721781 22 21.0403190932025 105.782974356816 16</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -40629,7 +40593,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="5477b2a6-e157-429d-aac7-9cf2f1eef231">
+<bldg:Building gml:id="77fb0894-cd71-40f3-ab75-a136de289ed4">
 <gen:intAttribute name="height">
 <gen:value>20</gen:value>
 </gen:intAttribute>
@@ -40640,7 +40604,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5477b2a6-e157-429d-aac7-9cf2f1eef231</gen:value>
+<gen:value>77fb0894-cd71-40f3-ab75-a136de289ed4</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -40654,7 +40618,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5477b2a6-e157-429d-aac7-9cf2f1eef231</gen:value>
+<gen:value>77fb0894-cd71-40f3-ab75-a136de289ed4</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -40689,7 +40653,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5477b2a6-e157-429d-aac7-9cf2f1eef231</gen:value>
+<gen:value>77fb0894-cd71-40f3-ab75-a136de289ed4</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -40724,7 +40688,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5477b2a6-e157-429d-aac7-9cf2f1eef231</gen:value>
+<gen:value>77fb0894-cd71-40f3-ab75-a136de289ed4</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -40759,7 +40723,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5477b2a6-e157-429d-aac7-9cf2f1eef231</gen:value>
+<gen:value>77fb0894-cd71-40f3-ab75-a136de289ed4</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -40794,7 +40758,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5477b2a6-e157-429d-aac7-9cf2f1eef231</gen:value>
+<gen:value>77fb0894-cd71-40f3-ab75-a136de289ed4</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -40829,7 +40793,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5477b2a6-e157-429d-aac7-9cf2f1eef231</gen:value>
+<gen:value>77fb0894-cd71-40f3-ab75-a136de289ed4</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -40864,7 +40828,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5477b2a6-e157-429d-aac7-9cf2f1eef231</gen:value>
+<gen:value>77fb0894-cd71-40f3-ab75-a136de289ed4</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -40899,7 +40863,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5477b2a6-e157-429d-aac7-9cf2f1eef231</gen:value>
+<gen:value>77fb0894-cd71-40f3-ab75-a136de289ed4</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -40934,7 +40898,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5477b2a6-e157-429d-aac7-9cf2f1eef231</gen:value>
+<gen:value>77fb0894-cd71-40f3-ab75-a136de289ed4</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -41012,7 +40976,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>5477b2a6-e157-429d-aac7-9cf2f1eef231</gen:value>
+<gen:value>77fb0894-cd71-40f3-ab75-a136de289ed4</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -41083,7 +41047,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>756b120b-0c63-4eee-b8f5-f4a6a18f0649</gen:value>
+<gen:value>079de241-dff6-415f-b58a-023235a7791e</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -41129,7 +41093,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0400845886999 105.783012265546 22 21.0402718570749 105.783006477765 22 21.0403186570248 105.782957077909 16 21.0400845886999 105.783012265546 22</gml:posList>
+<gml:posList>21.0402718570749 105.783006477765 22 21.0403186570248 105.782957077909 16 21.0400845886999 105.783012265546 22 21.0402718570749 105.783006477765 22</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -41138,7 +41102,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0400845886999 105.783012265546 22 21.0403186570248 105.782957077909 16 21.0400324411603 105.782964553154 16 21.0400845886999 105.783012265546 22</gml:posList>
+<gml:posList>21.0403186570248 105.782957077909 16 21.0400324411603 105.782964553154 16 21.0400845886999 105.783012265546 22 21.0403186570248 105.782957077909 16</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -41150,7 +41114,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="84dfbfa3-c2a7-4d39-9bcb-30deac7e0f65">
+<bldg:Building gml:id="571095fb-0d4b-4e6b-80ca-b0063d576568">
 <gen:intAttribute name="height">
 <gen:value>20</gen:value>
 </gen:intAttribute>
@@ -41161,7 +41125,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>84dfbfa3-c2a7-4d39-9bcb-30deac7e0f65</gen:value>
+<gen:value>571095fb-0d4b-4e6b-80ca-b0063d576568</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -41175,7 +41139,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>84dfbfa3-c2a7-4d39-9bcb-30deac7e0f65</gen:value>
+<gen:value>571095fb-0d4b-4e6b-80ca-b0063d576568</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -41210,7 +41174,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>84dfbfa3-c2a7-4d39-9bcb-30deac7e0f65</gen:value>
+<gen:value>571095fb-0d4b-4e6b-80ca-b0063d576568</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -41245,7 +41209,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>84dfbfa3-c2a7-4d39-9bcb-30deac7e0f65</gen:value>
+<gen:value>571095fb-0d4b-4e6b-80ca-b0063d576568</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -41280,7 +41244,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>84dfbfa3-c2a7-4d39-9bcb-30deac7e0f65</gen:value>
+<gen:value>571095fb-0d4b-4e6b-80ca-b0063d576568</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -41315,7 +41279,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>84dfbfa3-c2a7-4d39-9bcb-30deac7e0f65</gen:value>
+<gen:value>571095fb-0d4b-4e6b-80ca-b0063d576568</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -41350,7 +41314,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>84dfbfa3-c2a7-4d39-9bcb-30deac7e0f65</gen:value>
+<gen:value>571095fb-0d4b-4e6b-80ca-b0063d576568</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -41385,7 +41349,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>84dfbfa3-c2a7-4d39-9bcb-30deac7e0f65</gen:value>
+<gen:value>571095fb-0d4b-4e6b-80ca-b0063d576568</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -41420,7 +41384,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>84dfbfa3-c2a7-4d39-9bcb-30deac7e0f65</gen:value>
+<gen:value>571095fb-0d4b-4e6b-80ca-b0063d576568</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -41455,7 +41419,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>84dfbfa3-c2a7-4d39-9bcb-30deac7e0f65</gen:value>
+<gen:value>571095fb-0d4b-4e6b-80ca-b0063d576568</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -41533,7 +41497,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>84dfbfa3-c2a7-4d39-9bcb-30deac7e0f65</gen:value>
+<gen:value>571095fb-0d4b-4e6b-80ca-b0063d576568</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -41604,7 +41568,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>5477b2a6-e157-429d-aac7-9cf2f1eef231</gen:value>
+<gen:value>77fb0894-cd71-40f3-ab75-a136de289ed4</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -41650,7 +41614,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0372992065436 105.78276226266 24 21.0373881091975 105.782761944243 24 21.0372428446039 105.782702903925 20 21.0372992065436 105.78276226266 24</gml:posList>
+<gml:posList>21.0373881091975 105.782761944243 24 21.0372428446039 105.782702903925 20 21.0372992065436 105.78276226266 24 21.0373881091975 105.782761944243 24</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -41659,7 +41623,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0374507776313 105.782702903925 20 21.0372428446039 105.782702903925 20 21.0373881091975 105.782761944243 24 21.0374507776313 105.782702903925 20</gml:posList>
+<gml:posList>21.0373881091975 105.782761944243 24 21.0374507776313 105.782702903925 20 21.0372428446039 105.782702903925 20 21.0373881091975 105.782761944243 24</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -41671,7 +41635,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="0dbdf3b8-1fb5-4ecb-b3d1-efc94532ffab">
+<bldg:Building gml:id="44716630-2d9c-4ee7-98fa-8c9fd49f3d69">
 <gen:intAttribute name="height">
 <gen:value>32</gen:value>
 </gen:intAttribute>
@@ -41682,7 +41646,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0dbdf3b8-1fb5-4ecb-b3d1-efc94532ffab</gen:value>
+<gen:value>44716630-2d9c-4ee7-98fa-8c9fd49f3d69</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -41696,7 +41660,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0dbdf3b8-1fb5-4ecb-b3d1-efc94532ffab</gen:value>
+<gen:value>44716630-2d9c-4ee7-98fa-8c9fd49f3d69</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -41731,7 +41695,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0dbdf3b8-1fb5-4ecb-b3d1-efc94532ffab</gen:value>
+<gen:value>44716630-2d9c-4ee7-98fa-8c9fd49f3d69</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -41766,7 +41730,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0dbdf3b8-1fb5-4ecb-b3d1-efc94532ffab</gen:value>
+<gen:value>44716630-2d9c-4ee7-98fa-8c9fd49f3d69</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -41801,7 +41765,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0dbdf3b8-1fb5-4ecb-b3d1-efc94532ffab</gen:value>
+<gen:value>44716630-2d9c-4ee7-98fa-8c9fd49f3d69</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -41836,7 +41800,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0dbdf3b8-1fb5-4ecb-b3d1-efc94532ffab</gen:value>
+<gen:value>44716630-2d9c-4ee7-98fa-8c9fd49f3d69</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -41871,7 +41835,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0dbdf3b8-1fb5-4ecb-b3d1-efc94532ffab</gen:value>
+<gen:value>44716630-2d9c-4ee7-98fa-8c9fd49f3d69</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -41906,7 +41870,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0dbdf3b8-1fb5-4ecb-b3d1-efc94532ffab</gen:value>
+<gen:value>44716630-2d9c-4ee7-98fa-8c9fd49f3d69</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -41941,7 +41905,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0dbdf3b8-1fb5-4ecb-b3d1-efc94532ffab</gen:value>
+<gen:value>44716630-2d9c-4ee7-98fa-8c9fd49f3d69</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -41976,7 +41940,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0dbdf3b8-1fb5-4ecb-b3d1-efc94532ffab</gen:value>
+<gen:value>44716630-2d9c-4ee7-98fa-8c9fd49f3d69</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -42054,7 +42018,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>0dbdf3b8-1fb5-4ecb-b3d1-efc94532ffab</gen:value>
+<gen:value>44716630-2d9c-4ee7-98fa-8c9fd49f3d69</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -42125,7 +42089,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>84dfbfa3-c2a7-4d39-9bcb-30deac7e0f65</gen:value>
+<gen:value>571095fb-0d4b-4e6b-80ca-b0063d576568</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -42171,7 +42135,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0372564234138 105.782455360889 24 21.0373867512458 105.782455110181 24 21.0371831410613 105.782381671209 20 21.0372564234138 105.782455360889 24</gml:posList>
+<gml:posList>21.0373867512458 105.782455110181 24 21.0371831410613 105.782381671209 20 21.0372564234138 105.782455360889 24 21.0373867512458 105.782455110181 24</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -42180,7 +42144,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0374591086135 105.782383200891 20 21.0371831410613 105.782381671209 20 21.0373867512458 105.782455110181 24 21.0374591086135 105.782383200891 20</gml:posList>
+<gml:posList>21.0373867512458 105.782455110181 24 21.0374591086135 105.782383200891 20 21.0371831410613 105.782381671209 20 21.0373867512458 105.782455110181 24</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -42192,7 +42156,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="c57a6a14-998e-45cb-8efc-52593151922d">
+<bldg:Building gml:id="0c441222-3a4a-4dcf-b728-6323a1a71501">
 <gen:intAttribute name="height">
 <gen:value>45</gen:value>
 </gen:intAttribute>
@@ -42203,7 +42167,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c57a6a14-998e-45cb-8efc-52593151922d</gen:value>
+<gen:value>0c441222-3a4a-4dcf-b728-6323a1a71501</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -42217,7 +42181,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c57a6a14-998e-45cb-8efc-52593151922d</gen:value>
+<gen:value>0c441222-3a4a-4dcf-b728-6323a1a71501</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -42252,7 +42216,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c57a6a14-998e-45cb-8efc-52593151922d</gen:value>
+<gen:value>0c441222-3a4a-4dcf-b728-6323a1a71501</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -42287,7 +42251,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c57a6a14-998e-45cb-8efc-52593151922d</gen:value>
+<gen:value>0c441222-3a4a-4dcf-b728-6323a1a71501</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -42322,7 +42286,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c57a6a14-998e-45cb-8efc-52593151922d</gen:value>
+<gen:value>0c441222-3a4a-4dcf-b728-6323a1a71501</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -42357,7 +42321,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c57a6a14-998e-45cb-8efc-52593151922d</gen:value>
+<gen:value>0c441222-3a4a-4dcf-b728-6323a1a71501</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -42392,7 +42356,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c57a6a14-998e-45cb-8efc-52593151922d</gen:value>
+<gen:value>0c441222-3a4a-4dcf-b728-6323a1a71501</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -42427,7 +42391,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c57a6a14-998e-45cb-8efc-52593151922d</gen:value>
+<gen:value>0c441222-3a4a-4dcf-b728-6323a1a71501</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -42462,7 +42426,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c57a6a14-998e-45cb-8efc-52593151922d</gen:value>
+<gen:value>0c441222-3a4a-4dcf-b728-6323a1a71501</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -42497,7 +42461,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c57a6a14-998e-45cb-8efc-52593151922d</gen:value>
+<gen:value>0c441222-3a4a-4dcf-b728-6323a1a71501</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -42532,7 +42496,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c57a6a14-998e-45cb-8efc-52593151922d</gen:value>
+<gen:value>0c441222-3a4a-4dcf-b728-6323a1a71501</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -42567,7 +42531,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c57a6a14-998e-45cb-8efc-52593151922d</gen:value>
+<gen:value>0c441222-3a4a-4dcf-b728-6323a1a71501</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -42654,7 +42618,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c57a6a14-998e-45cb-8efc-52593151922d</gen:value>
+<gen:value>0c441222-3a4a-4dcf-b728-6323a1a71501</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -42732,7 +42696,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="48751f04-1e0d-4803-a91f-dc39858a3c86">
+<bldg:Building gml:id="e4a0c6fa-5e38-4632-b865-4a70aa48c9e1">
 <gen:intAttribute name="height">
 <gen:value>45</gen:value>
 </gen:intAttribute>
@@ -42743,7 +42707,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>48751f04-1e0d-4803-a91f-dc39858a3c86</gen:value>
+<gen:value>e4a0c6fa-5e38-4632-b865-4a70aa48c9e1</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -42757,7 +42721,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>48751f04-1e0d-4803-a91f-dc39858a3c86</gen:value>
+<gen:value>e4a0c6fa-5e38-4632-b865-4a70aa48c9e1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -42792,7 +42756,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>48751f04-1e0d-4803-a91f-dc39858a3c86</gen:value>
+<gen:value>e4a0c6fa-5e38-4632-b865-4a70aa48c9e1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -42827,7 +42791,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>48751f04-1e0d-4803-a91f-dc39858a3c86</gen:value>
+<gen:value>e4a0c6fa-5e38-4632-b865-4a70aa48c9e1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -42862,7 +42826,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>48751f04-1e0d-4803-a91f-dc39858a3c86</gen:value>
+<gen:value>e4a0c6fa-5e38-4632-b865-4a70aa48c9e1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -42897,7 +42861,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>48751f04-1e0d-4803-a91f-dc39858a3c86</gen:value>
+<gen:value>e4a0c6fa-5e38-4632-b865-4a70aa48c9e1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -42932,7 +42896,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>48751f04-1e0d-4803-a91f-dc39858a3c86</gen:value>
+<gen:value>e4a0c6fa-5e38-4632-b865-4a70aa48c9e1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -42967,7 +42931,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>48751f04-1e0d-4803-a91f-dc39858a3c86</gen:value>
+<gen:value>e4a0c6fa-5e38-4632-b865-4a70aa48c9e1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -43002,7 +42966,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>48751f04-1e0d-4803-a91f-dc39858a3c86</gen:value>
+<gen:value>e4a0c6fa-5e38-4632-b865-4a70aa48c9e1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -43037,7 +43001,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>48751f04-1e0d-4803-a91f-dc39858a3c86</gen:value>
+<gen:value>e4a0c6fa-5e38-4632-b865-4a70aa48c9e1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -43072,7 +43036,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>48751f04-1e0d-4803-a91f-dc39858a3c86</gen:value>
+<gen:value>e4a0c6fa-5e38-4632-b865-4a70aa48c9e1</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -43107,7 +43071,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>48751f04-1e0d-4803-a91f-dc39858a3c86</gen:value>
+<gen:value>e4a0c6fa-5e38-4632-b865-4a70aa48c9e1</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -43194,7 +43158,7 @@
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>48751f04-1e0d-4803-a91f-dc39858a3c86</gen:value>
+<gen:value>e4a0c6fa-5e38-4632-b865-4a70aa48c9e1</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -43272,7 +43236,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="e54b52be-9014-4181-a695-aab0c5f6e963">
+<bldg:Building gml:id="a196e6c2-1a53-41be-bc00-298a19eb12a6">
 <gen:intAttribute name="height">
 <gen:value>45</gen:value>
 </gen:intAttribute>
@@ -43283,7 +43247,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e54b52be-9014-4181-a695-aab0c5f6e963</gen:value>
+<gen:value>a196e6c2-1a53-41be-bc00-298a19eb12a6</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -43297,7 +43261,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e54b52be-9014-4181-a695-aab0c5f6e963</gen:value>
+<gen:value>a196e6c2-1a53-41be-bc00-298a19eb12a6</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -43332,7 +43296,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e54b52be-9014-4181-a695-aab0c5f6e963</gen:value>
+<gen:value>a196e6c2-1a53-41be-bc00-298a19eb12a6</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -43367,7 +43331,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e54b52be-9014-4181-a695-aab0c5f6e963</gen:value>
+<gen:value>a196e6c2-1a53-41be-bc00-298a19eb12a6</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -43402,7 +43366,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e54b52be-9014-4181-a695-aab0c5f6e963</gen:value>
+<gen:value>a196e6c2-1a53-41be-bc00-298a19eb12a6</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -43437,7 +43401,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e54b52be-9014-4181-a695-aab0c5f6e963</gen:value>
+<gen:value>a196e6c2-1a53-41be-bc00-298a19eb12a6</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -43472,7 +43436,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e54b52be-9014-4181-a695-aab0c5f6e963</gen:value>
+<gen:value>a196e6c2-1a53-41be-bc00-298a19eb12a6</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -43507,7 +43471,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e54b52be-9014-4181-a695-aab0c5f6e963</gen:value>
+<gen:value>a196e6c2-1a53-41be-bc00-298a19eb12a6</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -43542,7 +43506,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e54b52be-9014-4181-a695-aab0c5f6e963</gen:value>
+<gen:value>a196e6c2-1a53-41be-bc00-298a19eb12a6</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -43577,7 +43541,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e54b52be-9014-4181-a695-aab0c5f6e963</gen:value>
+<gen:value>a196e6c2-1a53-41be-bc00-298a19eb12a6</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -43612,7 +43576,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e54b52be-9014-4181-a695-aab0c5f6e963</gen:value>
+<gen:value>a196e6c2-1a53-41be-bc00-298a19eb12a6</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -43647,7 +43611,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e54b52be-9014-4181-a695-aab0c5f6e963</gen:value>
+<gen:value>a196e6c2-1a53-41be-bc00-298a19eb12a6</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -43734,7 +43698,7 @@
 <gen:value>mansard</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>e54b52be-9014-4181-a695-aab0c5f6e963</gen:value>
+<gen:value>a196e6c2-1a53-41be-bc00-298a19eb12a6</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -43812,7 +43776,7 @@
 </bldg:Building>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="c2a99970-bdc2-4d20-b5c4-0b018965cd05">
+<bldg:Building gml:id="4a9e2055-ef54-4b2c-bf9b-2b9331dbd89c">
 <gen:intAttribute name="height">
 <gen:value>11</gen:value>
 </gen:intAttribute>
@@ -43823,7 +43787,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c2a99970-bdc2-4d20-b5c4-0b018965cd05</gen:value>
+<gen:value>4a9e2055-ef54-4b2c-bf9b-2b9331dbd89c</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -43837,7 +43801,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c2a99970-bdc2-4d20-b5c4-0b018965cd05</gen:value>
+<gen:value>4a9e2055-ef54-4b2c-bf9b-2b9331dbd89c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -43872,7 +43836,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c2a99970-bdc2-4d20-b5c4-0b018965cd05</gen:value>
+<gen:value>4a9e2055-ef54-4b2c-bf9b-2b9331dbd89c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -43907,7 +43871,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c2a99970-bdc2-4d20-b5c4-0b018965cd05</gen:value>
+<gen:value>4a9e2055-ef54-4b2c-bf9b-2b9331dbd89c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -43942,7 +43906,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c2a99970-bdc2-4d20-b5c4-0b018965cd05</gen:value>
+<gen:value>4a9e2055-ef54-4b2c-bf9b-2b9331dbd89c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -43977,7 +43941,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c2a99970-bdc2-4d20-b5c4-0b018965cd05</gen:value>
+<gen:value>4a9e2055-ef54-4b2c-bf9b-2b9331dbd89c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -44012,7 +43976,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c2a99970-bdc2-4d20-b5c4-0b018965cd05</gen:value>
+<gen:value>4a9e2055-ef54-4b2c-bf9b-2b9331dbd89c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -44047,7 +44011,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c2a99970-bdc2-4d20-b5c4-0b018965cd05</gen:value>
+<gen:value>4a9e2055-ef54-4b2c-bf9b-2b9331dbd89c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -44082,7 +44046,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c2a99970-bdc2-4d20-b5c4-0b018965cd05</gen:value>
+<gen:value>4a9e2055-ef54-4b2c-bf9b-2b9331dbd89c</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -44117,7 +44081,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c2a99970-bdc2-4d20-b5c4-0b018965cd05</gen:value>
+<gen:value>4a9e2055-ef54-4b2c-bf9b-2b9331dbd89c</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -44195,7 +44159,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>c2a99970-bdc2-4d20-b5c4-0b018965cd05</gen:value>
+<gen:value>4a9e2055-ef54-4b2c-bf9b-2b9331dbd89c</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -44266,7 +44230,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>0dbdf3b8-1fb5-4ecb-b3d1-efc94532ffab</gen:value>
+<gen:value>44716630-2d9c-4ee7-98fa-8c9fd49f3d69</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -44312,7 +44276,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0394002077642 105.783242329973 36 21.039364116739 105.783242029235 36 21.0394848155632 105.783332416427 32 21.0394002077642 105.783242329973 36</gml:posList>
+<gml:posList>21.039364116739 105.783242029235 36 21.0394848155632 105.783332416427 32 21.0394002077642 105.783242329973 36 21.039364116739 105.783242029235 36</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -44321,7 +44285,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0394002077642 105.783242329973 36 21.0394848155632 105.783332416427 32 21.0394930505345 105.783153665963 32 21.0394002077642 105.783242329973 36</gml:posList>
+<gml:posList>21.0394848155632 105.783332416427 32 21.0394930505345 105.783153665963 32 21.0394002077642 105.783242329973 36 21.0394848155632 105.783332416427 32</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -44333,7 +44297,7 @@
 </bldg:RoofSurface>
 </core:cityObjectMember>
 <core:cityObjectMember>
-<bldg:Building gml:id="ec1bf9ba-0979-4b71-b74e-94c00c5add0e">
+<bldg:Building gml:id="9d63a4c2-0f06-4726-aff0-d21e670efc19">
 <gen:intAttribute name="height">
 <gen:value>25</gen:value>
 </gen:intAttribute>
@@ -44344,7 +44308,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ec1bf9ba-0979-4b71-b74e-94c00c5add0e</gen:value>
+<gen:value>9d63a4c2-0f06-4726-aff0-d21e670efc19</gen:value>
 </gen:stringAttribute>
 <bldg:boundedBy>
 <bldg:FloorSurface>
@@ -44358,7 +44322,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ec1bf9ba-0979-4b71-b74e-94c00c5add0e</gen:value>
+<gen:value>9d63a4c2-0f06-4726-aff0-d21e670efc19</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -44393,7 +44357,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ec1bf9ba-0979-4b71-b74e-94c00c5add0e</gen:value>
+<gen:value>9d63a4c2-0f06-4726-aff0-d21e670efc19</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -44428,7 +44392,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ec1bf9ba-0979-4b71-b74e-94c00c5add0e</gen:value>
+<gen:value>9d63a4c2-0f06-4726-aff0-d21e670efc19</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -44463,7 +44427,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ec1bf9ba-0979-4b71-b74e-94c00c5add0e</gen:value>
+<gen:value>9d63a4c2-0f06-4726-aff0-d21e670efc19</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -44498,7 +44462,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ec1bf9ba-0979-4b71-b74e-94c00c5add0e</gen:value>
+<gen:value>9d63a4c2-0f06-4726-aff0-d21e670efc19</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -44533,7 +44497,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ec1bf9ba-0979-4b71-b74e-94c00c5add0e</gen:value>
+<gen:value>9d63a4c2-0f06-4726-aff0-d21e670efc19</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -44568,7 +44532,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ec1bf9ba-0979-4b71-b74e-94c00c5add0e</gen:value>
+<gen:value>9d63a4c2-0f06-4726-aff0-d21e670efc19</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -44603,7 +44567,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ec1bf9ba-0979-4b71-b74e-94c00c5add0e</gen:value>
+<gen:value>9d63a4c2-0f06-4726-aff0-d21e670efc19</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -44638,7 +44602,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ec1bf9ba-0979-4b71-b74e-94c00c5add0e</gen:value>
+<gen:value>9d63a4c2-0f06-4726-aff0-d21e670efc19</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -44716,7 +44680,7 @@
 <gen:value>hip</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_uuid">
-<gen:value>ec1bf9ba-0979-4b71-b74e-94c00c5add0e</gen:value>
+<gen:value>9d63a4c2-0f06-4726-aff0-d21e670efc19</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -44787,7 +44751,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>c2a99970-bdc2-4d20-b5c4-0b018965cd05</gen:value>
+<gen:value>4a9e2055-ef54-4b2c-bf9b-2b9331dbd89c</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -44797,7 +44761,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.037996822457 105.781353115479 11 21.0379939492577 105.781431516735 11 21.0380344641873 105.781393343577 15 21.037996822457 105.781353115479 11</gml:posList>
+<gml:posList>21.037996822457 105.781353115479 11 21.0379939492577 105.781431516735 11 21.0380469131315 105.781393671337 15 21.037996822457 105.781353115479 11</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -44806,7 +44770,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.037996822457 105.781353115479 11 21.0380344641873 105.781393343577 15 21.0380869291706 105.781355798984 11 21.037996822457 105.781353115479 11</gml:posList>
+<gml:posList>21.037996822457 105.781353115479 11 21.0380469131315 105.781393671337 15 21.0380869291706 105.781355798984 11 21.037996822457 105.781353115479 11</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -44815,7 +44779,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0380869291706 105.781355798984 11 21.0380344641873 105.781393343577 15 21.0380849636413 105.781433598763 11 21.0380869291706 105.781355798984 11</gml:posList>
+<gml:posList>21.0380869291706 105.781355798984 11 21.0380469131315 105.781393671337 15 21.0380849636413 105.781433598763 11 21.0380869291706 105.781355798984 11</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -44824,7 +44788,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0380344641873 105.781393343577 15 21.0379939492577 105.781431516735 11 21.0380849636413 105.781433598763 11 21.0380344641873 105.781393343577 15</gml:posList>
+<gml:posList>21.0380469131315 105.781393671337 15 21.0379939492577 105.781431516735 11 21.0380849636413 105.781433598763 11 21.0380469131315 105.781393671337 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -45120,13 +45084,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
+<gen:value>32</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -45140,7 +45104,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392974347607 105.781579314265 5 21.0393512105796 105.781578600427 5 21.0393512105796 105.781578600427 7 21.0392974347607 105.781579314265 7 21.0392974347607 105.781579314265 5</gml:posList>
+<gml:posList>21.0392974347607 105.781579314265 30 21.0393512105796 105.781578600427 30 21.0393512105796 105.781578600427 32 21.0392974347607 105.781579314265 32 21.0392974347607 105.781579314265 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -45152,13 +45116,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
+<gen:value>32</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -45172,7 +45136,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0393512105796 105.781578600427 5 21.0393520433909 105.78184099549 5 21.0393520433909 105.78184099549 7 21.0393512105796 105.781578600427 7 21.0393512105796 105.781578600427 5</gml:posList>
+<gml:posList>21.0393512105796 105.781578600427 30 21.0393520433909 105.78184099549 30 21.0393520433909 105.78184099549 32 21.0393512105796 105.781578600427 32 21.0393512105796 105.781578600427 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -45184,13 +45148,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
+<gen:value>32</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -45204,7 +45168,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0393520433909 105.78184099549 5 21.0392996952487 105.78184200676 5 21.0392996952487 105.78184200676 7 21.0393520433909 105.78184099549 7 21.0393520433909 105.78184099549 5</gml:posList>
+<gml:posList>21.0393520433909 105.78184099549 30 21.0392996952487 105.78184200676 30 21.0392996952487 105.78184200676 32 21.0393520433909 105.78184099549 32 21.0393520433909 105.78184099549 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -45216,13 +45180,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
+<gen:value>32</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -45236,7 +45200,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392996952487 105.78184200676 5 21.0392970778416 105.782006570284 5 21.0392970778416 105.782006570284 7 21.0392996952487 105.78184200676 7 21.0392996952487 105.78184200676 5</gml:posList>
+<gml:posList>21.0392996952487 105.78184200676 30 21.0392970778416 105.782006570284 30 21.0392970778416 105.782006570284 32 21.0392996952487 105.78184200676 32 21.0392996952487 105.78184200676 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -45248,13 +45212,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
+<gen:value>32</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -45268,7 +45232,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392970778416 105.782006570284 5 21.0391997578864 105.782003952877 5 21.0391997578864 105.782003952877 7 21.0392970778416 105.782006570284 7 21.0392970778416 105.782006570284 5</gml:posList>
+<gml:posList>21.0392970778416 105.782006570284 30 21.0391997578864 105.782003952877 30 21.0391997578864 105.782003952877 32 21.0392970778416 105.782006570284 32 21.0392970778416 105.782006570284 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -45280,13 +45244,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
+<gen:value>32</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -45300,7 +45264,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391997578864 105.782003952877 5 21.0392002337786 105.78183715266 5 21.0392002337786 105.78183715266 7 21.0391997578864 105.782003952877 7 21.0391997578864 105.782003952877 5</gml:posList>
+<gml:posList>21.0391997578864 105.782003952877 30 21.0392002337786 105.78183715266 30 21.0392002337786 105.78183715266 32 21.0391997578864 105.782003952877 32 21.0391997578864 105.782003952877 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -45312,13 +45276,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
+<gen:value>32</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -45332,7 +45296,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392002337786 105.78183715266 5 21.0391217075996 105.781838669566 5 21.0391217075996 105.781838669566 7 21.0392002337786 105.78183715266 7 21.0392002337786 105.78183715266 5</gml:posList>
+<gml:posList>21.0392002337786 105.78183715266 30 21.0391217075996 105.781838669566 30 21.0391217075996 105.781838669566 32 21.0392002337786 105.78183715266 32 21.0392002337786 105.78183715266 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -45344,13 +45308,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
+<gen:value>32</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -45364,7 +45328,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391217075996 105.781838669566 5 21.0391229568165 105.781763121679 5 21.0391229568165 105.781763121679 7 21.0391217075996 105.781838669566 7 21.0391217075996 105.781838669566 5</gml:posList>
+<gml:posList>21.0391217075996 105.781838669566 30 21.0391229568165 105.781763121679 30 21.0391229568165 105.781763121679 32 21.0391217075996 105.781838669566 32 21.0391217075996 105.781838669566 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -45376,13 +45340,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
+<gen:value>32</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -45396,7 +45360,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391229568165 105.781763121679 5 21.0392047507888 105.781761337084 5 21.0392047507888 105.781761337084 7 21.0391229568165 105.781763121679 7 21.0391229568165 105.781763121679 5</gml:posList>
+<gml:posList>21.0391229568165 105.781763121679 30 21.0392047507888 105.781761337084 30 21.0392047507888 105.781761337084 32 21.0391229568165 105.781763121679 32 21.0391229568165 105.781763121679 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -45408,13 +45372,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
+<gen:value>32</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -45428,7 +45392,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392047507888 105.781761337084 5 21.0392044533561 105.781649502416 5 21.0392044533561 105.781649502416 7 21.0392047507888 105.781761337084 7 21.0392047507888 105.781761337084 5</gml:posList>
+<gml:posList>21.0392047507888 105.781761337084 30 21.0392044533561 105.781649502416 30 21.0392044533561 105.781649502416 32 21.0392047507888 105.781761337084 32 21.0392047507888 105.781761337084 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -45440,13 +45404,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
+<gen:value>32</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -45460,7 +45424,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392044533561 105.781649502416 5 21.0391250388449 105.781650097282 5 21.0391250388449 105.781650097282 7 21.0392044533561 105.781649502416 7 21.0392044533561 105.781649502416 5</gml:posList>
+<gml:posList>21.0392044533561 105.781649502416 30 21.0391250388449 105.781650097282 30 21.0391250388449 105.781650097282 32 21.0392044533561 105.781649502416 32 21.0392044533561 105.781649502416 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -45472,13 +45436,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
+<gen:value>32</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -45492,7 +45456,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391250388449 105.781650097282 5 21.0391216719076 105.781575429795 5 21.0391216719076 105.781575429795 7 21.0391250388449 105.781650097282 7 21.0391250388449 105.781650097282 5</gml:posList>
+<gml:posList>21.0391250388449 105.781650097282 30 21.0391216719076 105.781575429795 30 21.0391216719076 105.781575429795 32 21.0391250388449 105.781650097282 32 21.0391250388449 105.781650097282 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -45504,13 +45468,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
+<gen:value>32</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -45524,7 +45488,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0391216719076 105.781575429795 5 21.039204060745 105.781571860603 5 21.039204060745 105.781571860603 7 21.0391216719076 105.781575429795 7 21.0391216719076 105.781575429795 5</gml:posList>
+<gml:posList>21.0391216719076 105.781575429795 30 21.039204060745 105.781571860603 30 21.039204060745 105.781571860603 32 21.0391216719076 105.781575429795 32 21.0391216719076 105.781575429795 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -45536,13 +45500,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
+<gen:value>32</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -45556,7 +45520,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.039204060745 105.781571860603 5 21.039204060745 105.781424334021 5 21.039204060745 105.781424334021 7 21.039204060745 105.781571860603 7 21.039204060745 105.781571860603 5</gml:posList>
+<gml:posList>21.039204060745 105.781571860603 30 21.039204060745 105.781424334021 30 21.039204060745 105.781424334021 32 21.039204060745 105.781571860603 32 21.039204060745 105.781571860603 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -45568,13 +45532,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
+<gen:value>32</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -45588,7 +45552,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.039204060745 105.781424334021 5 21.0392969192108 105.781424909057 5 21.0392969192108 105.781424909057 7 21.039204060745 105.781424334021 7 21.039204060745 105.781424334021 5</gml:posList>
+<gml:posList>21.039204060745 105.781424334021 30 21.0392969192108 105.781424909057 30 21.0392969192108 105.781424909057 32 21.039204060745 105.781424334021 32 21.039204060745 105.781424334021 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -45600,13 +45564,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
+<gen:value>32</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -45620,7 +45584,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392969192108 105.781424909057 5 21.0392974347607 105.781579314265 5 21.0392974347607 105.781579314265 7 21.0392969192108 105.781424909057 7 21.0392969192108 105.781424909057 5</gml:posList>
+<gml:posList>21.0392969192108 105.781424909057 30 21.0392974347607 105.781579314265 30 21.0392974347607 105.781579314265 32 21.0392969192108 105.781424909057 32 21.0392969192108 105.781424909057 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -45632,13 +45596,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
+<gen:value>32</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>5</gen:value>
+<gen:value>30</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -45646,7 +45610,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392974347607 105.781579314265 7 21.0393512105796 105.781578600427 7 21.0393520433909 105.78184099549 7 21.0392996952487 105.78184200676 7 21.0392970778416 105.782006570284 7 21.0391997578864 105.782003952877 7 21.0392002337786 105.78183715266 7 21.0391217075996 105.781838669566 7 21.0391229568165 105.781763121679 7 21.0392047507888 105.781761337084 7 21.0392044533561 105.781649502416 7 21.0391250388449 105.781650097282 7 21.0391216719076 105.781575429795 7 21.039204060745 105.781571860603 7 21.039204060745 105.781424334021 7 21.0392969192108 105.781424909057 7 21.0392974347607 105.781579314265 7</gml:posList>
+<gml:posList>21.0392974347607 105.781579314265 32 21.0393512105796 105.781578600427 32 21.0393520433909 105.78184099549 32 21.0392996952487 105.78184200676 32 21.0392970778416 105.782006570284 32 21.0391997578864 105.782003952877 32 21.0392002337786 105.78183715266 32 21.0391217075996 105.781838669566 32 21.0391229568165 105.781763121679 32 21.0392047507888 105.781761337084 32 21.0392044533561 105.781649502416 32 21.0391250388449 105.781650097282 32 21.0391216719076 105.781575429795 32 21.039204060745 105.781571860603 32 21.039204060745 105.781424334021 32 21.0392969192108 105.781424909057 32 21.0392974347607 105.781579314265 32</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -46068,13 +46032,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
+<gen:value>14</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>4</gen:value>
+<gen:value>12</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -46088,1051 +46052,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0392291640588 105.782148580481 4 21.0393073888394 105.782148877914 4 21.0393073888394 105.782148877914 7 21.0392291640588 105.782148580481 7 21.0392291640588 105.782148580481 4</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>4</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0393073888394 105.782148877914 4 21.039304553315 105.782255795029 4 21.039304553315 105.782255795029 7 21.0393073888394 105.782148877914 7 21.0393073888394 105.782148877914 4</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>4</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.039304553315 105.782255795029 4 21.0392702890765 105.782256461277 4 21.0392702890765 105.782256461277 7 21.039304553315 105.782255795029 7 21.039304553315 105.782255795029 4</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>4</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0392702890765 105.782256461277 4 21.0392699321574 105.782342835712 4 21.0392699321574 105.782342835712 7 21.0392702890765 105.782256461277 7 21.0392702890765 105.782256461277 4</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>4</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0392699321574 105.782342835712 4 21.0391503642416 105.782343906469 4 21.0391503642416 105.782343906469 7 21.0392699321574 105.782342835712 7 21.0392699321574 105.782342835712 4</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>4</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0391503642416 105.782343906469 4 21.03915107808 105.78230143309 4 21.03915107808 105.78230143309 7 21.0391503642416 105.782343906469 7 21.0391503642416 105.782343906469 4</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>4</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.03915107808 105.78230143309 4 21.0390841557391 105.78230143309 4 21.0390841557391 105.78230143309 7 21.03915107808 105.78230143309 7 21.03915107808 105.78230143309 4</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>4</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0390841557391 105.78230143309 4 21.03908379882 105.782146887098 4 21.03908379882 105.782146887098 7 21.0390841557391 105.78230143309 7 21.0390841557391 105.78230143309 4</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>4</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.03908379882 105.782146887098 4 21.0391187768968 105.782146887098 4 21.0391187768968 105.782146887098 7 21.03908379882 105.782146887098 7 21.03908379882 105.782146887098 4</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>4</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0391187768968 105.782146887098 4 21.0391234168458 105.782101915285 4 21.0391234168458 105.782101915285 7 21.0391187768968 105.782146887098 7 21.0391187768968 105.782146887098 4</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>4</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0391234168458 105.782101915285 4 21.0392283510762 105.782102629123 4 21.0392283510762 105.782102629123 7 21.0391234168458 105.782101915285 7 21.0391234168458 105.782101915285 4</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>4</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0392283510762 105.782102629123 4 21.0392291640588 105.782148580481 4 21.0392291640588 105.782148580481 7 21.0392283510762 105.782102629123 7 21.0392283510762 105.782102629123 4</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>7</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>4</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0392291640588 105.782148580481 7 21.0393073888394 105.782148877914 7 21.039304553315 105.782255795029 7 21.0392702890765 105.782256461277 7 21.0392699321574 105.782342835712 7 21.0391503642416 105.782343906469 7 21.03915107808 105.78230143309 7 21.0390841557391 105.78230143309 7 21.03908379882 105.782146887098 7 21.0391187768968 105.782146887098 7 21.0391234168458 105.782101915285 7 21.0392283510762 105.782102629123 7 21.0392291640588 105.782148580481 7</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0388819907832 105.781855474508 8 21.0389567058589 105.781859281646 8 21.0389567058589 105.781859281646 10 21.0388819907832 105.781855474508 10 21.0388819907832 105.781855474508 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0389567058589 105.781859281646 8 21.0389561109936 105.781896579697 8 21.0389561109936 105.781896579697 10 21.0389567058589 105.781859281646 10 21.0389567058589 105.781859281646 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0389561109936 105.781896579697 8 21.0389987628321 105.781900327348 8 21.0389987628321 105.781900327348 10 21.0389561109936 105.781896579697 10 21.0389561109936 105.781896579697 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0389987628321 105.781900327348 8 21.0389987628321 105.781936019264 8 21.0389987628321 105.781936019264 10 21.0389987628321 105.781900327348 10 21.0389987628321 105.781900327348 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0389987628321 105.781936019264 8 21.0390769281263 105.781936911561 8 21.0390769281263 105.781936911561 10 21.0389987628321 105.781936019264 10 21.0389987628321 105.781936019264 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0390769281263 105.781936911561 8 21.0390718717717 105.782089197066 8 21.0390718717717 105.782089197066 10 21.0390769281263 105.781936911561 10 21.0390769281263 105.781936911561 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0390718717717 105.782089197066 8 21.039030231204 105.78208622274 8 21.039030231204 105.78208622274 10 21.0390718717717 105.782089197066 10 21.0390718717717 105.782089197066 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.039030231204 105.78208622274 8 21.0390275543103 105.782174976635 8 21.0390275543103 105.782174976635 10 21.039030231204 105.78208622274 10 21.039030231204 105.78208622274 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0390275543103 105.782174976635 8 21.0389172960358 105.782177356096 8 21.0389172960358 105.782177356096 10 21.0390275543103 105.782174976635 10 21.0390275543103 105.782174976635 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0389172960358 105.782177356096 8 21.0389153924671 105.782111623486 8 21.0389153924671 105.782111623486 10 21.0389172960358 105.782177356096 10 21.0389172960358 105.782177356096 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0389153924671 105.782111623486 8 21.0388723765709 105.782111575897 8 21.0388723765709 105.782111575897 10 21.0389153924671 105.782111623486 10 21.0389153924671 105.782111623486 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0388723765709 105.782111575897 8 21.0388726145171 105.782179005063 8 21.0388726145171 105.782179005063 10 21.0388723765709 105.782111575897 10 21.0388723765709 105.782111575897 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0388726145171 105.782179005063 8 21.0387592688919 105.782184715769 8 21.0387592688919 105.782184715769 10 21.0388726145171 105.782179005063 10 21.0388726145171 105.782179005063 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0387592688919 105.782184715769 8 21.0387589714592 105.782078829754 8 21.0387589714592 105.782078829754 10 21.0387592688919 105.782184715769 10 21.0387592688919 105.782184715769 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0387589714592 105.782078829754 8 21.0386901455497 105.782076152861 8 21.0386901455497 105.782076152861 10 21.0387589714592 105.782078829754 10 21.0387589714592 105.782078829754 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0386901455497 105.782076152861 8 21.0386943096065 105.781914527972 8 21.0386943096065 105.781914527972 10 21.0386901455497 105.782076152861 10 21.0386901455497 105.782076152861 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0386943096065 105.781914527972 8 21.0388460002457 105.781921963787 8 21.0388460002457 105.781921963787 10 21.0386943096065 105.781914527972 10 21.0386943096065 105.781914527972 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0388460002457 105.781921963787 8 21.0388455243535 105.781993347618 8 21.0388455243535 105.781993347618 10 21.0388460002457 105.781921963787 10 21.0388460002457 105.781921963787 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0388455243535 105.781993347618 8 21.0388775122411 105.781993585564 8 21.0388775122411 105.781993585564 10 21.0388455243535 105.781993347618 10 21.0388455243535 105.781993347618 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0388775122411 105.781993585564 8 21.0388819907832 105.781855474508 8 21.0388819907832 105.781855474508 10 21.0388775122411 105.781993585564 10 21.0388775122411 105.781993585564 8</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0388819907832 105.781855474508 10 21.0389567058589 105.781859281646 10 21.0389561109936 105.781896579697 10 21.0389987628321 105.781900327348 10 21.0389987628321 105.781936019264 10 21.0390769281263 105.781936911561 10 21.0390718717717 105.782089197066 10 21.039030231204 105.78208622274 10 21.0390275543103 105.782174976635 10 21.0389172960358 105.782177356096 10 21.0389153924671 105.782111623486 10 21.0388723765709 105.782111575897 10 21.0388726145171 105.782179005063 10 21.0387592688919 105.782184715769 10 21.0387589714592 105.782078829754 10 21.0386901455497 105.782076152861 10 21.0386943096065 105.781914527972 10 21.0388460002457 105.781921963787 10 21.0388455243535 105.781993347618 10 21.0388775122411 105.781993585564 10 21.0388819907832 105.781855474508 10</gml:posList>
+<gml:posList>21.0392291640588 105.782148580481 12 21.0393073888394 105.782148877914 12 21.0393073888394 105.782148877914 14 21.0392291640588 105.782148580481 14 21.0392291640588 105.782148580481 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47164,7 +46084,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387086418932 105.782126091798 12 21.0387086418932 105.782211752395 12 21.0387086418932 105.782211752395 14 21.0387086418932 105.782126091798 14 21.0387086418932 105.782126091798 12</gml:posList>
+<gml:posList>21.0393073888394 105.782148877914 12 21.039304553315 105.782255795029 12 21.039304553315 105.782255795029 14 21.0393073888394 105.782148877914 14 21.0393073888394 105.782148877914 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47196,7 +46116,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387086418932 105.782211752395 12 21.0387467132694 105.782213180071 12 21.0387467132694 105.782213180071 14 21.0387086418932 105.782211752395 14 21.0387086418932 105.782211752395 12</gml:posList>
+<gml:posList>21.039304553315 105.782255795029 12 21.0392702890765 105.782256461277 12 21.0392702890765 105.782256461277 14 21.039304553315 105.782255795029 14 21.039304553315 105.782255795029 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47228,7 +46148,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387467132694 105.782213180071 12 21.0387450476466 105.782342099269 12 21.0387450476466 105.782342099269 14 21.0387467132694 105.782213180071 14 21.0387467132694 105.782213180071 12</gml:posList>
+<gml:posList>21.0392702890765 105.782256461277 12 21.0392699321574 105.782342835712 12 21.0392699321574 105.782342835712 14 21.0392702890765 105.782256461277 14 21.0392702890765 105.782256461277 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47260,7 +46180,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387450476466 105.782342099269 12 21.0386700946248 105.782340314673 12 21.0386700946248 105.782340314673 14 21.0387450476466 105.782342099269 14 21.0387450476466 105.782342099269 12</gml:posList>
+<gml:posList>21.0392699321574 105.782342835712 12 21.0391503642416 105.782343906469 12 21.0391503642416 105.782343906469 14 21.0392699321574 105.782342835712 14 21.0392699321574 105.782342835712 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47292,7 +46212,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386700946248 105.782340314673 12 21.0386700946248 105.782360302145 12 21.0386700946248 105.782360302145 14 21.0386700946248 105.782340314673 14 21.0386700946248 105.782340314673 12</gml:posList>
+<gml:posList>21.0391503642416 105.782343906469 12 21.03915107808 105.78230143309 12 21.03915107808 105.78230143309 14 21.0391503642416 105.782343906469 14 21.0391503642416 105.782343906469 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47324,7 +46244,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386700946248 105.782360302145 12 21.038560663213 105.782362086741 12 21.038560663213 105.782362086741 14 21.0386700946248 105.782360302145 14 21.0386700946248 105.782360302145 12</gml:posList>
+<gml:posList>21.03915107808 105.78230143309 12 21.0390841557391 105.78230143309 12 21.0390841557391 105.78230143309 14 21.03915107808 105.78230143309 14 21.03915107808 105.78230143309 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47356,7 +46276,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038560663213 105.782362086741 12 21.0385603062938 105.782297127456 12 21.0385603062938 105.782297127456 14 21.038560663213 105.782362086741 14 21.038560663213 105.782362086741 12</gml:posList>
+<gml:posList>21.0390841557391 105.78230143309 12 21.03908379882 105.782146887098 12 21.03908379882 105.782146887098 14 21.0390841557391 105.78230143309 14 21.0390841557391 105.78230143309 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47388,7 +46308,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385603062938 105.782297127456 12 21.0385228297829 105.78229534286 12 21.0385228297829 105.78229534286 14 21.0385603062938 105.782297127456 14 21.0385603062938 105.782297127456 12</gml:posList>
+<gml:posList>21.03908379882 105.782146887098 12 21.0391187768968 105.782146887098 12 21.0391187768968 105.782146887098 14 21.03908379882 105.782146887098 14 21.03908379882 105.782146887098 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47420,7 +46340,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385228297829 105.78229534286 12 21.0385274697319 105.782163996612 12 21.0385274697319 105.782163996612 14 21.0385228297829 105.78229534286 14 21.0385228297829 105.78229534286 12</gml:posList>
+<gml:posList>21.0391187768968 105.782146887098 12 21.0391234168458 105.782101915285 12 21.0391234168458 105.782101915285 14 21.0391187768968 105.782146887098 14 21.0391187768968 105.782146887098 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47452,7 +46372,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385274697319 105.782163996612 12 21.0385881459876 105.782165781208 12 21.0385881459876 105.782165781208 14 21.0385274697319 105.782163996612 14 21.0385274697319 105.782163996612 12</gml:posList>
+<gml:posList>21.0391234168458 105.782101915285 12 21.0392283510762 105.782102629123 12 21.0392283510762 105.782102629123 14 21.0391234168458 105.782101915285 14 21.0391234168458 105.782101915285 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47484,39 +46404,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385881459876 105.782165781208 12 21.0385893238209 105.782124093051 12 21.0385893238209 105.782124093051 14 21.0385881459876 105.782165781208 14 21.0385881459876 105.782165781208 12</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="roof_h">
-<gen:value>14</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="roof_t">
-<gen:value>flat</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="wall_h">
-<gen:value>12</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_chopped">
-<gen:value>yes</gen:value>
-</gen:stringAttribute>
-<gen:stringAttribute name="_remnant">
-<gen:value>no</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0385893238209 105.782124093051 12 21.0387086418932 105.782126091798 12 21.0387086418932 105.782126091798 14 21.0385893238209 105.782124093051 14 21.0385893238209 105.782124093051 12</gml:posList>
+<gml:posList>21.0392283510762 105.782102629123 12 21.0392291640588 105.782148580481 12 21.0392291640588 105.782148580481 14 21.0392283510762 105.782102629123 14 21.0392283510762 105.782102629123 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47542,7 +46430,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387086418932 105.782126091798 14 21.0387086418932 105.782211752395 14 21.0387467132694 105.782213180071 14 21.0387450476466 105.782342099269 14 21.0386700946248 105.782340314673 14 21.0386700946248 105.782360302145 14 21.038560663213 105.782362086741 14 21.0385603062938 105.782297127456 14 21.0385228297829 105.78229534286 14 21.0385274697319 105.782163996612 14 21.0385881459876 105.782165781208 14 21.0385893238209 105.782124093051 14 21.0387086418932 105.782126091798 14</gml:posList>
+<gml:posList>21.0392291640588 105.782148580481 14 21.0393073888394 105.782148877914 14 21.039304553315 105.782255795029 14 21.0392702890765 105.782256461277 14 21.0392699321574 105.782342835712 14 21.0391503642416 105.782343906469 14 21.03915107808 105.78230143309 14 21.0390841557391 105.78230143309 14 21.03908379882 105.782146887098 14 21.0391187768968 105.782146887098 14 21.0391234168458 105.782101915285 14 21.0392283510762 105.782102629123 14 21.0392291640588 105.782148580481 14</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47554,13 +46442,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
+<gen:value>17</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -47574,7 +46462,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387430370021 105.781349745056 8 21.0387397057566 105.781510263495 8 21.0387397057566 105.781510263495 10 21.0387430370021 105.781349745056 10 21.0387430370021 105.781349745056 8</gml:posList>
+<gml:posList>21.0388819907832 105.781855474508 15 21.0389567058589 105.781859281646 15 21.0389567058589 105.781859281646 17 21.0388819907832 105.781855474508 17 21.0388819907832 105.781855474508 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47586,13 +46474,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
+<gen:value>17</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -47606,7 +46494,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387397057566 105.781510263495 8 21.0387767658618 105.781513689919 8 21.0387767658618 105.781513689919 10 21.0387397057566 105.781510263495 10 21.0387397057566 105.781510263495 8</gml:posList>
+<gml:posList>21.0389567058589 105.781859281646 15 21.0389561109936 105.781896579697 15 21.0389561109936 105.781896579697 17 21.0389567058589 105.781859281646 17 21.0389567058589 105.781859281646 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47618,13 +46506,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
+<gen:value>17</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -47638,7 +46526,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387767658618 105.781513689919 8 21.038774981266 105.781604347384 8 21.038774981266 105.781604347384 10 21.0387767658618 105.781513689919 10 21.0387767658618 105.781513689919 8</gml:posList>
+<gml:posList>21.0389561109936 105.781896579697 15 21.0389987628321 105.781900327348 15 21.0389987628321 105.781900327348 17 21.0389561109936 105.781896579697 17 21.0389561109936 105.781896579697 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47650,13 +46538,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
+<gen:value>17</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -47670,7 +46558,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038774981266 105.781604347384 8 21.038702943084 105.781604525843 8 21.038702943084 105.781604525843 10 21.038774981266 105.781604347384 10 21.038774981266 105.781604347384 8</gml:posList>
+<gml:posList>21.0389987628321 105.781900327348 15 21.0389987628321 105.781936019264 15 21.0389987628321 105.781936019264 17 21.0389987628321 105.781900327348 17 21.0389987628321 105.781900327348 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47682,13 +46570,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
+<gen:value>17</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -47702,7 +46590,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038702943084 105.781604525843 8 21.0387023482187 105.781671745616 8 21.0387023482187 105.781671745616 10 21.038702943084 105.781604525843 10 21.038702943084 105.781604525843 8</gml:posList>
+<gml:posList>21.0389987628321 105.781936019264 15 21.0390769281263 105.781936911561 15 21.0390769281263 105.781936911561 17 21.0389987628321 105.781936019264 17 21.0389987628321 105.781936019264 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47714,13 +46602,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
+<gen:value>17</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -47734,7 +46622,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387023482187 105.781671745616 8 21.0387437508404 105.781672280995 8 21.0387437508404 105.781672280995 10 21.0387023482187 105.781671745616 10 21.0387023482187 105.781671745616 8</gml:posList>
+<gml:posList>21.0390769281263 105.781936911561 15 21.0390718717717 105.782089197066 15 21.0390718717717 105.782089197066 17 21.0390769281263 105.781936911561 17 21.0390769281263 105.781936911561 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47746,13 +46634,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
+<gen:value>17</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -47766,7 +46654,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387437508404 105.781672280995 8 21.0387444646786 105.781762771897 8 21.0387444646786 105.781762771897 10 21.0387437508404 105.781672280995 10 21.0387437508404 105.781672280995 8</gml:posList>
+<gml:posList>21.0390718717717 105.782089197066 15 21.039030231204 105.78208622274 15 21.039030231204 105.78208622274 17 21.0390718717717 105.782089197066 17 21.0390718717717 105.782089197066 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47778,13 +46666,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
+<gen:value>17</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -47798,7 +46686,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387444646786 105.781762771897 8 21.0386479180482 105.781759202706 8 21.0386479180482 105.781759202706 10 21.0387444646786 105.781762771897 10 21.0387444646786 105.781762771897 8</gml:posList>
+<gml:posList>21.039030231204 105.78208622274 15 21.0390275543103 105.782174976635 15 21.0390275543103 105.782174976635 17 21.039030231204 105.78208622274 17 21.039030231204 105.78208622274 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47810,13 +46698,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
+<gen:value>17</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -47830,7 +46718,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386479180482 105.781759202706 8 21.0386432780993 105.781864136936 8 21.0386432780993 105.781864136936 10 21.0386479180482 105.781759202706 10 21.0386479180482 105.781759202706 8</gml:posList>
+<gml:posList>21.0390275543103 105.782174976635 15 21.0389172960358 105.782177356096 15 21.0389172960358 105.782177356096 17 21.0390275543103 105.782174976635 17 21.0390275543103 105.782174976635 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47842,13 +46730,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
+<gen:value>17</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -47862,7 +46750,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386432780993 105.781864136936 8 21.0385183563963 105.781857712391 8 21.0385183563963 105.781857712391 10 21.0386432780993 105.781864136936 10 21.0386432780993 105.781864136936 8</gml:posList>
+<gml:posList>21.0389172960358 105.782177356096 15 21.0389153924671 105.782111623486 15 21.0389153924671 105.782111623486 17 21.0389172960358 105.782177356096 17 21.0389172960358 105.782177356096 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47874,13 +46762,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
+<gen:value>17</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -47894,7 +46782,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385183563963 105.781857712391 8 21.0385219255878 105.781686177048 8 21.0385219255878 105.781686177048 10 21.0385183563963 105.781857712391 10 21.0385183563963 105.781857712391 8</gml:posList>
+<gml:posList>21.0389153924671 105.782111623486 15 21.0388723765709 105.782111575897 15 21.0388723765709 105.782111575897 17 21.0389153924671 105.782111623486 17 21.0389153924671 105.782111623486 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47906,13 +46794,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
+<gen:value>17</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -47926,7 +46814,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385219255878 105.781686177048 8 21.0385483376051 105.781687961643 8 21.0385483376051 105.781687961643 10 21.0385219255878 105.781686177048 10 21.0385219255878 105.781686177048 8</gml:posList>
+<gml:posList>21.0388723765709 105.782111575897 15 21.0388726145171 105.782179005063 15 21.0388726145171 105.782179005063 17 21.0388723765709 105.782111575897 17 21.0388723765709 105.782111575897 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47938,13 +46826,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
+<gen:value>17</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -47958,7 +46846,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385483376051 105.781687961643 8 21.0385551190688 105.781511429431 8 21.0385551190688 105.781511429431 10 21.0385483376051 105.781687961643 10 21.0385483376051 105.781687961643 8</gml:posList>
+<gml:posList>21.0388726145171 105.782179005063 15 21.0387592688919 105.782184715769 15 21.0387592688919 105.782184715769 17 21.0388726145171 105.782179005063 17 21.0388726145171 105.782179005063 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -47970,13 +46858,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
+<gen:value>17</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -47990,7 +46878,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0385551190688 105.781511429431 8 21.0386106199969 105.781512500189 8 21.0386106199969 105.781512500189 10 21.0385551190688 105.781511429431 10 21.0385551190688 105.781511429431 8</gml:posList>
+<gml:posList>21.0387592688919 105.782184715769 15 21.0387589714592 105.782078829754 15 21.0387589714592 105.782078829754 17 21.0387592688919 105.782184715769 17 21.0387592688919 105.782184715769 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -48002,13 +46890,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
+<gen:value>17</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -48022,7 +46910,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386106199969 105.781512500189 8 21.0386198998949 105.781341178996 8 21.0386198998949 105.781341178996 10 21.0386106199969 105.781512500189 10 21.0386106199969 105.781512500189 8</gml:posList>
+<gml:posList>21.0387589714592 105.782078829754 15 21.0386901455497 105.782076152861 15 21.0386901455497 105.782076152861 17 21.0387589714592 105.782078829754 17 21.0387589714592 105.782078829754 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -48034,13 +46922,13 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
+<gen:value>17</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="_chopped">
 <gen:value>yes</gen:value>
@@ -48054,7 +46942,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0386198998949 105.781341178996 8 21.0387430370021 105.781349745056 8 21.0387430370021 105.781349745056 10 21.0386198998949 105.781341178996 10 21.0386198998949 105.781341178996 8</gml:posList>
+<gml:posList>21.0386901455497 105.782076152861 15 21.0386943096065 105.781914527972 15 21.0386943096065 105.781914527972 17 21.0386901455497 105.782076152861 17 21.0386901455497 105.782076152861 15</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -48066,13 +46954,19 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>10</gen:value>
+<gen:value>17</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="wall_h">
-<gen:value>8</gen:value>
+<gen:value>15</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -48080,7 +46974,1077 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0387430370021 105.781349745056 10 21.0387397057566 105.781510263495 10 21.0387767658618 105.781513689919 10 21.038774981266 105.781604347384 10 21.038702943084 105.781604525843 10 21.0387023482187 105.781671745616 10 21.0387437508404 105.781672280995 10 21.0387444646786 105.781762771897 10 21.0386479180482 105.781759202706 10 21.0386432780993 105.781864136936 10 21.0385183563963 105.781857712391 10 21.0385219255878 105.781686177048 10 21.0385483376051 105.781687961643 10 21.0385551190688 105.781511429431 10 21.0386106199969 105.781512500189 10 21.0386198998949 105.781341178996 10 21.0387430370021 105.781349745056 10</gml:posList>
+<gml:posList>21.0386943096065 105.781914527972 15 21.0388460002457 105.781921963787 15 21.0388460002457 105.781921963787 17 21.0386943096065 105.781914527972 17 21.0386943096065 105.781914527972 15</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>17</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>15</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0388460002457 105.781921963787 15 21.0388455243535 105.781993347618 15 21.0388455243535 105.781993347618 17 21.0388460002457 105.781921963787 17 21.0388460002457 105.781921963787 15</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>17</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>15</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0388455243535 105.781993347618 15 21.0388775122411 105.781993585564 15 21.0388775122411 105.781993585564 17 21.0388455243535 105.781993347618 17 21.0388455243535 105.781993347618 15</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>17</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>15</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0388775122411 105.781993585564 15 21.0388819907832 105.781855474508 15 21.0388819907832 105.781855474508 17 21.0388775122411 105.781993585564 17 21.0388775122411 105.781993585564 15</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>17</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>15</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0388819907832 105.781855474508 17 21.0389567058589 105.781859281646 17 21.0389561109936 105.781896579697 17 21.0389987628321 105.781900327348 17 21.0389987628321 105.781936019264 17 21.0390769281263 105.781936911561 17 21.0390718717717 105.782089197066 17 21.039030231204 105.78208622274 17 21.0390275543103 105.782174976635 17 21.0389172960358 105.782177356096 17 21.0389153924671 105.782111623486 17 21.0388723765709 105.782111575897 17 21.0388726145171 105.782179005063 17 21.0387592688919 105.782184715769 17 21.0387589714592 105.782078829754 17 21.0386901455497 105.782076152861 17 21.0386943096065 105.781914527972 17 21.0388460002457 105.781921963787 17 21.0388455243535 105.781993347618 17 21.0388775122411 105.781993585564 17 21.0388819907832 105.781855474508 17</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>17</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>15</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0387086418932 105.782126091798 15 21.0387086418932 105.782211752395 15 21.0387086418932 105.782211752395 17 21.0387086418932 105.782126091798 17 21.0387086418932 105.782126091798 15</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>17</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>15</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0387086418932 105.782211752395 15 21.0387467132694 105.782213180071 15 21.0387467132694 105.782213180071 17 21.0387086418932 105.782211752395 17 21.0387086418932 105.782211752395 15</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>17</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>15</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0387467132694 105.782213180071 15 21.0387450476466 105.782342099269 15 21.0387450476466 105.782342099269 17 21.0387467132694 105.782213180071 17 21.0387467132694 105.782213180071 15</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>17</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>15</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0387450476466 105.782342099269 15 21.0386700946248 105.782340314673 15 21.0386700946248 105.782340314673 17 21.0387450476466 105.782342099269 17 21.0387450476466 105.782342099269 15</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>17</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>15</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0386700946248 105.782340314673 15 21.0386700946248 105.782360302145 15 21.0386700946248 105.782360302145 17 21.0386700946248 105.782340314673 17 21.0386700946248 105.782340314673 15</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>17</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>15</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0386700946248 105.782360302145 15 21.038560663213 105.782362086741 15 21.038560663213 105.782362086741 17 21.0386700946248 105.782360302145 17 21.0386700946248 105.782360302145 15</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>17</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>15</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.038560663213 105.782362086741 15 21.0385603062938 105.782297127456 15 21.0385603062938 105.782297127456 17 21.038560663213 105.782362086741 17 21.038560663213 105.782362086741 15</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>17</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>15</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0385603062938 105.782297127456 15 21.0385228297829 105.78229534286 15 21.0385228297829 105.78229534286 17 21.0385603062938 105.782297127456 17 21.0385603062938 105.782297127456 15</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>17</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>15</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0385228297829 105.78229534286 15 21.0385274697319 105.782163996612 15 21.0385274697319 105.782163996612 17 21.0385228297829 105.78229534286 17 21.0385228297829 105.78229534286 15</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>17</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>15</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0385274697319 105.782163996612 15 21.0385881459876 105.782165781208 15 21.0385881459876 105.782165781208 17 21.0385274697319 105.782163996612 17 21.0385274697319 105.782163996612 15</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>17</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>15</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0385881459876 105.782165781208 15 21.0385893238209 105.782124093051 15 21.0385893238209 105.782124093051 17 21.0385881459876 105.782165781208 17 21.0385881459876 105.782165781208 15</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>17</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>15</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0385893238209 105.782124093051 15 21.0387086418932 105.782126091798 15 21.0387086418932 105.782126091798 17 21.0385893238209 105.782124093051 17 21.0385893238209 105.782124093051 15</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>17</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>15</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0387086418932 105.782126091798 17 21.0387086418932 105.782211752395 17 21.0387467132694 105.782213180071 17 21.0387450476466 105.782342099269 17 21.0386700946248 105.782340314673 17 21.0386700946248 105.782360302145 17 21.038560663213 105.782362086741 17 21.0385603062938 105.782297127456 17 21.0385228297829 105.78229534286 17 21.0385274697319 105.782163996612 17 21.0385881459876 105.782165781208 17 21.0385893238209 105.782124093051 17 21.0387086418932 105.782126091798 17</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>22</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>20</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0387430370021 105.781349745056 20 21.0387397057566 105.781510263495 20 21.0387397057566 105.781510263495 22 21.0387430370021 105.781349745056 22 21.0387430370021 105.781349745056 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>22</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>20</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0387397057566 105.781510263495 20 21.0387767658618 105.781513689919 20 21.0387767658618 105.781513689919 22 21.0387397057566 105.781510263495 22 21.0387397057566 105.781510263495 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>22</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>20</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0387767658618 105.781513689919 20 21.038774981266 105.781604347384 20 21.038774981266 105.781604347384 22 21.0387767658618 105.781513689919 22 21.0387767658618 105.781513689919 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>22</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>20</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.038774981266 105.781604347384 20 21.038702943084 105.781604525843 20 21.038702943084 105.781604525843 22 21.038774981266 105.781604347384 22 21.038774981266 105.781604347384 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>22</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>20</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.038702943084 105.781604525843 20 21.0387023482187 105.781671745616 20 21.0387023482187 105.781671745616 22 21.038702943084 105.781604525843 22 21.038702943084 105.781604525843 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>22</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>20</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0387023482187 105.781671745616 20 21.0387437508404 105.781672280995 20 21.0387437508404 105.781672280995 22 21.0387023482187 105.781671745616 22 21.0387023482187 105.781671745616 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>22</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>20</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0387437508404 105.781672280995 20 21.0387444646786 105.781762771897 20 21.0387444646786 105.781762771897 22 21.0387437508404 105.781672280995 22 21.0387437508404 105.781672280995 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>22</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>20</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0387444646786 105.781762771897 20 21.0386479180482 105.781759202706 20 21.0386479180482 105.781759202706 22 21.0387444646786 105.781762771897 22 21.0387444646786 105.781762771897 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>22</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>20</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0386479180482 105.781759202706 20 21.0386432780993 105.781864136936 20 21.0386432780993 105.781864136936 22 21.0386479180482 105.781759202706 22 21.0386479180482 105.781759202706 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>22</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>20</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0386432780993 105.781864136936 20 21.0385183563963 105.781857712391 20 21.0385183563963 105.781857712391 22 21.0386432780993 105.781864136936 22 21.0386432780993 105.781864136936 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>22</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>20</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0385183563963 105.781857712391 20 21.0385219255878 105.781686177048 20 21.0385219255878 105.781686177048 22 21.0385183563963 105.781857712391 22 21.0385183563963 105.781857712391 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>22</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>20</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0385219255878 105.781686177048 20 21.0385483376051 105.781687961643 20 21.0385483376051 105.781687961643 22 21.0385219255878 105.781686177048 22 21.0385219255878 105.781686177048 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>22</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>20</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0385483376051 105.781687961643 20 21.0385551190688 105.781511429431 20 21.0385551190688 105.781511429431 22 21.0385483376051 105.781687961643 22 21.0385483376051 105.781687961643 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>22</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>20</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0385551190688 105.781511429431 20 21.0386106199969 105.781512500189 20 21.0386106199969 105.781512500189 22 21.0385551190688 105.781511429431 22 21.0385551190688 105.781511429431 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>22</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>20</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0386106199969 105.781512500189 20 21.0386198998949 105.781341178996 20 21.0386198998949 105.781341178996 22 21.0386106199969 105.781512500189 22 21.0386106199969 105.781512500189 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>22</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>20</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_chopped">
+<gen:value>yes</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="_remnant">
+<gen:value>no</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0386198998949 105.781341178996 20 21.0387430370021 105.781349745056 20 21.0387430370021 105.781349745056 22 21.0386198998949 105.781341178996 22 21.0386198998949 105.781341178996 20</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="roof_h">
+<gen:value>22</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="roof_t">
+<gen:value>flat</gen:value>
+</gen:stringAttribute>
+<gen:stringAttribute name="wall_h">
+<gen:value>20</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0387430370021 105.781349745056 22 21.0387397057566 105.781510263495 22 21.0387767658618 105.781513689919 22 21.038774981266 105.781604347384 22 21.038702943084 105.781604525843 22 21.0387023482187 105.781671745616 22 21.0387437508404 105.781672280995 22 21.0387444646786 105.781762771897 22 21.0386479180482 105.781759202706 22 21.0386432780993 105.781864136936 22 21.0385183563963 105.781857712391 22 21.0385219255878 105.781686177048 22 21.0385483376051 105.781687961643 22 21.0385551190688 105.781511429431 22 21.0386106199969 105.781512500189 22 21.0386198998949 105.781341178996 22 21.0387430370021 105.781349745056 22</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -48629,36 +48593,6 @@
 </core:cityObjectMember>
 <core:cityObjectMember>
 <bldg:RoofSurface>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:CompositeSurface>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0380780226153 105.78211992044 10 21.0380359061554 105.782120634279 10 21.0380794502917 105.78217060296 10 21.0380780226153 105.78211992044 10</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0380794502917 105.78217060296 10 21.0380359061554 105.782120634279 10 21.0380359061554 105.782172030636 10 21.0380794502917 105.78217060296 10</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:CompositeSurface>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
 <gen:value>46</gen:value>
 </gen:stringAttribute>
@@ -48814,7 +48748,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>12</gen:value>
+<gen:value>13</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
@@ -48834,7 +48768,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0381667428924 105.783642026984 12 21.0379263472287 105.783645877384 12 21.0381667428924 105.783642026984 12</gml:posList>
+<gml:posList>21.0381667428924 105.783642026984 12 21.0379263472287 105.783645877384 12 21.0379263472287 105.783645877384 13 21.0381667428924 105.783642026984 13 21.0381667428924 105.783642026984 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -48846,7 +48780,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>12</gen:value>
+<gen:value>13</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
@@ -48866,7 +48800,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0379263472287 105.783645877384 12 21.0379223347963 105.783524701849 12 21.0379263472287 105.783645877384 12</gml:posList>
+<gml:posList>21.0379263472287 105.783645877384 12 21.0379223347963 105.783524701849 12 21.0379223347963 105.783524701849 13 21.0379263472287 105.783645877384 13 21.0379263472287 105.783645877384 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -48878,7 +48812,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>12</gen:value>
+<gen:value>13</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
@@ -48898,7 +48832,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0379223347963 105.783524701849 12 21.0378910867448 105.78352655006 12 21.0379223347963 105.783524701849 12</gml:posList>
+<gml:posList>21.0379223347963 105.783524701849 12 21.0378910867448 105.78352655006 12 21.0378910867448 105.78352655006 13 21.0379223347963 105.783524701849 13 21.0379223347963 105.783524701849 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -48910,7 +48844,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>12</gen:value>
+<gen:value>13</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
@@ -48930,7 +48864,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0378910867448 105.78352655006 12 21.0378943987084 105.783273998724 12 21.0378910867448 105.78352655006 12</gml:posList>
+<gml:posList>21.0378910867448 105.78352655006 12 21.0378943987084 105.783273998724 12 21.0378943987084 105.783273998724 13 21.0378910867448 105.78352655006 13 21.0378910867448 105.78352655006 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -48942,7 +48876,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>12</gen:value>
+<gen:value>13</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
@@ -48962,7 +48896,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0378943987084 105.783273998724 12 21.0379304647145 105.783275423525 12 21.0378943987084 105.783273998724 12</gml:posList>
+<gml:posList>21.0378943987084 105.783273998724 12 21.0379304647145 105.783275423525 12 21.0379304647145 105.783275423525 13 21.0378943987084 105.783273998724 13 21.0378943987084 105.783273998724 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -48974,7 +48908,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>12</gen:value>
+<gen:value>13</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
@@ -48994,7 +48928,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0379304647145 105.783275423525 12 21.0379304647145 105.78315625655 12 21.0379304647145 105.783275423525 12</gml:posList>
+<gml:posList>21.0379304647145 105.783275423525 12 21.0379304647145 105.78315625655 12 21.0379304647145 105.78315625655 13 21.0379304647145 105.783275423525 13 21.0379304647145 105.783275423525 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -49006,7 +48940,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>12</gen:value>
+<gen:value>13</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
@@ -49026,7 +48960,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0379304647145 105.78315625655 12 21.0381713376273 105.783169209482 12 21.0379304647145 105.78315625655 12</gml:posList>
+<gml:posList>21.0379304647145 105.78315625655 12 21.0381713376273 105.783169209482 12 21.0381713376273 105.783169209482 13 21.0379304647145 105.78315625655 13 21.0379304647145 105.78315625655 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -49038,7 +48972,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>12</gen:value>
+<gen:value>13</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
@@ -49058,7 +48992,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0381713376273 105.783169209482 12 21.0381667428924 105.783642026984 12 21.0381713376273 105.783169209482 12</gml:posList>
+<gml:posList>21.0381713376273 105.783169209482 12 21.0381667428924 105.783642026984 12 21.0381667428924 105.783642026984 13 21.0381713376273 105.783169209482 13 21.0381713376273 105.783169209482 12</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -49070,7 +49004,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="roof_h">
-<gen:value>12</gen:value>
+<gen:value>13</gen:value>
 </gen:stringAttribute>
 <gen:stringAttribute name="roof_t">
 <gen:value>flat</gen:value>
@@ -49084,7 +49018,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0381667428924 105.783642026984 12 21.0379263472287 105.783645877384 12 21.0379223347963 105.783524701849 12 21.0378910867448 105.78352655006 12 21.0378943987084 105.783273998724 12 21.0379304647145 105.783275423525 12 21.0379304647145 105.78315625655 12 21.0381713376273 105.783169209482 12 21.0381667428924 105.783642026984 12</gml:posList>
+<gml:posList>21.0381667428924 105.783642026984 13 21.0379263472287 105.783645877384 13 21.0379223347963 105.783524701849 13 21.0378910867448 105.78352655006 13 21.0378943987084 105.783273998724 13 21.0379304647145 105.783275423525 13 21.0379304647145 105.78315625655 13 21.0381713376273 105.783169209482 13 21.0381667428924 105.783642026984 13</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -49782,6 +49716,75 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
+<gml:posList>21.039791078215 105.781387365511 30 21.0398863384081 105.781388794316 30 21.0399213492332 105.781389319442 36 21.039791078215 105.781387365511 30</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.039791078215 105.781387365511 30 21.0399213492332 105.781389319442 36 21.0400006925525 105.78139050951 36 21.039791078215 105.781387365511 30</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.039791078215 105.781387365511 30 21.0400006925525 105.78139050951 36 21.0400401715438 105.781391101654 35 21.039791078215 105.781387365511 30</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0398863384081 105.781388794316 30 21.0401360417574 105.781392539608 30 21.0399213492332 105.781389319442 36 21.0398863384081 105.781388794316 30</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0399213492332 105.781389319442 36 21.0401360417574 105.781392539608 30 21.0400006925525 105.78139050951 36 21.0399213492332 105.781389319442 36</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
+<gml:posList>21.0400006925525 105.78139050951 36 21.0401360417574 105.781392539608 30 21.0400401715438 105.781391101654 35 21.0400006925525 105.78139050951 36</gml:posList>
+</gml:LinearRing>
+</gml:exterior>
+</gml:Polygon>
+</gml:surfaceMember>
+</gml:CompositeSurface>
+</gml:surfaceMember>
+</gml:MultiSurface>
+</bldg:lod2MultiSurface>
+</bldg:RoofSurface>
+</core:cityObjectMember>
+<core:cityObjectMember>
+<bldg:RoofSurface>
+<gen:stringAttribute name="Id">
+<gen:value>0</gen:value>
+</gen:stringAttribute>
+<bldg:lod2MultiSurface>
+<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
+<gml:surfaceMember>
+<gml:CompositeSurface>
+<gml:surfaceMember>
+<gml:Polygon>
+<gml:exterior>
+<gml:LinearRing>
 <gml:posList>21.0397890194722 105.781651605326 30 21.0400377736663 105.781653549625 35 21.0399175280673 105.781652609768 36 21.0397890194722 105.781651605326 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
@@ -49837,75 +49840,6 @@
 <gml:exterior>
 <gml:LinearRing>
 <gml:posList>21.0399973459931 105.781653233636 36 21.0400377736663 105.781653549625 35 21.0401345436572 105.781654305993 30 21.0399973459931 105.781653233636 36</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-</gml:CompositeSurface>
-</gml:surfaceMember>
-</gml:MultiSurface>
-</bldg:lod2MultiSurface>
-</bldg:RoofSurface>
-</core:cityObjectMember>
-<core:cityObjectMember>
-<bldg:RoofSurface>
-<gen:stringAttribute name="Id">
-<gen:value>0</gen:value>
-</gen:stringAttribute>
-<bldg:lod2MultiSurface>
-<gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
-<gml:surfaceMember>
-<gml:CompositeSurface>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.039791078215 105.781387365511 30 21.0398863384081 105.781388794316 30 21.0399213492332 105.781389319442 36 21.039791078215 105.781387365511 30</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.039791078215 105.781387365511 30 21.0399213492332 105.781389319442 36 21.0400006925525 105.78139050951 36 21.039791078215 105.781387365511 30</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.039791078215 105.781387365511 30 21.0400006925525 105.78139050951 36 21.0400401715438 105.781391101654 35 21.039791078215 105.781387365511 30</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0398863384081 105.781388794316 30 21.0401360417574 105.781392539608 30 21.0399213492332 105.781389319442 36 21.0398863384081 105.781388794316 30</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0399213492332 105.781389319442 36 21.0401360417574 105.781392539608 30 21.0400006925525 105.78139050951 36 21.0399213492332 105.781389319442 36</gml:posList>
-</gml:LinearRing>
-</gml:exterior>
-</gml:Polygon>
-</gml:surfaceMember>
-<gml:surfaceMember>
-<gml:Polygon>
-<gml:exterior>
-<gml:LinearRing>
-<gml:posList>21.0400006925525 105.78139050951 36 21.0401360417574 105.781392539608 30 21.0400401715438 105.781391101654 35 21.0400006925525 105.78139050951 36</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -50085,7 +50019,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0381081902147 105.783277790952 14 21.0380070631221 105.783277790952 14 21.0380571772501 105.783328803916 17 21.0381081902147 105.783277790952 14</gml:posList>
+<gml:posList>21.0381081902147 105.783277790952 13 21.0380070631221 105.783277790952 13 21.0380571772501 105.783328803916 16 21.0381081902147 105.783277790952 13</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -50094,7 +50028,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0381081902147 105.783277790952 14 21.0380571772501 105.783328803916 17 21.0381081902147 105.783540721393 14 21.0381081902147 105.783277790952 14</gml:posList>
+<gml:posList>21.0381081902147 105.783277790952 13 21.0380571772501 105.783328803916 16 21.0381081902147 105.783540721393 13 21.0381081902147 105.783277790952 13</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -50103,7 +50037,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0381081902147 105.783540721393 14 21.0380571772501 105.783328803916 17 21.038055760974 105.783488147574 17 21.0381081902147 105.783540721393 14</gml:posList>
+<gml:posList>21.0381081902147 105.783540721393 13 21.0380571772501 105.783328803916 16 21.038055760974 105.783488147574 16 21.0381081902147 105.783540721393 13</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -50112,7 +50046,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0381081902147 105.783540721393 14 21.038055760974 105.783488147574 17 21.0380023939825 105.783540430051 14 21.0381081902147 105.783540721393 14</gml:posList>
+<gml:posList>21.0381081902147 105.783540721393 13 21.038055760974 105.783488147574 16 21.0380023939825 105.783540430051 13 21.0381081902147 105.783540721393 13</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -50121,7 +50055,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0380571772501 105.783328803916 17 21.0380070631221 105.783277790952 14 21.038055760974 105.783488147574 17 21.0380571772501 105.783328803916 17</gml:posList>
+<gml:posList>21.0380571772501 105.783328803916 16 21.0380070631221 105.783277790952 13 21.038055760974 105.783488147574 16 21.0380571772501 105.783328803916 16</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -50130,7 +50064,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0380070631221 105.783277790952 14 21.0380023939825 105.783540430051 14 21.038055760974 105.783488147574 17 21.0380070631221 105.783277790952 14</gml:posList>
+<gml:posList>21.0380070631221 105.783277790952 13 21.0380023939825 105.783540430051 13 21.038055760974 105.783488147574 16 21.0380070631221 105.783277790952 13</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -50792,7 +50726,7 @@
 <core:cityObjectMember>
 <bldg:RoofSurface>
 <gen:stringAttribute name="_uuid">
-<gen:value>ec1bf9ba-0979-4b71-b74e-94c00c5add0e</gen:value>
+<gen:value>9d63a4c2-0f06-4726-aff0-d21e670efc19</gen:value>
 </gen:stringAttribute>
 <bldg:lod2MultiSurface>
 <gml:MultiSurface srsName="EPSG:4326" srsDimension="3">
@@ -50838,7 +50772,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.0380112465621 105.78283385925 30 21.0380843815183 105.782835747072 30 21.0379895393235 105.782810884332 25 21.0380112465621 105.78283385925 30</gml:posList>
+<gml:posList>21.0380843815183 105.782835747072 30 21.0379895393235 105.782810884332 25 21.0380112465621 105.78283385925 30 21.0380843815183 105.782835747072 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>
@@ -50847,7 +50781,7 @@
 <gml:Polygon>
 <gml:exterior>
 <gml:LinearRing>
-<gml:posList>21.038107516599 105.782814299142 25 21.0379895393235 105.782810884332 25 21.0380843815183 105.782835747072 30 21.038107516599 105.782814299142 25</gml:posList>
+<gml:posList>21.0380843815183 105.782835747072 30 21.038107516599 105.782814299142 25 21.0379895393235 105.782810884332 25 21.0380843815183 105.782835747072 30</gml:posList>
 </gml:LinearRing>
 </gml:exterior>
 </gml:Polygon>

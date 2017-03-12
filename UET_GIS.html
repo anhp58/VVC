@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+    <meta name="description" content="3D Model University Of Engineer And Technology.">
+    <title>UET GIS</title>
+    <script type="text/javascript" src="../Sandcastle-header.js"></script>
+    <script type="text/javascript" src="../../../ThirdParty/requirejs-2.1.20/require.js"></script>
+    <script type="text/javascript">
+    require.config({
+        baseUrl : '../../../Source',
+        waitSeconds : 60
+    });
+    </script>
+
+</head>
+<body class="sandcastle-loading" data-sandcastle-bucket="bucket-requirejs.html">
+<style>
+    @import url(../templates/bucket.css);
+</style>
+<div id="cesiumContainer" class="fullSize"></div>
+<div id="loadingOverlay"><h1>Loading...</h1></div>
+<div id="toolbar"></div>
+<script id="cesium_sandcastle_script">
+
+function startup(Cesium) 
+{
+
+	// cesium viewer define
+	var viewer = new Cesium.Viewer('cesiumContainer', { 
+		scene3DOnly: true,
+		selectionIndicator : false
+	});
+	
+	// get scene, canvas, camera variables
+	var scene = viewer.scene;
+	var canvas = viewer.canvas;
+	var camera = viewer.camera;
+
+	//------------------------------------
+	
+	var entities = viewer.entities
+
+	entities.add({
+      	position : Cesium.Cartesian3.fromDegrees(105.782330, 21.037449),
+      	model : {
+        uri : 'DHQG.glb'
+    }});
+    entities.add({
+      	position : Cesium.Cartesian3.fromDegrees(105.781831, 21.038946),
+      	model : {
+        uri : 'KhoaPhap.glb'
+    }});
+	//--------------------------------------
+	// set canvas attribute
+	canvas.setAttribute('tabindex', '0'); // needed to put focus on the canvas
+	canvas.onclick = function() {
+		canvas.focus();
+	};
+	//-------------------------Toàn cảnh -------------------------------------
+
+	// Sandcastle.addToolbarButton('Toàn Cảnh ĐHQG', function() 
+	// {	
+	// 	var extent = Cesium.Rectangle.fromDegrees(105.781831,21.038946, 105.782330,21.037449);
+
+	// Cesium.Camera.DEFAULT_VIEW_RECTANGLE = extent;
+	// Cesium.Camera.DEFAULT_VIEW_FACTOR = 0;
+	// 	// viewer.trackedEntity = entities;	
+	// 	// //viewer.zoomTo(viewer.entities);
+	// });
+	//-------------------------- Tham Quan ------------------------------------
+	Sandcastle.addToolbarButton('Tham Quan', function()
+	{
+		
+		var ellipsoid = scene.globe.ellipsoid;
+		
+		// define a global variable for camera control input handler:
+		var handler = new Cesium.ScreenSpaceEventHandler(canvas);
+
+		enableDefaultEventHandler(false);
+		
+		var startMousePosition;
+		var mousePosition;
+		// set flag
+		var flags = {
+			looking : false,
+			moveForward : false,
+			moveBackward : false,
+			moveUp : false,
+			moveDown : false,
+			moveLeft : false,
+			moveRight : false
+		};
+
+		// keyboard pressed:
+		handler.setInputAction(function(movement) {
+			flags.looking = true;
+			mousePosition = startMousePosition = Cesium.Cartesian3.clone(movement.position);
+		}, Cesium.ScreenSpaceEventType.LEFT_DOWN);
+		
+		// mouse moved:
+		//handler.setInputAction(function(movement) {
+		//	mousePosition = movement.endPosition;
+		//}, Cesium.ScreenSpaceEventType.MOUSE_MOVE);
+		
+		// keyboard released:
+		handler.setInputAction(function(position) {
+			flags.looking = false;
+		}, Cesium.ScreenSpaceEventType.LEFT_UP);
+
+		function getFlagForKeyCode(keyCode) {
+			switch (keyCode) {
+			case 'W'.charCodeAt(0):
+				return 'moveForward';
+			case 'S'.charCodeAt(0):
+				return 'moveBackward';
+			case 'Q'.charCodeAt(0):
+				return 'moveUp';
+			case 'E'.charCodeAt(0):
+				return 'moveDown';
+			case 'D'.charCodeAt(0):
+				return 'moveRight';
+			case 'A'.charCodeAt(0):
+				return 'moveLeft';
+			default:
+				return undefined;
+			}
+		}
+
+		document.addEventListener('keydown', function(e) {
+			var flagName = getFlagForKeyCode(e.keyCode);
+			if (typeof flagName !== 'undefined') {
+				flags[flagName] = true;
+			}
+		}, false);
+
+		document.addEventListener('keyup', function(e) {
+			var flagName = getFlagForKeyCode(e.keyCode);
+			if (typeof flagName !== 'undefined') {
+				flags[flagName] = false;
+			}
+		}, false);
+		
+		viewer.clock.onTick.addEventListener(function(clock) {
+
+
+			if (flags.looking) {
+				var width = canvas.clientWidth;
+				var height = canvas.clientHeight;
+
+				// Coordinate (0.0, 0.0) will be where the mouse was clicked.
+				var x = (mousePosition.x - startMousePosition.x) / width;
+				var y = -(mousePosition.y - startMousePosition.y) / height;
+
+				var lookFactor = 0.05;
+				camera.lookRight(x * lookFactor);
+				camera.lookUp(y * lookFactor);
+			}
+			var moveRate = 2;
+			var rotateRate = Math.PI / 120.0;
+			if (flags.moveForward) {
+				camera.moveForward(moveRate);
+			}
+			if (flags.moveBackward) {
+				camera.moveBackward(moveRate);
+			}
+			if (flags.moveUp) {
+				camera.moveUp(moveRate);
+			}
+			if (flags.moveDown) {
+				camera.moveDown(moveRate);
+			}
+			if (flags.moveLeft) {
+				camera.lookLeft(rotateRate);
+			}
+			if (flags.moveRight) {
+				camera.lookRight(rotateRate);
+			}
+		});
+		
+		
+		// set camera to groud view:
+		camera.flyTo({
+			destination : Cesium.Cartesian3.fromDegrees(105.782, 21.0367, 2.0),
+			orientation: {
+				heading : Cesium.Math.toRadians(0.0), // value is 0.0 (north)
+				pitch : Cesium.Math.toRadians(0),    // viewer is parallel to earth surface
+				roll : 0.0                             // default value
+			}
+		});
+	});
+	
+	// enable or disable the default event handlers
+	function enableDefaultEventHandler (isEabled)
+	{
+		scene.screenSpaceCameraController.enableRotate = isEabled;
+		scene.screenSpaceCameraController.enableTranslate = isEabled;
+		scene.screenSpaceCameraController.enableZoom = isEabled;
+		scene.screenSpaceCameraController.enableTilt = isEabled;
+		scene.screenSpaceCameraController.enableLook = isEabled;
+	}
+	
+	//Sandcastle_End
+	Sandcastle.finishedLoading();
+}
+// run startup func
+if (typeof Cesium !== "undefined") {
+    startup(Cesium);
+} else if (typeof require === "function") {
+    require(["Cesium"], startup);
+
+}
+
+
+
+
+</script>
+</body>
+</html>
